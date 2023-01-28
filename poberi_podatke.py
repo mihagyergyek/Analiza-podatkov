@@ -85,7 +85,7 @@ vzorec_seta = re.compile(
     r"""<div class="mb-5"><h4><a href="/set/.*?">(?P<stevilka>[\d|-]+?) (?P<ime>.+?)</a></h4></div>"""
     r""".*?<div class="mb-2"><small class="text-muted mr-5">Theme( / Subtheme)?</small> <a class="a-body" href="/sets/theme/"""
     r""".*?">(?P<tema>.+?)( / (?P<podtema>.+?))?</a></div>.*?<div class="mb-2"><small class="text-muted mr-5">Year</small> (?P<leto>\d+?)</div>"""
-    r""".*?<div class="mb-2"><small class="text-muted mr-5">Pieces( / .+?)?</small> (?P<st_kock>\d+?)( / (?P<st_minifigur>\d\d?))?</div>"""
+    r""".*?<div class="mb-2"><small class="text-muted mr-5">Pieces( / .+?)?</small> (?P<st_kock>[\d|,]+?)( / (?P<st_minifigur>\d\d?))?</div>"""
     r""".*?<div class="mb-2"><small class="text-muted mr-5">Availability</small> (?P<dostopnost>.+?)</div>""",
     flags=re.DOTALL
 )
@@ -134,7 +134,7 @@ def izloci_podatke_seta(blok):
         vrednost = vzorec_vrednost.search(blok)
         komplet['tema'] = komplet['tema'].strip('</a>')
         komplet['leto'] = int(komplet['leto'])
-        komplet['st_kock'] = int(komplet['st_kock'])
+        komplet['st_kock'] = int(komplet['st_kock'].replace(',',''))
         komplet['stevilka'] = float(komplet['stevilka'].replace('-','.'))
         if komplet['podtema']:
             komplet['podtema'] = komplet['podtema'][komplet['podtema'].index('>')+1:]

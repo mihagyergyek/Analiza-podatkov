@@ -606,6 +606,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 2181.0,Infomaniac,Town,Promotional,1997,4,1,Retired,,220.0
 2182.0,Bulk 3.0,HERO Factory,,2011,30,0,Retired,9.99,68.32
 2183.0,Stringer 3.0,HERO Factory,,2011,30,0,Retired,9.99,113.85
+2184.0,XL Bulk Bucket,Basic,,1997,1000,0,Retired,21.99,31.83
 2186.0,Freestyle Set,Freestyle,,1997,73,1,Retired,,30.75
 2187.0,Freestyle Set,Freestyle,,1997,60,1,Retired,,8.79
 2188.0,Freestyle Set,Freestyle,,1997,56,1,Retired,3.07,17.38
@@ -746,6 +747,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 2504.0,Spinjitzu Dojo,Ninjago,Pilot Season,2011,373,3,Retired,39.99,86.93
 2505.0,Garmadon's Dark Fortress,Ninjago,Pilot Season,2011,518,6,Retired,69.99,331.46
 2506.0,Skull Truck,Ninjago,Pilot Season,2011,515,4,Retired,59.99,203.21
+2507.0,Fire Temple,Ninjago,Pilot Season,2011,1180,7,Retired,119.99,271.66
 2508.0,Blacksmith Shop,Ninjago,Pilot Season,2011,189,2,Retired,19.99,79.2
 2509.0,Earth Dragon Defense,Ninjago,Pilot Season,2011,225,2,Retired,34.99,249.0
 2514.0,Activity Friends,Baby,,2000,9,0,Retired,11.43,29.67
@@ -1053,11 +1055,13 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3023.0,Sly Boot's Car,Adventurers,Egypt,1998,24,1,Retired,,5.24
 3024.0,Building Table,Duplo,,1999,21,0,Retired,39.99,141.73
 3025.0,Limited Edition Silver Brick Bucket,Basic,,1998,601,0,Retired,8.79,52.97
+3026.0,Limited Edition Silver Brick Tub,Basic,,1998,1201,0,Retired,17.59,74.34
 3027.0,Limited Edition Silver Freestyle Bucket,Freestyle,,1998,411,0,Retired,21.99,53.04
 3028.0,Limited Edition Silver Freestyle Tub,Freestyle,,1998,836,0,Retired,17.59,147.51
 3029.0,Limited Edition Silver Duplo Bucket,Duplo,Building Sets,1998,71,1,Retired,8.79,57.2
 3030.0,Limited Edition Tub with Silver Brick,Duplo,,1998,141,0,Retired,17.59,45.25
 3032.0,Special Value Bucket,Basic,,1999,600,0,Retired,21.99,30.22
+3033.0,Special Value Blue Tub,Basic,,1998,1200,0,Retired,17.59,91.78
 3036.0,Large Bucket,Duplo,Building Sets,1999,70,1,Retired,8.79,16.54
 3037.0,Strata Tub,Duplo,,1998,140,0,Retired,17.59,229.24
 3038.0,Super Challenge,Technic,Competition,1998,366,2,Retired,61.59,169.44
@@ -1168,6 +1172,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3182.0,Airport,City,Airport,2010,703,5,Retired,89.99,229.11
 3183.0,Stephanie's Cool Convertible,Friends,,2012,130,1,Retired,14.99,24.02
 3184.0,Adventure Camper,Friends,,2012,309,2,Retired,29.99,66.24
+3185.0,Summer Riding Camp,Friends,,2012,1112,4,Retired,99.99,236.17
 3186.0,Emma's Horse Trailer,Friends,,2012,218,1,Retired,24.99,123.73
 3187.0,Butterfly Beauty Shop,Friends,,2012,221,2,Retired,24.99,43.96
 3188.0,Heartlake Vet,Friends,,2012,343,2,Retired,39.99,105.59
@@ -1348,12 +1353,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3439.0,Spy Runner,Town,Promotional,2000,107,2,Retired,8.79,17.11
 3440.0,NBA Jam Session Co-Pack,Sports,Basketball,2003,70,2,Retired,17.59,71.08
 3442.0,LEGOLAND California Truck,Town,Vehicles,1998,106,1,Retired,8.79,79.2
+3443.0,LEGO Mosaic,Basic,Mosaic,2000,2427,0,Retired,26.39,
 3444.0,2x4 Ridge Roof Tiles Steep Sloped Black,Bulk Bricks,,2000,25,0,Retired,4.39,6.63
 3445.0,2x4 Ridge Roof Tiles Steep Sloped Red,Bulk Bricks,,2000,25,0,Retired,4.39,6.16
 3446.0,2x2 Window White,Bulk Bricks,,2000,25,0,Retired,7.03,16.83
 3447.0,1x3x4 Wall Element Transparent Blue,Bulk Bricks,,2000,25,0,Retired,7.03,13.64
 3448.0,1x4x5 Black Window Frames with Clear Panes,Bulk Bricks,,2000,20,0,Retired,7.91,20.03
 3449.0,1x4x6 Black Door and Frames with Transparent Blue Panes,Bulk Bricks,,2000,10,0,Retired,8.79,26.87
+3450.0,Statue of Liberty,Advanced Models,Sculptures,2000,2882,0,Retired,175.12,
 3451.0,Sopwith Camel,Advanced Models,Aircraft,2001,574,0,Retired,43.99,223.25
 3453.0,2x2 Black Bricks,Bulk Bricks,,2000,100,0,Retired,6.15,15.58
 3454.0,2x2 Light Grey Bricks,Bulk Bricks,,2000,100,0,Retired,6.15,11.18
@@ -1476,7 +1483,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3595.0,Scoop at Bobland Bay,Duplo,Bob the Builder,2009,28,1,Retired,17.59,35.19
 3596.0,Muck Can Do It,Duplo,Bob the Builder,2009,39,1,Retired,26.39,40.47
 3597.0,Lofty and Dizzy Hard At Work,Duplo,Bob the Builder,2009,51,1,Retired,39.99,181.08
+3598.0,XXL 2000 Tube,Creator,,2005,2000,0,Retired,11.43,187.61
 3599.0,XXL 250 Tube,Duplo,,2005,250,0,Retired,17.59,
+3600.2,Build Your Own House,Make and Create,,2005,1200,0,Retired,26.39,33.26
 3605.2,Birthday Party,Explore,Together,2002,8,2,Retired,3.51,32.93
 3606.0,Go-Kart Transport,Explore,Together,2002,4,1,Retired,3.51,13.18
 3607.0,Police Action,Explore,Together,2002,7,1,Retired,3.51,12.65
@@ -1509,6 +1518,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3699.0,Happy Constructor,Explore,Together,2003,9,1,Retired,8.79,54.82
 3700.0,Emergency Vehicles Set,Explore,Together,2003,9,3,Retired,17.59,151.08
 3722.0,Treasure Tomb,Adventurers,Egypt,1998,164,3,Retired,17.59,
+3723.0,LEGO Mini-Figure,Advanced Models,Sculptures,2000,1849,0,Retired,123.19,963.32
+3724.0,LEGO Dragon,Advanced Models,Sculptures,2001,1530,0,Retired,87.12,
 3725.0,1x2 Light Grey Bricks,Bulk Bricks,,2000,100,0,Retired,5.27,16.45
 3726.0,1x2 Dark Grey Bricks,Bulk Bricks,,2000,100,0,Retired,5.27,14.45
 3727.0,1x2 Tan Bricks,Bulk Bricks,,2000,100,0,Retired,5.27,5.78
@@ -1540,6 +1551,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 3755.0,2x4 Roof Tiles Steep Sloped Brown,Bulk Bricks,,2001,50,0,Retired,7.03,11.64
 3756.0,2x4 Ridge Roof Tiles Steep Sloped Brown,Bulk Bricks,,2001,25,0,Retired,4.39,7.66
 3758.0,Anniversary Bucket,Basic,,1998,600,0,Retired,8.79,34.23
+3759.0,Anniversary Tub,Basic,,1998,1200,0,Retired,17.59,77.17
 3760.0,Anniversary Bucket,Freestyle,,1998,410,0,Retired,21.99,
 3761.0,Anniversary Tub,Freestyle,,1998,835,0,Retired,34.99,86.12
 3762.0,Limited Edition Duplo Bucket,Duplo,Building Sets,1998,70,1,Retired,8.79,
@@ -1630,6 +1642,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4002.0,Riptide Racer,Boats,,1996,54,1,Retired,11.43,89.92
 4011.0,Cabin Cruiser,Boats,,1991,90,2,Retired,17.38,179.79
 4012.0,Wave Cops,Boats,,1996,99,2,Retired,17.59,65.03
+4013.0,Create and Imagine,Creator,,2003,1000,0,Retired,26.39,64.54
 4014.0,Creator Exclusive,Creator,,2003,500,0,Retired,17.59,50.17
 4016.0,Racer,Creator,,2001,21,0,Retired,1.75,13.2
 4017.0,Sea Helicopter,Creator,,2001,13,0,Retired,1.75,9.5
@@ -1724,6 +1737,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4105.2,50th Anniversary Bucket,Make and Create,,2005,500,0,Retired,8.79,77.73
 4105.3,Red Bucket,Make and Create,,2006,487,1,Retired,8.79,76.01
 4106.0,Creator Bucket,Creator,,2002,500,0,Retired,8.79,111.35
+4107.0,Build Your Dreams,Creator,,2002,1000,0,Retired,17.59,67.46
 4108.0,T-Junction Road Plates,Town,Accessories,2002,2,0,Retired,6.15,25.72
 4109.0,Curved Road Plates,Town,Accessories,2002,2,0,Retired,6.15,19.36
 4110.0,Straight Road Plates,Town,Accessories,2002,2,0,Retired,6.15,96.77
@@ -1787,6 +1801,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4192.0,Fountain of Youth,Pirates of the Caribbean,On Stranger Tides,2011,125,4,Retired,26.99,115.17
 4193.0,The London Escape,Pirates of the Caribbean,On Stranger Tides,2011,462,5,Retired,59.99,131.82
 4194.0,Whitecap Bay,Pirates of the Caribbean,On Stranger Tides,2011,745,6,Retired,89.99,180.23
+4195.0,Queen Anne's Revenge,Pirates of the Caribbean,On Stranger Tides,2011,1094,9,Retired,129.99,752.89
 4200.0,Mining 4x4,City,Mining,2012,102,1,Retired,9.99,17.49
 4201.0,Loader and Tipper,City,Mining,2012,139,2,Retired,14.99,45.95
 4202.0,Mining Truck,City,Mining,2012,269,1,Retired,19.99,50.26
@@ -1822,6 +1837,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4250.0,Creator Bulk,Creator,,2001,234,0,Retired,21.99,120.2
 4254.0,Play Table with Cars and Planes,Freestyle,,1998,305,2,Retired,13.19,77.54
 4255.0,Backpack Set Blue,Freestyle,,1998,400,0,Retired,21.99,63.73
+4258.0,Imagination Celebration Playscape,Freestyle,,1998,1010,0,Retired,34.99,
 4259.0,Value Bucket XL,Freestyle,,1998,651,0,Retired,17.59,
 4267.0,Blue Bucket,Freestyle,,1998,468,0,Retired,17.59,39.2
 4269.0,Value Bucket,Freestyle,,1998,316,0,Retired,17.59,
@@ -1830,6 +1846,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4274.0,Play Desk Blue,Freestyle,,1998,509,1,Retired,21.99,64.37
 4275.0,Basic Blue Bucket,Basic,,1998,400,0,Retired,11.43,44.81
 4276.0,Build and Store Chest,Freestyle,,1998,801,0,Retired,26.39,
+4278.0,Large Tub,Creator,,2003,1000,0,Retired,26.39,69.64
+4279.0,Creator Strata Red,Creator,,2003,1000,0,Retired,26.39,65.58
 4280.0,Trial Size Bag,Freestyle,,1998,39,0,Retired,2.63,10.56
 4281.0,Trial Classic Bag 3+,Classic,,1999,25,0,Retired,1.75,18.28
 4282.0,Trial Classic Bag 5+,Classic,,1999,37,0,Retired,1.75,17.6
@@ -1871,10 +1889,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4402.0,Sea Riders,Creator,Designer Set,2003,547,0,Retired,39.99,127.6
 4403.0,Air Blazers,Creator,Designer Set,2003,702,0,Retired,43.99,110.29
 4404.0,Land Busters,Creator,Designer Set,2003,770,0,Retired,52.79,109.31
+4405.0,Large Creator Tub,Creator,,2003,1305,0,Retired,26.39,64.54
 4406.0,Buildings,Creator,,2004,506,0,Retired,26.39,65.59
 4407.0,Transportation,Creator,,2004,301,0,Retired,17.59,37.43
 4408.0,Animals,Creator,,2004,202,0,Retired,8.79,32.1
 4410.0,Build and Create,Creator,,2004,500,0,Retired,8.79,34.43
+4411.0,Blue Strata XXL,Creator,,2004,1200,0,Retired,17.59,122.48
 4412.0,Olympia Bucket,Creator,,2004,200,0,Retired,11.43,35.45
 4413.0,Arachno Pod ,Creator,X-Pod,2005,57,0,Retired,3.07,17.23
 4414.0,Creator Half Tub Blue,Creator,,2004,500,0,Retired,11.43,69.0
@@ -1882,8 +1902,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4416.0,Robo Pod,Creator,X-Pod,2006,65,0,Retired,3.07,8.31
 4417.0,Aero Pod,Creator,X-Pod,2006,60,0,Retired,3.07,10.56
 4418.0,Dino Pod,Creator,X-Pod,2006,55,0,Retired,3.07,13.62
+4421.0,Big LEGO Box 1000,Creator,,2005,1000,0,Retired,17.59,58.73
 4422.0,Handy Box,Duplo,Building Sets,2005,120,0,Retired,13.19,31.7
 4423.0,Handy Box,Creator,,2005,800,0,Retired,13.19,41.29
+4425.0,Better Building More Fun,Creator,,2004,2000,0,Retired,26.39,55.47
 4427.0,Fire ATV,City,Forest Fire,2012,50,1,Retired,4.99,8.79
 4428.0,City Advent Calendar,City,Seasonal,2012,248,7,Retired,19.99,58.97
 4429.0,Helicopter Rescue,City,Medical,2012,425,4,Retired,49.99,87.57
@@ -1939,6 +1961,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4480.0,Jabba's Palace,Star Wars,Episode VI,2003,231,6,Retired,26.39,264.5
 4481.0,Hailfire Droid,Star Wars,Episode II,2003,681,0,Retired,43.99,212.96
 4482.0,AT-TE,Star Wars,Episode II,2003,658,4,Retired,61.59,484.11
+4483.0,AT-AT,Star Wars,Episode V,2003,1068,4,Retired,87.99,360.61
 4484.0,X-Wing Fighter & TIE Advanced,Star Wars,Mini Building Set,2003,76,0,Retired,3.51,22.67
 4485.0,Sebulba's Podracer & Anakin's Podracer,Star Wars,Mini Building Set,2003,72,0,Retired,3.51,9.57
 4486.0,AT-ST & Snowspeeder,Star Wars,Mini Building Set,2003,76,0,Retired,3.51,20.37
@@ -1951,7 +1974,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4493.0,Sith Infiltrator,Star Wars,Mini Building Set,2004,55,0,Retired,6.15,20.91
 4494.0,Imperial Shuttle,Star Wars,Mini Building Set,2004,82,0,Retired,6.15,18.9
 4495.0,AT-TE,Star Wars,Mini Building Set,2004,63,0,Retired,6.15,33.83
+4496.0,Fun with Building Tub,Creator,,2004,1000,0,Retired,17.59,42.72
+4496.2,50th Anniversary Tub,Creator,,2005,1000,0,Retired,17.59,133.83
 4496.3,Fun With Building Tub,Make and Create,,2006,805,2,Retired,21.99,143.8
+4497.0,Pretend and Create,Creator,,2004,1000,0,Retired,17.59,104.35
 4500.0,Rebel Snowspeeder,Star Wars,Episode V,2004,214,3,Retired,17.59,131.99
 4501.0,Mos Eisley Cantina,Star Wars,Episode IV,2004,193,5,Retired,26.39,254.14
 4502.0,X-wing Fighter,Star Wars,Episode V,2004,563,3,Retired,43.99,312.22
@@ -2065,6 +2091,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4627.0,Fun With Bricks,Duplo,,2012,85,0,Retired,24.99,75.6
 4628.0,Fun With Bricks,Bricks and More,,2012,600,0,Retired,24.99,31.42
 4629.0,Build & Play Box,Duplo,Building Sets,2012,150,0,Retired,39.99,70.21
+4630.0,Build and Play Box,Make and Create,,2012,1000,0,Retired,39.99,185.03
 4631.0,My First Build,Duplo,My First,2012,59,1,Retired,24.99,32.81
 4632.0,Building Plates,Duplo,Accessories,2012,3,0,Retired,9.99,15.62
 4635.0,Fun With Vehicles,Bricks and More,,2012,525,2,Retired,29.99,34.96
@@ -2092,6 +2119,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4667.0,Loadin' Digger,4 Juniors,City,2004,29,1,Retired,7.03,42.7
 4668.0,Outrigger Construction Crane,4 Juniors,City,2004,61,2,Retired,11.43,80.36
 4669.0,Turbo-Charged Police Boat,4 Juniors,City,2004,52,2,Retired,17.59,45.13
+4679.0,LEGO Strata Blue,Make and Create,,2005,1500,0,Retired,17.59,129.56
+4679.2,Bricks and Creations,Creator,,2004,1531,0,Retired,17.59,220.0
 4680.0,Traffic Patrol,Duplo,LEGO Ville,2004,3,1,Retired,2.63,11.52
 4681.0,Fire Truck,Duplo,LEGO Ville,2004,18,2,Retired,11.43,65.35
 4683.0,Pony and Cart,Duplo,LEGO Ville,2004,5,1,Retired,4.39,6.67
@@ -2208,6 +2237,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4839.0,Duplo Bucket,Duplo,Building Sets,2000,69,0,Retired,15.83,16.28
 4840.0,The Burrow,Harry Potter,Half-Blood Prince,2010,568,6,Retired,69.99,186.49
 4841.0,Hogwarts Express,Harry Potter,,2010,646,5,Retired,79.99,194.41
+4842.0,Hogwarts Castle,Harry Potter,,2010,1290,11,Retired,129.99,247.01
 4850.0,Spider-Man's First Chase,Spider-Man,,2003,191,3,Retired,17.59,266.07
 4851.0,Spider-Man and Green Goblin Origins,Spider-Man,,2003,218,6,Retired,26.39,483.37
 4852.0,Spider-Man vs. Green Goblin -- The final showdown,Spider-Man,,2003,360,4,Retired,43.99,733.63
@@ -2261,6 +2291,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4916.0,Mini Animals,Creator,,2007,77,0,Retired,4.99,8.77
 4917.0,Mini Robots,Creator,,2007,77,0,Retired,4.39,23.47
 4918.0,Mini Flyers,Creator,,2007,78,0,Retired,4.99,8.8
+4919.0,LEGO Deluxe,Creator,,2005,1500,0,Retired,17.59,223.26
 4920.0,The Rapid Rider,Rock Raiders,,1999,39,1,Retired,3.51,43.91
 4924.0,Advent Calendar,Creator,Seasonal,2004,335,0,Retired,13.19,39.59
 4930.0,The Rock Raiders,Rock Raiders,,1999,46,5,Retired,5.27,77.4
@@ -2280,8 +2311,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4949.0,Blue Buggy,Racers,Tiny Turbos,2006,24,0,Retired,,33.82
 4950.0,The Loader-Dozer,Rock Raiders,,1999,90,1,Retired,17.59,128.0
 4953.0,Fast Flyers,Creator,,2007,312,0,Retired,17.59,62.74
+4954.0,Model Town House,Creator,,2007,1174,0,Retired,61.59,310.14
 4955.0,Big Rig,Creator,,2007,550,0,Retired,26.39,130.72
 4956.0,House,Creator,,2007,731,0,Retired,43.99,186.76
+4957.0,Ferris Wheel,Creator,,2007,1063,0,Retired,61.59,257.89
 4958.0,Monster Dino,Creator,,2007,792,0,Retired,79.19,263.94
 4960.0,Giant Zoo,Duplo,LEGO Ville,2006,126,5,Retired,61.59,205.25
 4961.0,Fun Zoo,Duplo,LEGO Ville,2006,30,0,Retired,14.07,64.3
@@ -2316,6 +2349,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4994.0,Fierce Creatures,Creator,,2008,193,0,Retired,11.43,45.05
 4995.0,Cargo Copter,Creator,,2008,272,0,Retired,17.59,28.56
 4996.0,Beach House,Creator,,2008,522,0,Retired,32.99,109.4
+4997.0,Transport Ferry,Creator,,2008,1279,0,Retired,79.99,232.74
 4998.0,Stegosaurus,Creator,,2008,731,0,Retired,43.99,97.27
 4999.0,Vestas Power Plant Wind Turbine,City,,2008,815,3,Retired,,333.19
 5008.0,Element Separator Grey,Service Packs,,1990,1,0,Retired,1.75,7.35
@@ -2613,6 +2647,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5487.0,Fun With LEGO Bricks,Bricks and More,,2009,700,0,Retired,26.39,34.07
 5488.0,Duplo Farm Building Set,Duplo,Building Sets,2009,102,2,Retired,39.99,136.81
 5489.0,Ultimate LEGO Vehicle Building Set,Bricks and More,,2009,675,1,Retired,44.99,53.63
+5491.0,XXL 2000,Make and Create,,2006,2000,0,Retired,39.99,177.26
+5491.2,XXL 2000 Barrel,Make and Create,,2007,2000,0,Retired,17.59,190.08
 5492.0,Limited Edition Green Brick Tub,Duplo,Value Packs,2006,121,0,Retired,17.59,
 5493.0,Emergency Rescue Box,Make and Create,,2007,705,0,Retired,26.39,71.33
 5494.0,Rolling Duck,Explore,Imagination,2003,4,0,Retired,,3.56
@@ -2624,15 +2660,19 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5508.0,LEGO Deluxe Brick Box,Bricks and More,,2010,704,2,Retired,44.99,458.08
 5509.0,Duplo Basic Bricks,Duplo,,2010,45,0,Retired,12.99,78.46
 5511.0,XXL Box,Duplo,Building Sets,2010,201,0,Retired,59.99,76.52
+5512.0,LEGO XXL Box,Bricks and More,,2010,1600,0,Retired,59.99,77.79
 5513.0,Duplo Tubular Chest,Duplo,,2004,113,2,Retired,39.99,
 5514.0,Fun Building Set,Duplo,Building Sets,2007,42,0,Retired,11.43,
 5515.0,Fun Building with LEGO Bricks,Make and Create,,2007,240,0,Retired,10.55,15.32
 5516.0,XXL Canister,Duplo,,2007,215,0,Retired,39.99,59.46
+5517.0,XXL 1800,Make and Create,,2006,1800,0,Retired,17.59,
 5518.0,Duplo Creative Building,Duplo,Building Sets,2007,74,0,Retired,17.59,
 5519.0,LEGO Creative Building,Make and Create,,2007,481,0,Retired,21.99,71.75
 5521.0,Sea Jet,Model Team,,1993,401,0,Retired,32.11,188.17
 5522.0,Golden Anniversary Set,Bricks and More,,2008,700,0,Retired,39.99,53.61
 5524.0,Airport,Factory,,2005,607,0,Retired,39.99,78.28
+5525.0,Amusement Park,Factory,,2005,1344,0,Retired,61.59,87.32
+5526.0,Skyline,Factory,,2005,2747,0,Retired,114.39,824.62
 5527.0,Duplo Canister Green,Duplo,,2007,80,0,Retired,17.59,
 5528.0,LEGO Canister Red,Make and Create,,2007,700,0,Retired,17.59,39.08
 5529.0,Basic Bricks,Bricks and More,,2010,325,0,Retired,12.99,21.8
@@ -2660,6 +2700,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5560.0,Large Pink Brick Box,Bricks and More,,2009,402,1,Retired,27.99,34.94
 5561.0,Big Foot 4x4,Model Team,,1997,761,0,Retired,77.44,382.03
 5563.0,Racing Truck,Model Team,,1999,788,0,Retired,70.39,422.28
+5571.0,Giant Truck,Model Team,,1996,1757,0,Retired,122.32,
 5572.0,LEGO DUPLO Build & Play,Duplo,,2008,100,1,Retired,39.59,58.66
 5573.0,LEGO Build and Play,Bricks and More,,2008,643,1,Retired,39.59,90.01
 5574.0,Basic Bricks,Bricks and More,,2008,280,0,Retired,11.43,13.62
@@ -2675,6 +2716,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5586.0,Duplo Basic Bricks with Fun Figures,Duplo,,2009,50,0,Retired,13.19,39.34
 5587.0,Basic Bricks with Fun Figures,Bricks and More,,2009,390,0,Retired,17.59,39.6
 5588.0,Duplo Giant Box,Duplo,Building Sets,2009,201,0,Retired,52.79,106.53
+5589.0,LEGO Giant Box,Bricks and More,,2009,1600,0,Retired,52.79,54.37
+5590.0,Whirl and Wheel Super Truck,Model Team,,1990,1063,0,Retired,70.39,957.86
+5591.0,Mach II Red Bird Rig,Model Team,,1994,1172,0,Retired,96.79,488.95
 5592.0,My First Plane,Duplo,LEGO Ville,2009,8,2,Retired,13.99,24.46
 5593.0,Circus,Duplo,LEGO Ville,2008,61,3,Retired,43.99,138.05
 5594.0,Cargo Plane,Duplo,LEGO Ville,2009,28,2,Retired,43.99,173.52
@@ -2844,6 +2888,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5890.0,Pretty Wishes Playhouse,Belville,,1994,213,4,Retired,87.12,228.07
 5891.0,Apple Tree House,Creator,,2010,539,0,Retired,39.99,100.81
 5892.0,Sonic Boom,Creator,,2010,539,0,Retired,49.99,91.63
+5893.0,Off-Road Power,Creator,,2010,1061,0,Retired,69.99,99.47
 5895.0,Villa Belville,Belville,,1996,312,4,Retired,87.99,96.58
 5898.0,Cars Building Set,Bricks and More,,2010,139,1,Retired,7.99,28.0
 5899.0,House Building Set,Bricks and More,,2010,134,2,Retired,7.99,14.1
@@ -2991,6 +3036,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 6109.0,Sea Creeper,Aquazone,Stingrays,1998,79,1,Retired,8.79,63.09
 6110.0,Solo Sub,Aquazone,Hydronauts,1998,25,1,Retired,3.51,30.14
 6111.0,Street Race 4-in-1,Racers,Tiny Turbos,2006,198,0,Retired,11.43,34.69
+6112.0,World of Bricks 1000 Elements,Make and Create,,2006,1000,0,Retired,17.59,22.07
+6112.2,LEGO World of Bricks,Make and Create,,2007,1004,0,Retired,17.59,22.08
 6114.0,Creator 200 Plus 40 Special Elements,Make and Create,,2006,242,0,Retired,11.43,35.2
 6114.2,Creator 200 Plus 40 Special Elements,Make and Create,,2007,242,0,Retired,11.43,35.2
 6115.0,Shark Scout,Aquazone,Aquasharks,1995,28,1,Retired,3.07,36.56
@@ -3065,6 +3112,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 6208.0,B-wing Fighter,Star Wars,Episode VI,2006,435,2,Retired,34.99,132.07
 6209.0,Slave I,Star Wars,Episode V,2006,537,4,Retired,64.99,329.1
 6210.0,Jabba's Sail Barge,Star Wars,Episode VI,2006,781,8,Retired,89.99,416.81
+6211.0,Imperial Star Destroyer,Star Wars,Episode IV,2006,1367,9,Retired,87.99,395.65
 6212.0,X-wing Fighter,Star Wars,Episode V,2006,437,6,Retired,43.99,125.42
 6216.0,Jawblade,HERO Factory,,2012,45,0,Retired,9.99,60.05
 6217.0,Surge,HERO Factory,,2012,39,0,Retired,9.99,55.62
@@ -3289,6 +3337,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 6539.0,Victory Cup Racers,Town,Racing,1993,458,4,Retired,36.95,167.17
 6540.0,Pier Police,Town,Police,1991,352,4,Retired,38.72,348.33
 6541.0,Intercoastal Seaport,Town,Boats,1991,545,5,Retired,56.1,698.46
+6542.0,Launch & Load Seaport,Town,Boats,1991,1080,7,Retired,78.76,
 6543.0,Sail N' Fly Marina,Town,Boats,1994,709,7,Retired,74.79,494.12
 6544.0,Shuttle Transcon 2,Town,Launch Command,1995,342,3,Retired,33.88,170.9
 6545.0,Search N' Rescue,Town,Police,1996,286,3,Retired,23.32,194.45
@@ -3410,6 +3459,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 6748.0,Boulder Cliff Canyon,Western,Indians,1997,256,6,Retired,39.99,351.12
 6751.0,Fiery Legend,Creator,,2009,479,0,Retired,34.99,61.26
 6752.0,Fire Rescue,Creator,,2009,771,0,Retired,49.99,107.67
+6753.0,Highway Transport,Creator,,2009,1294,0,Retired,79.99,153.15
 6754.0,Family Home,Creator,,2009,976,0,Retired,62.99,132.45
 6755.0,Sheriff's Lock-Up,Western,Cowboys,1996,176,4,Retired,24.99,457.99
 6758.0,Grow Caterpillar Grow!,Duplo,,2012,17,0,Retired,14.99,38.71
@@ -3545,6 +3595,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7016.0,Viking Boat vs. the Wyvern Dragon,Vikings,,2005,112,2,Retired,8.79,84.99
 7017.0,Viking Catapult vs. the Nidhogg Dragon ,Vikings,,2005,225,2,Retired,17.59,186.38
 7018.0,Viking Ship vs. the Midgard Serpent,Vikings,,2005,578,6,Retired,43.99,341.61
+7019.0,Viking Fortress vs. the Fafnir Dragon,Vikings,,2005,1019,6,Retired,61.59,570.42
 7020.0,Army of Vikings with Heavy Artillery Wagon,Vikings,,2006,312,7,Retired,26.39,126.79
 7021.0,Viking Double Catapault vs. the Armored Ofnir Dragon,Vikings,,2006,505,3,Retired,39.99,164.27
 7029.0,Skeleton Ship Attack,Castle,Fantasy Era,2007,628,7,Retired,61.59,546.78
@@ -3662,6 +3713,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7188.0,King's Carriage Ambush,Castle,Kingdoms,2011,286,4,Retired,39.99,87.99
 7189.0,Mill Village Raid,Castle,Kingdoms,2011,663,6,Retired,69.99,392.42
 7190.0,Millennium Falcon,Star Wars,Episode IV,2000,663,6,Retired,87.99,750.93
+7191.0,X-wing Fighter,Star Wars,Ultimate Collector Series,2000,1300,1,Retired,131.99,926.58
+7194.0,Yoda,Star Wars,Ultimate Collector Series,2002,1075,0,Retired,87.99,461.08
 7195.0,Ambush In Cairo,Indiana Jones,Raiders of the Lost Ark,2009,79,4,Retired,9.67,71.79
 7196.0,Chauchilla Cemetery Battle,Indiana Jones,Kingdom of the Crystal Skull,2009,187,5,Retired,17.59,114.33
 7197.0,Venice Canal Chase,Indiana Jones,Last Crusade,2009,420,4,Retired,39.99,149.47
@@ -3959,6 +4012,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7659.0,Imperial Landing Craft,Star Wars,Episode IV,2007,471,5,Retired,43.99,131.73
 7660.0,Naboo N-1 Starfighter with Vulture Droid,Star Wars,Episode I,2007,280,3,Retired,26.39,107.8
 7661.0,Jedi Starfighter with Hyperdrive Booster Ring,Star Wars,Episode III,2007,575,2,Retired,66.99,278.35
+7662.0,Trade Federation MTT,Star Wars,Episode I,2007,1330,21,Retired,87.99,793.76
 7663.0,Sith Infiltrator,Star Wars,Episode I,2007,310,1,Retired,26.39,88.0
 7664.0,TIE Crawler,Star Wars,Legends,2007,548,2,Retired,43.99,134.53
 7665.0,Republic Cruiser,Star Wars,Episode I,2007,919,5,Retired,99.99,465.52
@@ -3972,6 +4026,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7673.0,MagnaGuard Starfighter,Star Wars,The Clone Wars,2008,431,2,Retired,45.99,147.68
 7674.0,V-19 Torrent,Star Wars,The Clone Wars,2008,471,1,Retired,64.99,252.95
 7675.0,AT-TE Walker,Star Wars,The Clone Wars,2008,798,6,Retired,68.49,439.93
+7676.0,Republic Attack Gunship,Star Wars,The Clone Wars,2008,1034,7,Retired,139.99,618.23
 7678.0,Droid Gunship,Star Wars,The Clone Wars,2008,329,3,Retired,26.39,97.77
 7679.0,Republic Fighter Tank,Star Wars,The Clone Wars,2008,592,2,Retired,49.99,247.31
 7680.0,The Twilight,Star Wars,The Clone Wars,2008,882,4,Retired,99.99,263.45
@@ -4001,6 +4056,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7706.0,Mobile Defense Tank,Exo-Force,Original,2006,365,2,Retired,26.39,196.99
 7707.0,Striking Venom,Exo-Force,Original,2006,646,6,Retired,43.99,160.74
 7708.0,Uplink,Exo-Force,Original,2006,69,1,Retired,4.39,34.98
+7709.0,Sentai Headquarters,Exo-Force,Original,2006,1448,8,Retired,87.99,198.07
 7711.0,Sentry,Exo-Force,Original,2006,78,1,Retired,4.39,36.11
 7712.0,Supernova,Exo-Force,Original,2006,287,1,Retired,17.59,106.25
 7713.0,Bridge Walker and White Lightning,Exo-Force,Original,2006,657,4,Retired,43.99,428.12
@@ -4044,6 +4100,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7780.0,The Batboat Hunt for Killer Croc,Batman,,2006,188,2,Retired,17.59,225.59
 7781.0,The Batmobile Two-Face's Escape,Batman,,2006,386,3,Retired,26.39,275.43
 7782.0,The Batwing The Joker's Aerial Assault,Batman,,2006,523,3,Retired,43.99,324.72
+7783.0,The Batcave The Penguin and Mr. Freeze's Invasion,Batman,,2006,1071,7,Retired,79.19,830.13
+7784.0,The Batmobile Ultimate Collectors' Edition,Batman,,2006,1045,0,Retired,61.59,405.09
 7785.0,Arkham Asylum,Batman,,2006,860,7,Retired,70.39,445.48
 7786.0,The Batcopter The Chase for Scarecrow,Batman,,2007,293,2,Retired,26.39,348.92
 7787.0,The Bat-Tank The Riddler and Bane's Hideout,Batman,,2007,645,3,Retired,43.99,466.77
@@ -4051,6 +4109,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7790.0,Standard Starter Set,Duplo,,2006,75,1,Retired,17.59,30.47
 7792.0,Deluxe Starter Set,Duplo,,2006,120,2,Retired,39.99,
 7793.0,Standard Starter Set,Make and Create,,2006,487,1,Retired,17.59,25.97
+7795.0,Deluxe Starter Set,Make and Create,,2006,1110,3,Retired,39.99,
 7797.0,Bi-Plane,Creator,,2008,37,0,Retired,,8.25
 7798.0,Stegosaurus,Creator,,2008,47,0,Retired,,9.12
 7799.0,Cargo Copter,Creator,,2008,38,0,Retired,,3.6
@@ -4156,6 +4215,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 7959.0,Geonosian Starfighter,Star Wars,The Clone Wars,2011,155,3,Retired,39.99,123.63
 7961.0,Darth Maul's Sith Infiltrator,Star Wars,Episode I,2011,479,4,Retired,69.99,132.0
 7962.0,Anakin Skywalker and Sebulba's Podracers,Star Wars,Episode I,2011,810,5,Retired,99.99,167.02
+7964.0,Republic Frigate,Star Wars,The Clone Wars,2011,1015,5,Retired,129.99,450.58
+7965.0,Millennium Falcon,Star Wars,Episode IV,2011,1254,6,Retired,149.99,206.17
 7967.0,Fast,Racers,Power Racers,2010,69,0,Retired,11.99,19.82
 7968.0,Strong,Racers,Power Racers,2010,91,0,Retired,11.99,12.65
 7969.0,XL Bucket,Duplo,Building Sets,2001,106,0,Retired,19.35,
@@ -4205,9 +4266,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8036.0,Separatist Shuttle,Star Wars,The Clone Wars,2009,259,5,Retired,36.99,105.59
 8037.0,Anakin's Y-wing Starfighter,Star Wars,The Clone Wars,2009,570,3,Retired,69.99,215.42
 8038.0,The Battle of Endor,Star Wars,Episode VI,2009,890,12,Retired,99.99,264.0
+8039.0,Venator-Class Republic Attack Cruiser,Star Wars,The Clone Wars,2009,1170,5,Retired,139.99,516.92
 8041.0,Race Truck,Technic,,2010,608,0,Retired,49.99,105.59
 8042.0,Multi Model Pneumatic Set,Technic,Universal,1993,230,0,Retired,33.88,109.97
 8042.0,Multi Model Pneumatic Set,Technic,Universal,1993,230,0,Retired,33.88,109.97
+8043.0,Motorized Excavator,Technic,,2010,1123,0,Retired,169.99,527.09
 8045.0,Mini Telehandler,Technic,,2010,117,0,Retired,9.99,29.85
 8046.0,Helicopter,Technic,,2010,152,0,Retired,16.99,33.13
 8047.0,Compact Excavator,Technic,,2010,252,0,Retired,22.99,62.86
@@ -4215,6 +4278,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8049.0,Tractor with Log Loader,Technic,,2010,525,0,Retired,59.99,197.55
 8051.0,Motorbike,Technic,,2010,467,0,Retired,42.99,197.69
 8052.0,Container Truck,Technic,,2010,686,0,Retired,69.99,261.15
+8053.0,Mobile Crane,Technic,,2010,1289,0,Retired,99.99,220.0
 8056.0,Monster Crab Clash,Atlantis,,2010,68,1,Retired,7.5,30.32
 8057.0,Wreck Raider,Atlantis,,2010,64,2,Retired,9.9,15.76
 8058.0,Guardian of the Deep,Atlantis,,2010,144,1,Retired,14.99,43.99
@@ -4222,12 +4286,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8060.0,Typhoon Turbo Sub,Atlantis,,2010,197,2,Retired,24.99,35.19
 8061.0,Gateway of the Squid,Atlantis,,2010,354,3,Retired,39.99,80.59
 8062.0,Briefcase Set,Technic,Universal,1994,403,0,Retired,59.84,217.15
+8063.0,Tractor with Trailer,Technic,,2009,1100,0,Retired,87.99,267.85
 8064.0,Universal Motor Set,Technic,Universal,1990,219,0,Retired,48.39,107.8
 8065.0,Mini Container Truck,Technic,,2011,119,0,Retired,9.99,21.1
 8066.0,Off-Roader,Technic,,2011,141,0,Retired,14.99,26.84
 8067.0,Mini Mobile Crane,Technic,,2011,292,0,Retired,19.99,77.63
 8068.0,Rescue Helicopter,Technic,,2011,408,0,Retired,29.99,65.19
 8069.0,Backhoe Loader,Technic,,2011,609,0,Retired,49.99,125.29
+8070.0,Super Car,Technic,,2011,1281,0,Retired,109.99,218.18
 8071.0,Bucket Truck,Technic,,2011,593,0,Retired,39.99,76.16
 8072.0,Sea Jet,Atlantis,,2010,23,1,Retired,2.99,6.33
 8073.0,Manta Warrior,Atlantis,,2010,13,1,Retired,2.99,6.37
@@ -4235,6 +4301,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8075.0,Neptune Carrier,Atlantis,,2010,476,4,Retired,59.99,65.25
 8076.0,Deep Sea Striker,Atlantis,,2010,260,1,Retired,19.99,34.79
 8077.0,Atlantis Exploration HQ,Atlantis,,2010,473,3,Retired,49.99,131.1
+8078.0,Portal of Atlantis,Atlantis,,2010,1007,7,Retired,99.99,150.04
 8079.0,Shadow Snapper,Atlantis,,2010,246,1,Retired,29.99,49.14
 8080.0,Undersea Explorer,Atlantis,,2010,364,1,Retired,39.99,76.58
 8081.0,Extreme Cruiser,Technic,,2011,590,0,Retired,49.99,183.92
@@ -4254,6 +4321,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8095.0,General Grievous' Starfighter,Star Wars,The Clone Wars,2010,454,4,Retired,49.99,103.45
 8096.0,Emperor Palpatine's Shuttle,Star Wars,Episode III,2010,592,4,Retired,69.99,131.99
 8097.0,Slave I,Star Wars,Episode V,2010,573,3,Retired,89.99,188.71
+8098.0,Clone Turbo Tank,Star Wars,The Clone Wars,2010,1141,6,Retired,129.99,380.84
 8099.0,Midi-Scale Imperial Star Destroyer,Star Wars,Episode IV,2010,423,0,Retired,39.99,96.8
 8100.0,Cyclone Defender,Exo-Force,Golden City,2007,92,1,Retired,7.03,33.77
 8101.0,Claw Crusher,Exo-Force,Golden City,2007,99,1,Retired,7.03,35.2
@@ -4263,6 +4331,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8105.0,Iron Condor,Exo-Force,Golden City,2007,141,1,Retired,13.19,33.39
 8106.0,Aero Booster,Exo-Force,Golden City,2007,312,1,Retired,26.39,124.04
 8107.0,Fight for the Golden Tower,Exo-Force,Golden City,2007,571,2,Retired,43.99,118.06
+8108.0,Mobile Devastator,Exo-Force,Golden City,2007,1009,13,Retired,79.19,276.57
+8109.0,Flatbed Truck,Technic,,2011,1115,0,Retired,89.99,395.59
+8110.0,Mercedes-Benz Unimog U 400,Technic,,2011,2048,0,Retired,189.99,255.01
 8111.0,River Dragon,Exo-Force,Deep Jungle,2008,108,1,Retired,7.03,34.94
 8112.0,Arachnoid Stalker,Exo-Force,Deep Jungle,2008,131,1,Retired,7.03,41.29
 8113.0,Assault Tiger,Exo-Force,Deep Jungle,2008,163,1,Retired,13.19,67.8
@@ -4296,6 +4367,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8143.0,Ferrari F430 Challenge 1:17,Racers,Ferrari,2007,690,0,Retired,43.99,170.9
 8144.0,Ferrari 248 F1 Team Michael Schumacher Edition,Racers,Ferrari,2007,726,8,Retired,61.59,355.01
 8144.2,Ferrari 248 F1 Team Kimi Räikkönen Edition,Racers,Ferrari,2007,726,8,Retired,61.59,372.24
+8145.0,Ferrari 599 GTB Fiorano 1:10,Racers,Ferrari,2007,1327,0,Retired,96.79,900.24
 8146.0,Nitro Muscle,Racers,Power Racers,2007,598,0,Retired,43.99,143.09
 8147.0,Bullet Run,Racers,Tiny Turbos,2007,796,0,Retired,43.99,154.25
 8148.0,EZ-Roadster,Racers,Tiny Turbos,2008,45,0,Retired,4.39,11.49
@@ -4304,6 +4376,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8151.0,Adrift Sport,Racers,Tiny Turbos,2008,52,0,Retired,4.39,13.2
 8152.0,Speed Chasing,Racers,Tiny Turbos,2008,142,0,Retired,11.43,33.01
 8153.0,Ferrari F1 Truck,Racers,Tiny Turbos,2008,270,0,Retired,17.59,85.41
+8154.0,Brick Street Customs,Racers,Tiny Turbos,2008,1021,0,Retired,61.59,105.1
 8155.0,Ferrari F1 Pit,Racers,Tiny Turbos,2008,482,0,Retired,39.99,170.64
 8156.0,Ferrari FXX 1:17,Racers,Ferrari,2008,626,0,Retired,43.99,365.32
 8157.0,Ferrari F1 1:9,Racers,Ferrari,2008,997,0,Retired,79.19,456.13
@@ -4387,12 +4460,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8255.0,Rescue Bike,Technic,,1999,202,2,Retired,13.19,47.45
 8256.0,Go-Kart,Technic,,2009,144,0,Retired,16.99,43.33
 8257.0,Cyber Strikers,Technic,Competition,1998,367,2,Retired,43.99,151.39
+8258.0,Crane Truck,Technic,,2009,1877,0,Retired,159.99,397.01
 8259.0,Mini Bulldozer,Technic,,2009,165,0,Retired,9.99,21.42
 8260.0,Tractor,Technic,,2009,104,0,Retired,9.99,69.31
 8261.0,Rally Truck,Technic,,2009,198,0,Retired,22.99,43.99
 8262.0,Quad-Bike,Technic,,2009,308,0,Retired,32.99,98.82
 8263.0,Snow Groomer,Technic,,2009,590,0,Retired,42.99,121.28
 8264.0,Hauler,Technic,,2009,575,0,Retired,64.99,139.78
+8265.0,Front Loader,Technic,,2009,1061,0,Retired,84.99,195.25
 8266.0,Spyder Slayer,Technic,Competition,1998,366,2,Retired,61.59,146.84
 8268.0,Scorpion Attack,Technic,Competition,1999,85,1,Retired,13.19,46.48
 8269.0,Cyber Stinger,Technic,Competition,1999,345,1,Retired,39.99,57.19
@@ -4400,6 +4475,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8271.0,Wheel Loader,Technic,,2007,200,0,Retired,17.59,55.49
 8272.0,Snowmobile,Technic,,2007,331,0,Retired,26.39,180.53
 8273.0,Off Road Truck,Technic,,2007,805,0,Retired,43.99,125.07
+8274.0,Combine Harvester,Technic,,2007,1025,0,Retired,61.59,347.89
+8275.0,Motorized Bulldozer,Technic,,2007,1384,0,Retired,154.99,582.44
 8277.0,Giant Model Set,Technic,,1997,554,0,Retired,39.99,135.46
 8279.0,4WD X-Track,Technic,,2000,449,0,Retired,61.59,152.17
 8280.0,Fire Engine,Technic,,1995,424,2,Retired,48.39,161.48
@@ -4407,15 +4484,19 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8282.0,Quad Bike,Technic,,2006,200,0,Retired,17.59,28.79
 8283.0,Telehandler,Technic,,2006,323,0,Retired,26.39,72.79
 8284.0,Dune Buggy / Tractor,Technic,,2006,872,0,Retired,52.79,130.73
+8285.0,Tow Truck,Technic,,2006,1877,0,Retired,105.59,492.98
 8286.0,3-In-1 Car,Technic,,1996,734,2,Retired,73.92,124.61
 8287.0,Motor Box,Technic,,2006,93,0,Retired,26.39,138.83
 8288.0,Crawler Crane,Technic,,2006,800,0,Retired,43.99,335.01
+8289.0,Fire Truck,Technic,,2006,1036,0,Retired,65.99,115.95
 8290.0,Mini Forklift,Technic,,2008,89,0,Retired,7.03,20.87
 8291.0,Dirt Bike,Technic,,2008,248,0,Retired,21.99,127.64
 8292.0,Cherry Picker,Technic,,2008,726,0,Retired,59.99,306.01
 8293.0,Motor Set,Power Functions,Technic,2008,10,0,Retired,36.99,83.52
 8294.0,Excavator,Technic,,2008,720,0,Retired,52.79,157.75
+8295.0,Telescopic Handler,Technic,,2008,1182,0,Retired,89.99,221.01
 8296.0,Dune Buggy,Technic,,2008,199,0,Retired,17.59,52.27
+8297.0,Off-Roader,Technic,,2008,1097,0,Retired,105.59,247.36
 8300.0,LEGO Technic Guys,Technic,,2000,5,2,Retired,9.67,88.3
 8301.0,Urban Enforcer,Racers,Tiny Turbos,2011,45,0,Retired,5.99,8.79
 8302.0,Rod Rider,Racers,Tiny Turbos,2011,48,0,Retired,5.99,11.55
@@ -4489,6 +4570,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8418.0,Mini Loader,Technic,,2005,66,0,Retired,5.27,52.79
 8419.0,Excavator,Technic,,2005,286,0,Retired,17.59,43.83
 8420.0,Street Bike,Technic,,2005,506,0,Retired,43.99,214.29
+8421.0,Mobile Crane,Technic,,2005,1884,0,Retired,131.99,525.22
 8422.0,Circuit Shock Racer,Technic,,1995,315,0,Retired,29.03,154.0
 8423.0,World Grand Prix Racing Rivalry,Cars,Cars 2,2011,136,2,Retired,14.99,29.74
 8424.0,Mater's Spy Zone,Cars,Cars 2,2011,114,2,Retired,14.99,24.37
@@ -4502,6 +4584,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8433.0,Cool Movers,Technic,,2004,215,0,Retired,11.43,32.49
 8434.0,Aircraft,Technic,,2004,445,0,Retired,34.99,97.89
 8435.0,4WD,Technic,,2004,763,0,Retired,39.59,308.0
+8436.0,Truck,Technic,,2004,1027,0,Retired,79.19,149.21
 8437.0,Future Car,Technic,,1997,419,0,Retired,47.52,99.94
 8438.0,Pneumatic Crane Truck,Technic,,2003,848,0,Retired,74.79,346.38
 8439.0,Front End Loader,Technic,,2004,582,0,Retired,61.59,310.95
@@ -4511,6 +4594,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8444.0,Air Enforcer,Technic,,1999,309,0,Retired,26.39,73.42
 8445.0,Indy Storm,Technic,,1999,446,0,Retired,39.99,118.62
 8446.0,Crane Truck,Technic,,1999,582,0,Retired,52.79,208.22
+8448.0,Super Street Sensation,Technic,,1999,1437,0,Retired,114.39,591.09
 8450.0,The Mission,Technic,Competition,1999,643,0,Retired,87.99,128.09
 8451.0,Dump Truck,Technic,,2003,183,0,Retired,17.59,36.32
 8453.0,Front-End Loader,Technic,,2003,214,0,Retired,17.59,32.63
@@ -4518,12 +4602,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8455.0,Back-Hoe,Technic,,2003,704,0,Retired,87.99,435.85
 8456.0,Fiber Optic Multi Set,Technic,,1996,404,0,Retired,65.12,177.28
 8457.0,Power Puller,Technic,,2000,979,1,Retired,87.99,495.75
+8458.0,Silver Champion,Technic,,2000,1431,0,Retired,149.59,
 8459.0,Pneumatic Front-End Loader,Technic,,1997,591,0,Retired,72.16,255.77
 8460.0,Pneumatic Crane Truck,Technic,,1995,850,0,Retired,87.12,174.24
+8461.0,Williams F1 Team Racer,Racers,Williams F1,2002,1484,0,Retired,114.39,
 8462.0,Tow Truck,Technic,,1998,774,0,Retired,107.36,314.7
 8463.0,Forklift,Technic,,2001,235,1,Retired,26.39,81.11
 8464.0,Pneumatic Front-End Loader,Technic,,2001,591,0,Retired,61.59,360.14
 8465.0,Extreme Off-Roader,Technic,,2001,365,0,Retired,39.99,164.41
+8466.0,4X4 Off-Roader,Technic,,2001,1102,0,Retired,105.59,483.16
 8468.0,Power Crusher,Racers,Drome Racers,2002,87,0,Retired,7.03,31.59
 8469.0,Slammer Raptor,Racers,Drome Racers,2002,144,0,Retired,8.79,131.6
 8470.0,Slammer G-Force,Racers,Drome Racers,2002,148,0,Retired,13.19,37.17
@@ -4531,9 +4618,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8472.0,Mud & Street Racer,Racers,Drome Racers,2002,353,0,Retired,61.59,86.88
 8473.0,Nitro Race Team,Racers,Drome Racers,2002,510,0,Retired,43.99,70.39
 8475.0,RC Race Buggy,Racers,Drome Racers,2002,284,0,Retired,114.39,318.56
+8479.0,Barcode Multi-Set,Technic,,1997,1280,0,Retired,144.32,451.52
+8480.0,Space Shuttle,Technic,,1996,1368,0,Retired,139.04,690.82
 8482.0,CyberMaster,Technic,Competition,1998,900,1,Retired,131.99,158.4
 8483.0,CyberMaster,Technic,,1998,900,1,Retired,131.99,367.4
 8484.0,Ultimate Build Lightning McQueen,Cars,,2011,242,0,Retired,29.99,123.38
+8485.0,Control Centre II,Technic,,1995,1079,0,Retired,192.72,484.78
 8486.0,Mack's Team Truck,Cars,,2011,374,1,Retired,39.99,175.96
 8487.0,Flo's V8 Cafe,Cars,,2011,517,6,Retired,69.99,169.23
 8490.0,Desert Hopper,Racers,Power Racers,2008,92,0,Retired,8.79,15.58
@@ -4672,6 +4762,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8632.0,Swamp Raid,Agents,,2008,231,2,Retired,17.59,63.65
 8633.0,Speedboat Rescue,Agents,,2008,340,3,Retired,39.99,87.55
 8634.0,Turbocar Chase,Agents,,2008,498,3,Retired,43.99,79.79
+8635.0,Mobile Command Center,Agents,,2008,1154,7,Retired,89.99,259.94
 8636.0,Deep Sea Quest,Agents,,2008,520,4,Retired,43.99,203.9
 8637.0,Volcano Base,Agents,,2008,718,6,Retired,61.59,244.23
 8638.0,Spy Jet Escape,Cars,Cars 2,2011,339,6,Retired,49.99,60.13
@@ -4688,6 +4779,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8650.0,Furious Slammer Racer,Racers,Power Racers,2005,254,0,Retired,17.59,29.15
 8651.0,Jumping Giant,Racers,Power Racers,2005,242,0,Retired,17.59,42.1
 8652.0,Enzo Ferrari 1:17,Racers,Ferrari,2005,477,0,Retired,39.99,203.77
+8653.0,Enzo Ferrari 1:10,Racers,Ferrari,2005,1360,0,Retired,87.99,626.53
 8654.0,Scuderia Ferrari Truck,Racers,Ferrari,2005,813,6,Retired,70.39,198.0
 8655.0,RX-Sprinter,Racers,Tiny Turbos,2005,58,0,Retired,3.51,9.27
 8656.0,F6 Truck,Racers,Tiny Turbos,2005,47,0,Retired,3.51,10.08
@@ -4706,6 +4798,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8671.0,Ferrari 430 Spider 1:17,Racers,Ferrari,2006,559,0,Retired,39.99,222.48
 8672.0,Ferrari Finish Line,Racers,Ferrari,2006,573,10,Retired,52.79,293.22
 8673.0,Ferrari F1 Fuel Stop,Racers,Ferrari,2006,189,5,Retired,17.59,111.47
+8674.0,Ferrari F1 Racer 1:8,Racers,Ferrari,2006,1246,0,Retired,123.19,874.35
 8675.0,Outdoor Challenger,Racers,Outdoor RC,2006,104,0,Retired,140.79,403.89
 8676.0,Sunset Cruiser,Racers,Outdoor RC,2006,58,0,Retired,52.79,136.92
 8677.0,Ultimate Build Mater,Cars,Cars 2,2011,288,0,Retired,29.99,96.27
@@ -4856,6 +4949,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 8877.0,Vladek's Dark Fortress,Castle,Knights&#39; Kingdom II,2005,983,9,Retired,87.99,404.23
 8878.0,Rechargeable Battery Box,Power Functions,Accessories,2009,1,0,Retired,69.99,109.51
 8879.0,IR Speed Remote Control,Power Functions,Accessories,2009,1,0,Retired,14.49,30.14
+8880.0,Super Car,Technic,,1994,1343,0,Retired,114.39,537.97
 8881.0,Battery Box,Power Functions,Accessories,2008,1,0,Retired,7.99,24.49
 8882.0,XL-Motor,Power Functions,Accessories,2008,1,0,Retired,11.99,32.77
 8883.0,M-Motor,Power Functions,Accessories,2008,1,0,Retired,8.99,29.04
@@ -5034,10 +5128,18 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9291.0,Medium Basic Set,Dact,System,1997,822,0,Retired,52.36,175.12
 9293.0,Community Workers,Dact,,1996,182,30,Retired,27.72,130.51
 9301.0,Traffic Signs,Education,,1999,172,0,Retired,22.22,201.24
+9302.0,Community Builders Set,Education,Community,2001,1670,0,Retired,87.99,135.54
+9303.0,Airport Set,Education,,2001,1180,4,Retired,78.32,120.49
 9306.0,Bulk Set with Special Bricks,Education,,2003,610,0,Retired,28.15,61.47
 9311.0,City Buildings Set,Education,,2010,822,9,Retired,105.59,205.37
+9314.0,Rescue Services Set,Education,,2010,1490,0,Retired,131.96,203.51
 9320.0,Journey into Space,Education,,2003,631,0,Retired,81.84,151.84
+9321.0,World Transport Services Set,Education,,2006,1219,10,Retired,175.99,182.8
+9322.0,Town Developers Set,Education,,2007,1860,12,Retired,149.59,204.98
+9324.0,Micro Building Set,Education,,2007,1641,0,Retired,95.91,304.14
 9333.0,Vehicles Set,Education,,2010,934,0,Retired,109.96,146.96
+9334.0,Animals Set,Education,,2010,1081,0,Retired,52.79,110.47
+9335.0,Space & Airport Set,Education,,2010,1189,0,Retired,138.12,144.76
 9337.0,Harbor Set,Education,Town,2011,906,0,Retired,87.99,157.67
 9338.0,Mini-Kit,Serious Play,,2011,57,0,Retired,4.39,11.69
 9348.0,Community Minifigure Set,Education,Community,2011,256,22,Retired,47.5,51.75
@@ -5055,15 +5157,20 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9370.0,LEGO System Road Plates,Dact,Town,1998,10,0,Retired,39.99,179.41
 9376.0,Castle Set,Dact,Castle,1997,321,14,Retired,55.88,217.08
 9384.0,Bricks Set,Education,,2010,884,0,Retired,95.91,105.8
+9385.0,Sceneries Set,Education,,2010,1214,0,Retired,96.76,207.37
 9386.0,Doors and Windows,Education,,2010,278,0,Retired,48.36,140.52
 9387.0,Wheels Set,Education,,2011,286,0,Retired,37.99,46.06
 9388.0,Small Building Plates,Education,,2012,22,0,Retired,39.56,131.96
+9389.0,Community Starter Set,Education,Community,2012,1907,0,Retired,175.96,212.4
 9390.0,Mini Tow Truck,Technic,,2012,136,0,Retired,9.99,27.53
 9391.0,Tracked Crane,Technic,,2012,218,0,Retired,14.99,53.77
 9392.0,Quad Bike,Technic,,2012,199,0,Retired,19.99,58.33
 9393.0,Tractor,Technic,,2012,353,0,Retired,29.99,69.88
 9394.0,Jet Plane,Technic,,2012,499,0,Retired,39.99,77.96
 9395.0,Pick-Up Tow Truck,Technic,,2012,954,0,Retired,59.99,153.96
+9396.0,Helicopter,Technic,,2012,1056,0,Retired,89.99,214.37
+9397.0,Logging Truck,Technic,,2012,1308,0,Retired,119.99,242.32
+9398.0,4x4 Crawler,Technic,,2012,1327,0,Retired,169.99,221.87
 9440.0,Venomari Shrine,Ninjago,Rise of the Snakes,2012,86,1,Retired,7.99,34.61
 9441.0,Kai's Blade Cycle,Ninjago,Rise of the Snakes,2012,188,2,Retired,14.99,62.07
 9442.0,Jay's Storm Fighter,Ninjago,Rise of the Snakes,2012,242,2,Retired,19.99,96.54
@@ -5093,6 +5200,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9471.0,Uruk-Hai Army,The Lord of the Rings,The Two Towers,2012,257,6,Retired,39.99,153.95
 9472.0,Attack On Weathertop,The Lord of the Rings,The Fellowship of the Ring,2012,430,5,Retired,59.99,198.78
 9473.0,The Mines of Moria,The Lord of the Rings,The Fellowship of the Ring,2012,776,9,Retired,79.99,259.46
+9474.0,The Battle Of Helm's Deep,The Lord of the Rings,The Two Towers,2012,1368,8,Retired,139.99,431.67
 9476.0,The Orc Forge,The Lord of the Rings,The Fellowship of the Ring,2012,366,4,Retired,49.99,149.6
 9478.0,Francesco Bernoulli,Cars,Cars 2,2012,49,0,Retired,7.99,27.88
 9479.0,Ivan Mater,Cars,Cars 2,2012,52,0,Retired,7.99,30.26
@@ -5116,6 +5224,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9499.0,Gungan Sub,Star Wars,Episode I,2012,465,4,Retired,69.99,261.59
 9500.0,Sith Fury-class Interceptor,Star Wars,The Old Republic,2012,741,3,Retired,99.99,303.43
 9509.0,Star Wars Advent Calendar,Star Wars,Seasonal,2012,234,10,Retired,29.99,61.29
+9515.0,Malevolence,Star Wars,The Clone Wars,2012,1092,6,Retired,119.99,347.6
 9516.0,Jabba's Palace,Star Wars,Episode VI,2012,717,9,Retired,139.99,338.47
 9525.0,Pre Vizsla's Mandalorian Fighter,Star Wars,The Clone Wars,2012,403,3,Retired,49.99,262.49
 9526.0,Palpatine's Arrest,Star Wars,Episode III,2012,645,6,Retired,89.99,440.0
@@ -5159,8 +5268,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9585.0,WeDo Resource Set,Education,WeDo,2012,326,0,Retired,61.56,111.12
 9590.0,NRG Zane,Ninjago,Spinners,2012,23,1,Retired,9.99,58.56
 9591.0,Weapon Pack,Ninjago,Spinners,2012,73,2,Retired,19.99,52.62
+9594.0,Green City Challenge Set,Education,Mindstorms,2011,1365,1,Retired,216.47,227.49
 9604.0,Technic and Pneumatic Elements,Dact,Technic,1992,124,0,Retired,32.52,88.2
 9605.0,4.5V Technic Resource Set,Dact,Technic,1995,268,0,Retired,65.99,494.52
+9609.0,Technology Resource Set,Dact,Technic,1995,1718,0,Retired,,842.28
 9610.0,Gears Set,Dact,Technic,1993,67,2,Retired,11.0,25.12
 9610.0,Gears Set,Dact,Technic,1993,67,2,Retired,11.0,25.12
 9612.0,Levers Set,Dact,Technic,1993,62,0,Retired,13.19,26.5
@@ -5178,12 +5289,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9641.0,Pneumatics Add-On Set,Education,,2008,31,0,Retired,48.39,270.61
 9647.0,Camera and Software Kit,Education,Studios,2000,2,0,Retired,43.99,44.0
 9648.0,Education Resource Set,Education,,2008,672,0,Retired,51.92,170.84
+9649.0,Technology Resource Set,Education,,2003,1110,0,Retired,48.39,247.84
 9650.0,Scenery Resource Set,Education,,2002,679,16,Retired,48.39,83.2
 9653.0,Mechanical Toy Shop,Dact,Duplo,1995,32,2,Retired,33.0,53.46
 9654.0,Early Simple Machines II Set,Dact,,1997,99,2,Retired,81.62,188.52
 9655.0,Fun Time Gears II Set,Dact,,1997,50,0,Retired,45.98,72.34
 9656.0,Early Simple Machines Set,Education,Duplo,2008,102,0,Retired,145.16,167.54
+9657.0,FIRST LEGO League Challenge 2012 Senior Solutions,Exclusive,FIRST LEGO League,2012,1615,0,Retired,198.0,148.32
 9660.0,Early Structures,Dact,,1995,107,2,Retired,68.63,84.99
+9664.0,FIRST LEGO League Challenge 2013 Nature's Fury,Exclusive,FIRST LEGO League,2013,2031,0,Retired,198.0,208.61
 9665.0,Mechanical Engineering,Dact,Technic,2003,318,0,Retired,131.99,391.38
 9667.0,LEGO Solar Panel,Education,Mindstorms,2010,1,0,Retired,39.99,38.38
 9668.0,Energy Display,Education,Mindstorms,2010,1,0,Retired,52.79,111.06
@@ -5203,6 +5317,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9693.0,NXT DC Rechargeable Battery,Education,,2010,1,0,Retired,69.99,89.67
 9694.0,Color Sensor,Education,,2010,1,0,Retired,25.99,44.66
 9695.0,LEGO Mindstorms Education Resource,Education,Mindstorms,2010,821,0,Retired,87.96,197.85
+9698.0,FIRST LEGO League Challenge 2009 Smart Move,Exclusive,FIRST LEGO League,2009,1309,0,Retired,66.0,100.97
 9699.0,FIRST LEGO League Challenge 2008 Climate Connections,Exclusive,FIRST LEGO League,2008,778,12,Retired,66.0,289.08
 9701.0,Control Lab Building Set,Dact,Technic,1995,557,0,Retired,131.12,293.22
 9702.0,Control System Building Set,Dact,Technic,1993,221,2,Retired,,194.01
@@ -5228,6 +5343,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 9756.0,Rotation Sensor,Mindstorms,1,1999,1,0,Retired,13.19,13.95
 9757.0,Touch Sensor,Mindstorms,1,1999,2,0,Retired,9.67,12.99
 9758.0,Light Sensor,Mindstorms,1,1999,1,0,Retired,17.38,293.48
+9763.0,FIRST LEGO League Challenge 2006 Nano Quest,Exclusive,FIRST LEGO League,2006,1514,2,Retired,66.0,243.87
+9764.0,FIRST LEGO League Challenge 2007 Power Puzzle,Exclusive,FIRST LEGO League,2007,1563,1,Retired,66.0,219.99
 9783.0,Infrared Transmitter with USB Cable,Education,,2001,2,0,Retired,26.39,30.8
 9785.0,Robo Technology Set with Serial Transmitter,Education,,2003,219,0,Retired,131.99,267.38
 9786.0,Robo Technology Set with USB Transmitter,Education,,2003,217,0,Retired,131.99,240.22
@@ -5283,6 +5400,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10015.0,Green Passenger Wagon,Trains,9V,2001,194,0,Retired,17.59,93.13
 10016.0,Tanker,Trains,9V,2001,128,0,Retired,17.59,110.79
 10017.0,Hopper Wagon,Trains,9V,2001,228,0,Retired,17.59,71.99
+10018.0,Darth Maul,Star Wars,Ultimate Collector Series,2001,1868,0,Retired,131.99,
+10019.0,Rebel Blockade Runner,Star Wars,Ultimate Collector Series,2001,1747,0,Retired,175.99,
 10020.0,Santa Fe Super Chief,Trains,9V,2002,435,2,Retired,34.99,435.58
 10020.2,Santa Fe Super Chief Limited Edition,Trains,9V,2002,436,2,Retired,34.99,558.1
 10021.0,USS Constellation,Hobby Set,,2003,973,0,Retired,52.79,247.3
@@ -5293,6 +5412,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10026.0,Special Edition Naboo Starfighter,Star Wars,Ultimate Collector Series,2002,187,0,Retired,39.99,876.79
 10027.0,Train Engine Shed,World City,Trains,2003,664,2,Retired,61.59,528.0
 10029.0,Lunar Lander,Discovery,,2003,453,2,Retired,39.99,373.18
+10030.0,Imperial Star Destroyer,Star Wars,Ultimate Collector Series,2002,3096,0,Retired,299.99,
 10036.0,Pizza-To-Go,Town,Shops and Services,2002,151,3,Retired,17.59,307.99
 10037.0,Breezeway Café,Town,Shops and Services,2002,183,5,Retired,20.23,285.63
 10039.0,Black Falcon's Fortress,Castle,Black Falcons,2002,426,6,Retired,39.99,621.76
@@ -5355,10 +5475,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10124.0,Wright Flyer,Advanced Models,Aircraft,2003,670,0,Retired,52.79,420.19
 10127.0,NHL All Teams Set,Sports,Hockey,2003,59,0,Retired,7.91,41.71
 10128.0,Train Level Crossing,World City,Trains,2003,327,2,Retired,43.99,216.05
+10129.0,Rebel Snowspeeder,Star Wars,Ultimate Collector Series,2003,1455,0,Retired,99.99,747.6
 10131.0,TIE Fighter Collection,Star Wars,Legends,2004,682,4,Retired,61.59,369.66
 10132.0,Motorised Hogwarts Express,Harry Potter,Prisoner of Azkaban,2004,708,4,Retired,105.59,836.0
 10133.0,Burlington Northern Santa Fe BNSF Locomotive,Trains,9V,2005,407,2,Retired,39.99,451.92
+10134.0,Y-wing Attack Starfighter,Star Wars,Ultimate Collector Series,2004,1473,1,Retired,105.59,703.89
 10135.0,Holiday Decoration Kit,Clikits,Seasonal,2004,283,0,Retired,34.99,53.38
+10143.0,Death Star II,Star Wars,Ultimate Collector Series,2005,3441,0,Retired,237.59,
+10144.0,Sandcrawler,Star Wars,Episode IV,2005,1669,11,Retired,123.19,440.0
 10145.0,Assorted Light Grey Bricks,Bulk Bricks,,2004,62,0,Retired,4.39,23.63
 10146.0,Assorted Dark Grey Bricks,Bulk Bricks,,2004,63,0,Retired,4.39,13.26
 10147.0,Assorted Brown Bricks,Bulk Bricks,,2004,62,0,Retired,4.39,12.74
@@ -5384,9 +5508,30 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10169.0,Chicken & Chicks,Seasonal,Easter,2005,57,0,Retired,3.51,7.88
 10170.0,TTX Intermodal Double-Stack Car,Trains,9V,2005,366,0,Retired,39.99,219.29
 10173.0,Holiday Train,Trains,9V,2006,965,7,Retired,79.19,467.88
+10174.0,Imperial AT-ST,Star Wars,Ultimate Collector Series,2006,1068,0,Retired,70.39,450.82
+10175.0,Vader's TIE Advanced,Star Wars,Ultimate Collector Series,2006,1212,0,Retired,87.99,967.11
 10176.0,King's Castle,Castle,Knights&#39; Kingdom I,2006,869,12,Retired,87.99,506.58
+10177.0,Boeing 787 Dreamliner,Advanced Models,Aircraft,2006,1197,0,Retired,70.39,680.61
+10178.0,Motorised Walking AT-AT,Star Wars,Episode V,2007,1137,4,Retired,114.39,505.12
+10179.0,Ultimate Collector's Millennium Falcon,Star Wars,Ultimate Collector Series,2007,5197,5,Retired,439.99,
+10181.0,Eiffel Tower,Advanced Models,Buildings,2007,3428,0,Retired,146.79,
+10182.0,Cafe Corner,Advanced Models,Modular Buildings,2007,2056,3,Retired,123.19,
+10183.0,Hobby Trains,Factory,Trains,2007,1080,0,Retired,87.99,532.76
+10184.0,Town Plan,City,,2008,1981,8,Retired,131.99,371.13
+10185.0,Green Grocer,Advanced Models,Modular Buildings,2008,2352,4,Retired,149.99,
+10186.0,General Grievous,Star Wars,Ultimate Collector Series,2008,1085,0,Retired,79.19,307.94
+10187.0,Volkswagen Beetle,Advanced Models,Vehicles,2008,1626,0,Retired,105.59,764.24
+10188.0,Death Star,Star Wars,Ultimate Collector Series,2008,3803,27,Retired,419.99,551.76
+10189.0,Taj Mahal,Advanced Models,Buildings,2008,5922,0,Retired,263.99,
+10190.0,Market Street,Factory,Modular Buildings,2007,1248,3,Retired,79.19,
 10191.0,Star Justice,Factory,Space,2008,895,8,Retired,87.99,150.14
 10192.0,Space Skulls,Factory,Space,2008,956,4,Retired,87.99,102.78
+10193.0,Medieval Market Village,Castle,,2009,1601,8,Retired,99.99,328.57
+10194.0,Emerald Night,Advanced Models,Trains,2009,1085,3,Retired,89.99,660.0
+10195.0,Republic Dropship with AT-OT Walker,Star Wars,The Clone Wars,2009,1758,8,Retired,249.99,
+10196.0,Grand Carousel,Advanced Models,Fairground,2009,3263,9,Retired,229.99,
+10197.0,Fire Brigade,Advanced Models,Modular Buildings,2009,2231,4,Retired,149.99,575.69
+10198.0,Tantive IV,Star Wars,Episode IV,2009,1408,5,Retired,149.99,269.65
 10199.0,Winter Village Toy Shop,Advanced Models,Winter Village,2009,815,7,Retired,59.99,183.02
 10200.0,Custom Car Garage,Factory,Custom Cars,2008,893,4,Retired,61.59,107.7
 10201.0,Takutanuva,Bionicle,Warriors,2003,399,0,Retired,43.99,112.46
@@ -5394,25 +5539,90 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10203.0,Voporak,Bionicle,Warriors,2005,647,0,Retired,43.99,278.21
 10204.0,Vezon & Kardas,Bionicle,Warriors,2006,670,0,Retired,43.99,515.56
 10205.0,Large Black Train Engine with Tender,Trains,9V,2002,232,0,Retired,21.11,195.77
+10210.0,Imperial Flagship,Pirates,,2010,1664,9,Retired,149.99,
+10211.0,Grand Emporium,Advanced Models,Modular Buildings,2010,2182,7,Retired,149.99,425.08
+10212.0,Imperial Shuttle,Star Wars,Ultimate Collector Series,2010,2503,5,Retired,259.99,
+10213.0,Shuttle Adventure,Advanced Models,Space,2010,1204,3,Retired,89.99,439.02
+10214.0,Tower Bridge,Icons,Buildings,2010,4287,0,Retired,219.99,221.16
 10215.0,Obi-Wan's Jedi Starfighter,Star Wars,Ultimate Collector Series,2010,676,0,Retired,99.99,326.84
 10216.0,Winter Village Bakery,Advanced Models,Winter Village,2010,687,9,Retired,54.99,322.71
+10217.0,Diagon Alley,Harry Potter,,2011,2025,12,Retired,149.99,482.93
+10218.0,Pet Shop,Advanced Models,Modular Buildings,2011,2032,4,Retired,149.99,218.01
+10219.0,Maersk Train,Advanced Models,Trains,2011,1237,3,Retired,119.99,441.4
+10220.0,Volkswagen T1 Camper Van,Advanced Models,Vehicles,2011,1332,0,Retired,99.99,118.74
+10221.0,Super Star Destroyer ,Star Wars,Ultimate Collector Series,2011,3152,5,Retired,399.99,
 10222.0,Winter Village Post Office,Advanced Models,Winter Village,2011,822,7,Retired,59.99,422.27
+10223.0,Kingdoms Joust,Castle,Kingdoms,2012,1575,9,Retired,119.99,316.76
+10224.0,Town Hall,Advanced Models,Modular Buildings,2012,2766,8,Retired,179.99,808.58
+10225.0,R2-D2,Star Wars,Ultimate Collector Series,2012,2127,1,Retired,179.99,201.63
 10226.0,Sopwith Camel,Advanced Models,Aircraft,2012,883,0,Retired,89.99,190.84
+10227.0,B-Wing Starfighter,Star Wars,Ultimate Collector Series,2012,1487,0,Retired,199.99,478.02
+10228.0,Haunted House,Monster Fighters,,2012,2064,6,Retired,179.99,469.0
+10229.0,Winter Village Cottage,Advanced Models,Winter Village,2012,1490,8,Retired,99.99,352.84
+10230.0,Mini Modulars,Advanced Models,Modular Buildings,2012,1356,0,Retired,69.99,175.82
+10231.0,Shuttle Expedition,Advanced Models,Space,2011,1230,3,Retired,89.99,482.91
+10232.0,Palace Cinema,Icons,Modular Buildings,2013,2196,7,Retired,139.99,263.32
+10233.0,Horizon Express,Icons,Trains,2013,1351,6,Retired,99.99,249.6
+10234.0,Sydney Opera House,Icons,Buildings,2013,2989,0,Retired,279.99,329.15
+10235.0,Winter Village Market,Icons,Winter Village,2013,1261,9,Retired,89.99,202.4
+10236.0,Ewok Village,Star Wars,Ultimate Collector Series,2013,1990,17,Retired,249.99,470.76
+10237.0,Tower of Orthanc,The Lord of the Rings,The Two Towers,2013,2359,5,Retired,199.99,526.8
+10240.0,Red Five X-wing Starfighter,Star Wars,Ultimate Collector Series,2013,1559,1,Retired,199.99,395.89
+10241.0,Maersk Line Triple-E,Advanced Models,Maersk,2014,1518,0,Retired,129.99,272.76
+10242.0,Mini Cooper MK VII,Icons,Vehicles,2014,1077,0,Retired,89.99,192.77
+10243.0,Parisian Restaurant,Icons,Modular Buildings,2014,2469,5,Retired,149.99,262.32
+10244.0,Fairground Mixer,Icons,Fairground,2014,1746,12,Retired,129.99,184.05
 10245.0,Santa's Workshop,Icons,Winter Village,2014,883,6,Retired,69.99,183.68
+10246.0,Detective's Office,Icons,Modular Buildings,2015,2262,6,Retired,149.99,342.9
+10247.0,Ferris Wheel,Icons,Fairground,2015,2464,10,Retired,179.99,330.4
+10248.0,Ferrari F40,Icons,Vehicles,2015,1158,0,Retired,89.99,270.62
 10249.0,Winter Toy Shop,Icons,Winter Village,2015,898,8,Retired,69.99,174.59
 10250.0,Year of the Snake,Seasonal,Chinese New Year,2013,243,0,Retired,43.99,142.31
+10251.0,Brick Bank,Icons,Modular Buildings,2016,2380,6,Retired,149.99,458.22
+10252.0,Volkswagen Beetle,Icons,Vehicles,2016,1167,0,Retired,89.99,107.43
+10253.0,Big Ben,Icons,Buildings,2016,4163,0,Retired,219.99,339.16
 10254.0,Winter Holiday Train,Icons,Winter Village,2016,734,5,Retired,89.99,151.61
+10255.0,Assembly Square,Icons,Modular Buildings,2017,4002,9,Exclusive (Retiring soon),299.99,
+10256.0,Taj Mahal,Icons,Buildings,2017,5923,0,Retired,329.99,407.54
+10257.0,Carousel,Icons,Fairground,2017,2670,7,Retired,179.99,355.48
+10258.0,London Bus,Icons,Vehicles,2017,1686,0,Retired,119.99,140.76
 10259.0,Winter Village Station,Icons,Winter Village,2017,902,5,Retired,69.99,168.52
+10260.0,Downtown Diner,Icons,Modular Buildings,2018,2480,6,Retired,149.99,235.92
+10261.0,Roller Coaster,Icons,Fairground,2018,4124,11,Retired,329.99,437.04
+10262.0,James Bond Aston Martin DB5,Icons,Vehicles,2018,1290,0,Retired,149.99,157.97
+10263.0,Winter Village Fire Station,Icons,Winter Village,2018,1166,8,Retired,89.99,92.42
+10264.0,Corner Garage,Icons,Modular Buildings,2019,2569,6,Retired,179.99,194.44
+10265.0,Ford Mustang,Icons,Vehicles,2019,1471,0,Retail (Retiring soon),169.99,
+10266.0,NASA Apollo 11 Lunar Lander,Icons,Space,2019,1087,2,Exclusive,99.99,
+10267.0,Gingerbread House,Icons,Winter Village,2019,1477,2,Retired,89.99,100.67
 10268.0,Vestas Wind Turbine,Icons,,2018,826,3,Retired,179.99,195.46
+10269.0,Harley-Davidson Fat Boy,Icons,Vehicles,2019,1023,0,Retired,89.99,109.96
+10270.0,Bookshop,Icons,Modular Buildings,2020,2504,5,Limited retail,199.99,
 10271.0,Fiat 500,Icons,Vehicles,2020,960,0,Limited retail (Retiring soon),79.99,
+10272.0,Old Trafford - Manchester United,Icons,Buildings,2020,3898,0,Exclusive (Retiring soon),279.99,
+10273.0,Haunted House,Icons,Fairground,2020,3231,10,Retail,299.99,
+10274.0,ECTO-1,Ghostbusters,,2020,2352,0,Exclusive,239.99,
+10275.0,Elf Club House,Icons,Winter Village,2020,1197,4,Exclusive (Retiring soon),84.99,
+10276.0,Colosseum,Icons,Buildings,2020,9036,0,Exclusive,549.99,
+10277.0,Crocodile Locomotive,Icons,Trains,2020,1271,2,Retired,99.99,110.37
+10278.0,Police Station,Icons,Modular Buildings,2021,2923,5,Exclusive,199.99,
+10279.0,Volkswagen T2 Camper Van,Icons,Vehicles,2021,2207,0,Exclusive (Retiring soon),159.99,
 10280.0,Flower Bouquet,Icons,Botanical Collection,2021,756,0,Retail,59.99,
 10281.0,Bonsai Tree,Icons,Botanical Collection,2021,878,0,Retail,49.99,
 10282.0,Adidas Originals Superstar,Icons,Adidas,2021,731,0,Limited retail (Retiring soon),89.99,
 10282.2,Adidas Originals Superstar X Footshop,Icons,Adidas,2021,974,0,Retired,89.99,400.23
+10283.0,Space Shuttle Discovery,Icons,Space,2021,2354,0,Retail,199.99,
+10284.0,Camp Nou,Icons,Buildings,2021,5509,0,Exclusive,329.99,
 10285.0,Compass Sensor,Mindstorms,NXT,2011,1,0,Retired,54.99,51.19
 10286.0,Color Sensor ,Mindstorms,NXT,2011,1,0,Retired,54.99,71.02
 10287.0,Intelligent NXT Black Brick,Mindstorms,NXT,2009,1,0,Retired,149.59,154.0
+10289.0,Bird of Paradise,Icons,Botanical Collection,2021,1173,0,Retail,99.99,
+10290.0,Pickup Truck,Icons,Vehicles,2021,1677,0,Exclusive,129.99,
 10291.0,Queer Eye - The Fab 5 Loft,Icons,,2021,974,7,Exclusive,99.99,
+10292.0,The Friends Apartments,Icons,,2021,2048,7,Exclusive,179.99,
+10293.0,Santa's Visit,Icons,Winter Village,2021,1445,4,Exclusive,99.99,
+10294.0,Titanic,Icons,,2021,9090,0,Exclusive,679.99,
+10295.0,Porsche 911,Icons,Vehicles,2021,1458,0,Exclusive,169.99,
 10401.0,Rainbow Fun,Classic,Building Bigger Thinking,2018,85,0,Retired,4.99,6.89
 10402.0,Fun Future,Classic,Building Bigger Thinking,2018,186,1,Retired,9.99,10.57
 10403.0,World Fun,Classic,Building Bigger Thinking,2018,295,2,Retired,19.99,19.94
@@ -5514,6 +5724,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10618.0,Creative Building Box,Duplo,Building Sets,2015,70,2,Retired,24.99,113.53
 10622.0,Large Creative Box,Duplo,Building Sets,2015,193,2,Retired,59.99,178.27
 10623.0,Large DUPLO Basic Bricks,Duplo,,2015,60,0,Retired,39.99,261.07
+10654.0,XL Creative Brick Box,Classic,Basic Set,2016,1600,0,Retired,59.99,86.93
 10655.0,LEGO Monster Trucks,Bricks and More,,2013,197,3,Retired,19.99,46.49
 10656.0,My First LEGO Princess,Bricks and More,,2013,88,1,Retired,7.99,15.51
 10657.0,My First LEGO Set,Bricks and More,,2013,148,1,Retired,12.99,22.34
@@ -5522,6 +5733,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10661.0,My First LEGO Fire Station,Bricks and More,,2013,90,1,Retired,7.99,21.99
 10662.0,LEGO Creative Bucket,Bricks and More,,2013,607,0,Retired,24.99,78.16
 10663.0,Creative Chest,Bricks and More,,2013,609,3,Retired,39.99,73.66
+10664.0,Creative Tower,Bricks and More,,2013,1600,0,Retired,59.99,85.76
 10665.0,Spider-Man Spider-Car Pursuit,Juniors,Super Heroes,2014,55,2,Retired,12.99,30.71
 10666.0,Digger,Juniors,City,2014,75,1,Retired,9.99,43.98
 10667.0,Construction,Juniors,City,2014,160,1,Retired,17.99,76.85
@@ -5537,6 +5749,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10679.0,Pirate Treasure Hunt,Juniors,Fantasy,2015,57,2,Retired,9.99,21.96
 10680.0,Garbage Truck,Juniors,City,2015,99,2,Retired,19.99,71.28
 10681.0,Creative Building Cube,Bricks and More,,2014,600,0,Retired,24.99,37.75
+10682.0,Creative Suitcase,Bricks and More,,2014,1000,0,Retired,39.99,70.11
 10683.0,Road Work Truck,Juniors,City,2015,132,2,Retired,19.99,52.58
 10684.0,Supermarket Suitcase,Juniors,Girl,2015,134,2,Retired,24.99,27.9
 10685.0,Fire Suitcase,Juniors,City,2015,113,2,Retired,24.99,30.8
@@ -5547,6 +5760,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10694.0,Creative Supplement Bright,Classic,,2015,303,0,Retired,19.99,25.12
 10695.0,Creative Building Box,Classic,,2015,580,0,Retired,24.99,128.99
 10696.0,Medium Creative Brick Box,Classic,,2015,484,0,Retail,29.99,
+10697.0,XXXL Box,Classic,,2015,1500,0,Retired,59.99,91.63
 10698.0,Large Creative Brick Box,Classic,,2015,790,0,Retail,44.99,
 10699.0,32x32 Sand Baseplate,Classic,,2015,1,0,Retired,7.99,21.79
 10700.0,32x32 Green Baseplate,Classic,,2015,1,0,Retired,7.99,8.78
@@ -5554,6 +5768,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10702.0,Creative Building Set,Classic,,2016,583,0,Retired,24.99,38.48
 10703.0,Creative Builder Box,Classic,,2017,502,0,Retired,24.99,126.83
 10704.0,Creative Box,Classic,,2017,900,0,Retired,34.99,50.62
+10705.0,Creative Building Basket,Classic,,2016,1000,0,Retired,39.99,74.17
 10706.0,Blue Creative Box,Classic,,2017,78,0,Retired,4.99,5.28
 10707.0,Red Creative Box,Classic,,2017,55,0,Retired,4.99,5.32
 10708.0,Green Creative Box,Classic,,2017,66,0,Retired,4.99,8.76
@@ -5562,6 +5777,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10713.0,Creative Suitcase,Classic,,2018,213,0,Retired,19.99,
 10714.0,Blue Baseplate,Classic,,2018,1,0,Retired,7.99,8.79
 10715.0,Bricks on a Roll,Classic,,2018,442,0,Retired,24.99,26.36
+10717.0,Extra Large Brick Box,Classic,,2018,1500,0,Retired,59.99,59.83
 10720.0,Police Helicopter Chase,Juniors,City,2016,63,2,Retired,9.99,17.77
 10721.0,Iron Man vs. Loki,Juniors,Super Heroes,2016,66,2,Retired,12.99,41.24
 10722.0,Snake Showdown,Juniors,Ninjago,2016,92,2,Retired,14.99,23.75
@@ -5739,6 +5955,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 10932.0,Wrecking Ball Demolition,Duplo,,2020,56,3,Retired,59.99,91.7
 10933.0,Tower Crane & Construction,Duplo,,2020,123,5,Retail,119.99,
 10934.0,Creative Animals,Duplo,,2020,175,0,Retail,59.99,
+10937.0,Batman Arkham Asylum Breakout,DC Comics Super Heroes,Batman,2013,1619,8,Retired,159.99,188.67
 10939.0,T. rex and Triceratops Dinosaur Breakout,Duplo,Jurassic World,2021,36,1,Retail,29.99,
 10940.0,Spider-Man Headquarters,Duplo,Spidey and His Amazing Friends,2021,36,3,Retail,29.99,
 10941.0,Mickey & Minnie Birthday Train,Duplo,Disney,2021,22,3,Retail,34.99,
@@ -5770,10 +5987,13 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 11008.0,Bricks and Houses,Classic,,2020,270,0,Retail,19.99,
 11009.0,Shadow Theatre,Classic,,2020,441,0,Retired,29.99,25.06
 11010.0,White Baseplate,Classic,,2020,1,0,Retired,7.99,8.79
+11011.0,Bricks and Animals,Classic,,2020,1500,0,Retail,59.99,
 11012.0,Creative White Bricks,Classic,,2021,60,0,Retail,4.99,
 11013.0,Creative Transparent Bricks,Classic,,2021,500,0,Retail,34.99,
 11014.0,Bricks and Wheels,Classic,,2021,653,0,Retail,44.99,
 11015.0,Around the World,Classic,,2021,950,0,Retail,49.99,
+11016.0,Creative Building Bricks,Classic,,2021,1200,0,Retail,49.99,
+11717.0,Bricks Box,Classic,,2020,1500,0,Retail,69.99,
 11903.0,Brickmaster Ninjago Fight the Power of the Snakes Parts,Ninjago,Book Parts,2013,156,0,Retired,17.59,19.86
 11904.0,Brickmaster Legends of Chima The Quest for Chi,Legends of Chim,,2013,187,2,Retired,17.59,32.1
 11909.0,Build Your Own Adventure Parts,Ninjago,Book Parts,2015,74,1,Retired,,11.19
@@ -5850,12 +6070,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21007.0,Rockefeller Center,Architecture,Architect Series,2011,240,0,Retired,34.99,131.94
 21008.0,Burj Khalifa,Architecture,Landmark Series,2011,208,0,Retired,24.99,109.08
 21009.0,Farnsworth House,Architecture,Architect Series,2011,546,0,Retired,59.99,264.0
+21010.0,Robie House,Architecture,Architect Series,2011,2276,0,Retired,199.99,603.47
 21011.0,Brandenburg Gate,Architecture,Landmark Series,2011,363,0,Retired,34.99,91.44
 21012.0,Sydney Opera House,Architecture,Architect Series,2012,270,0,Retired,24.99,139.19
 21013.0,Big Ben,Architecture,Landmark Series,2012,346,0,Retired,29.99,83.55
 21014.0,Villa Savoye,Architecture,Architect Series,2012,660,0,Retired,69.99,193.6
 21015.0,The Leaning Tower of Pisa,Architecture,Landmark Series,2013,345,0,Retired,34.99,142.32
 21016.0,Sungnyemun,Architecture,Landmark Series,2012,325,0,Retired,34.99,351.99
+21017.0,Imperial Hotel,Architecture,Architect Series,2013,1188,0,Retired,119.99,162.74
 21018.0,United Nations Headquarters,Architecture,Landmark Series,2013,597,0,Retired,49.99,132.0
 21019.0,The Eiffel Tower,Architecture,Landmark Series,2014,321,0,Retired,34.99,65.99
 21020.0,Trevi Fountain,Architecture,Landmark Series,2014,731,0,Retired,49.99,177.5
@@ -5867,6 +6089,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21027.0,Berlin,Architecture,Skylines,2016,289,0,Retired,29.99,214.29
 21028.0,New York City,Architecture,Skylines,2016,598,0,Limited retail (Retiring soon),49.99,
 21029.0,Buckingham Palace,Architecture,Landmark Series,2016,780,0,Retired,49.99,87.09
+21030.0,United States Capitol Building,Architecture,Landmark Series,2016,1032,0,Retired,99.99,118.91
 21031.0,Burj Khalifa,Architecture,Landmark Series,2016,333,0,Retired,39.99,78.74
 21032.0,Sydney,Architecture,Skylines,2017,361,0,Retired,29.99,141.39
 21033.0,Chicago,Architecture,Skylines,2017,444,0,Retired,39.99,176.84
@@ -5877,12 +6100,18 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21038.0,Las Vegas,Architecture,Skylines,2018,487,0,Retired,39.99,893.2
 21039.0,Shanghai,Architecture,Skylines,2018,597,0,Retired,59.99,79.43
 21041.0,Great Wall of China,Architecture,Landmark Series,2018,551,0,Retired,49.99,66.18
+21042.0,Statue of Liberty,Architecture,Landmark Series,2018,1685,0,Retail,99.99,
 21043.0,San Francisco,Architecture,Skylines,2019,565,0,Retired,49.99,54.41
 21044.0,Paris,Architecture,Skylines,2019,649,0,Retail,49.99,
+21045.0,Trafalgar Square,Architecture,Landmark Series,2019,1197,0,Retired,79.99,79.19
+21046.0,Empire State Building,Architecture,Landmark Series,2019,1767,0,Retired,99.99,112.2
 21047.0,Las Vegas,Architecture,Skylines,2018,501,0,Retired,39.99,61.59
+21050.0,Architecture Studio,Architecture,,2013,1210,0,Retired,159.99,352.0
 21051.0,Tokyo,Architecture,Skylines,2020,547,0,Limited retail,59.99,
 21052.0,Dubai,Architecture,Skylines,2020,740,0,Retired,59.99,59.2
+21054.0,The White House,Architecture,Landmark Series,2020,1483,0,Limited retail,99.99,
 21055.0,Burj Khalifa,Architecture,Landmark Series,2019,333,0,Retired,38.98,88.13
+21056.0,Taj Mahal,Architecture,Landmark Series,2021,2022,0,Limited retail,119.99,
 21100.0,Shinkai 6500 Submarine,Ideas,Scientific,2010,412,0,Retired,49.99,861.67
 21101.0,Hayabusa,Ideas,Astronomy,2012,369,1,Retired,49.99,303.94
 21102.0,Minecraft Micro World The Forest,Ideas,Licensed,2012,480,2,Retired,34.99,48.39
@@ -5909,6 +6138,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21125.0,The Jungle Tree House,Minecraft,Minifig-scale,2016,706,4,Retired,89.99,172.92
 21126.0,The Wither,Minecraft,Minifig-scale,2016,318,3,Retired,34.99,139.55
 21127.0,The Fortress,Minecraft,Minifig-scale,2016,984,0,Retired,109.99,245.44
+21128.0,The Village,Minecraft,Minifig-scale,2016,1600,0,Retired,199.99,444.81
 21129.0,The Mushroom Island,Minecraft,Minifig-scale,2017,247,2,Retired,19.99,43.64
 21130.0,The Nether Railway,Minecraft,Minifig-scale,2017,387,2,Retired,39.99,61.6
 21131.0,The Ice Spikes,Minecraft,Minifig-scale,2017,454,2,Retired,49.99,147.73
@@ -5916,6 +6146,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21133.0,The Witch Hut,Minecraft,Minifig-scale,2017,502,2,Retired,69.99,209.93
 21134.0,The Waterfall Base,Minecraft,Minifig-scale,2017,729,4,Retired,89.99,127.42
 21135.0,The Crafting Box 2,Minecraft,Minifig-scale,2017,717,2,Retired,69.99,88.04
+21136.0,The Ocean Monument,Minecraft,Minifig-scale,2017,1122,2,Retired,119.99,215.75
+21137.0,The Mountain Cave,Minecraft,Minifig-scale,2017,2863,6,Retired,249.99,
 21138.0,The Melon Farm,Minecraft,Minifig-scale,2018,69,3,Retired,14.99,41.48
 21139.0,The Nether Fight,Minecraft,Minifig-scale,2018,84,3,Retired,14.99,35.14
 21140.0,The Chicken Coop,Minecraft,Minifig-scale,2018,198,1,Retired,19.99,30.69
@@ -5960,6 +6192,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21205.0,Battle Towers,Fusion,,2014,212,0,Retired,19.99,34.4
 21206.0,Create and Race,Fusion,,2014,223,0,Retired,34.99,93.8
 21208.0,Resort Designer,Fusion,,2014,263,1,Retired,19.99,43.99
+21226.0,Art Project - Create Together,LEGO Art,,2021,4138,0,Retail,119.99,
 21301.0,Birds,Ideas,Scientific,2015,580,0,Retired,44.99,130.58
 21302.0,The Big Bang Theory,Ideas,Licensed,2015,484,7,Retired,59.99,173.72
 21303.0,WALL-E,Ideas,Licensed,2015,677,0,Retired,49.99,232.03
@@ -5968,14 +6201,28 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 21306.0,The Beatles Yellow Submarine,Ideas,Licensed,2016,550,5,Retired,59.99,150.46
 21307.0,Caterham Seven 620R,Ideas,Licensed,2016,771,0,Retired,79.99,114.05
 21308.0,Adventure Time,Ideas,Licensed,2017,495,0,Retired,49.99,57.16
+21309.0,NASA Apollo Saturn V,Ideas,Astronomy,2017,1969,0,Retired,119.99,112.21
+21310.0,Old Fishing Store,Ideas,,2017,2049,4,Retired,149.99,352.14
+21311.0,Voltron,Ideas,,2018,2321,0,Retired,179.99,304.44
 21312.0,Women of NASA,Ideas,Astronomy,2017,231,4,Retired,24.99,35.15
 21313.0,Ship in a Bottle,Ideas,,2018,962,0,Retired,69.99,82.56
 21314.0,TRON Legacy,Ideas,Licensed,2018,230,3,Retired,34.99,47.78
 21315.0,Pop-Up Book,Ideas,,2018,859,5,Retired,69.99,65.01
 21316.0,The Flintstones,Ideas,Licensed,2019,748,4,Retired,59.99,65.77
 21317.0,Steamboat Willie,Ideas,Licensed,2019,751,2,Retired,89.99,104.24
+21318.0,Treehouse,Ideas,,2019,3036,4,Limited retail,249.99,
+21319.0,Central Perk,Ideas,Licensed,2019,1070,7,Limited retail (Retiring soon),79.99,
 21320.0,Dinosaur Fossils,Ideas,,2019,910,2,Retired,59.99,62.91
 21321.0,International Space Station,Ideas,,2020,864,0,Limited retail,69.99,
+21322.0,Pirates of Barracuda Bay,Ideas,,2020,2545,10,Retired,199.99,244.26
+21323.0,Grand Piano,Ideas,,2020,3662,0,Limited retail,399.99,
+21324.0,123 Sesame Street,Ideas,Licensed,2020,1367,6,Retired,116.97,
+21325.0,Medieval Blacksmith,Ideas,,2021,2164,4,Limited retail,179.99,
+21326.0,Winnie the Pooh,Ideas,Licensed,2021,1265,5,Limited retail (Retiring soon),99.99,
+21327.0,Typewriter,Ideas,,2021,2079,0,Limited retail,249.99,
+21328.0,Seinfeld,Ideas,Licensed,2021,1326,5,Limited retail (Retiring soon),79.99,
+21329.0,Fender Stratocaster,Ideas,Licensed,2021,1074,0,Limited retail,119.99,
+21330.0,Home Alone,Ideas,Licensed,2021,3955,5,Limited retail,299.99,
 30000.0,Medic's Car,City,Medical,2009,32,1,Retired,,7.14
 30001.0,Fireman's Car,City,Fire,2009,38,1,Retired,,7.79
 30002.0,Police Boat,City,Police,2009,30,1,Retired,2.63,4.4
@@ -6426,6 +6673,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 31023.0,Yellow Racers,Creator,,2014,328,0,Retired,24.99,33.57
 31024.0,Roaring Power,Creator,,2014,374,0,Retired,29.99,33.05
 31025.0,Mountain Hut,Creator,,2014,550,1,Retired,39.99,52.79
+31026.0,Bike Shop & Cafe,Creator,,2014,1023,3,Retired,69.99,95.28
 31027.0,Blue Racer,Creator,,2015,67,0,Retired,4.99,7.74
 31028.0,Sea Plane,Creator,,2015,53,0,Retired,4.99,11.86
 31029.0,Cargo Heli,Creator,,2015,132,0,Retired,9.99,16.39
@@ -6505,6 +6753,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 31105.0,TownhouseToy Store,Creator,,2020,554,2,Retired,49.99,45.45
 31107.0,Space Rover Explorer,Creator,,2020,510,1,Retired,49.99,40.11
 31108.0,Caravan Family Holiday,Creator,,2020,766,3,Retail,79.99,
+31109.0,Pirate Ship,Creator,,2020,1264,4,Retail,129.99,
 31111.0,Cyber Drone,Creator,Model Making,2021,113,1,Retail,9.99,
 31112.0,Wild Lion,Creator,Model Making,2021,224,0,Retail,14.99,
 31113.0,Race Car Transporter,Creator,Model Making,2021,328,0,Retail,29.99,
@@ -6513,8 +6762,17 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 31116.0,Safari Wildlife Tree House,Creator,,2021,397,2,Retail,29.99,
 31117.0,Space Shuttle Adventure,Creator,3 in 1,2021,486,1,Retail,49.99,
 31118.0,Surfer Beach House,Creator,Model Making,2021,564,2,Retail,49.99,
+31119.0,Ferris Wheel,Creator,3 in 1,2021,1002,5,Retail,89.99,
+31120.0,Medieval Castle,Creator,3 in 1,2021,1426,4,Retail,99.99,
 31121.0,Crocodile,Creator,3 in 1,2021,454,0,Retail,29.99,
 31122.0,Fish Tank,Creator,3 in 1,2021,352,0,Retail,29.99,
+31197.0,Andy Warhol's Marilyn Monroe,LEGO Art,,2020,3341,0,Retired,116.97,95.31
+31198.0,The Beatles,LEGO Art,,2020,2933,0,Retired,116.97,128.3
+31199.0,Marvel Studios Iron Man,LEGO Art,,2020,3167,0,Retired,116.97,126.58
+31200.0,Star Wars Sith,LEGO Art,,2020,3406,0,Retired,116.97,153.82
+31201.0,Harry Potter Hogwarts Crests,LEGO Art,,2021,4249,0,Retail (Retiring soon),119.99,
+31202.0,Disney's Mickey Mouse,LEGO Art,,2021,2658,0,Retail (Retiring soon),119.99,
+31203.0,World Map,LEGO Art,,2021,11695,0,Retail,249.99,
 31313.0,Mindstorms EV3,Mindstorms,EV3,2013,601,0,Retired,349.99,456.89
 40000.0,Cool Santa Set,Seasonal,Christmas,2009,152,0,Retired,8.79,17.85
 40001.0,Santa Claus,Seasonal,Christmas,2009,42,0,Retired,4.39,33.12
@@ -6656,10 +6914,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 40171.0,Hedgehog Storage,Friends,Miscellaneous,2017,249,0,Retired,12.99,21.99
 40172.0,Brick Calendar,Exclusive,Desk Accessory,2017,278,1,Retired,19.99,34.32
 40173.0,Picture Frame,Exclusive,Photo Frames,2017,268,0,Retired,16.99,17.43
+40174.0,LEGO Chess,Exclusive,,2017,1450,0,Exclusive (Retiring soon),54.99,
 40175.0,City Police Mission Pack,City,Police,2017,48,1,Retired,,4.14
 40176.0,Scarif Stormtrooper,Star Wars,Rogue One,2017,25,1,Retired,,20.05
 40177.0,City Jungle Explorer Kit,City,Jungle,2017,40,1,Retired,,15.84
 40178.0,Iconic VIP Set,Promotional,LEGO Brand Stores,2017,205,2,Retired,,11.42
+40179.0,Personalised Mosaic Portrait,Exclusive,,2016,6000,0,Retired,99.99,103.2
 40180.0,Bricktober Theater,Promotional,Toys R Us,2014,164,0,Retired,17.59,22.0
 40181.0,Bricktober Pizza Place,Promotional,Toys R Us,2014,139,0,Retired,17.59,28.36
 40182.0,Bricktober Fire Station,Promotional,Toys R Us,2014,175,0,Retired,17.59,26.4
@@ -6790,6 +7050,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 40343.0,Spider-Man and the Museum Break-In Minifigure Pack,Marvel Super Heroes,Spider-Man Far From Home,2019,49,3,Retired,14.99,45.7
 40344.0,Summer Celebration Minifigure Pack,City,,2019,45,4,Retired,12.99,11.95
 40345.0,Mars Exploration Minifigure Pack,City,Space,2019,44,4,Retired,12.99,20.87
+40346.0,LEGOLAND,Promotional,LEGOLAND,2019,1336,11,Retired,119.99,116.16
 40347.0,LEGOLAND Driving School,Promotional,LEGOLAND,2019,209,4,Retired,13.19,18.33
 40348.0,Birthday Clown,BrickHeadz,Seasonal,2019,150,0,Retail,9.99,
 40349.0,Valentine's Puppy,BrickHeadz,Seasonal,2019,150,0,Retired,9.99,17.13
@@ -6918,6 +7179,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 40499.0,Santa's Sleigh,Seasonal,Christmas,2021,343,1,Exclusive,39.99,
 40500.0,Wizarding World Minifigure Accessory Set,Harry Potter,General,2021,33,4,Retired,14.99,17.27
 40501.0,The Wooden Duck,Promotional,LEGO House,2020,621,0,Retired,79.19,103.46
+40502.0,The Brick Moulding Machine,Promotional,LEGO House,2021,1205,0,Retired,87.99,131.24
 40511.0,Kung Fu Training,Minions,The Rise of Gru,2021,54,4,Retired,14.99,15.78
 40512.0,Fun and Funky VIP Add On Pack,Exclusive,,2021,148,0,Retired,,19.9
 40513.0,Spooky VIP Add On Pack,Exclusive,,2021,83,6,Retired,,7.08
@@ -6979,6 +7241,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41055.0,Cinderella's Romantic Castle,Disney Princess,Cinderella,2014,646,2,Retired,69.99,119.61
 41056.0,Heartlake News Van,Friends,,2014,278,2,Retired,24.99,25.07
 41057.0,Heartlake Horse Show,Friends,,2014,355,2,Retired,39.99,184.43
+41058.0,Heartlake Shopping Mall,Friends,,2014,1120,4,Retired,99.99,145.78
 41059.0,Jungle Tree Sanctuary,Friends,Jungle Rescue,2014,320,1,Retired,29.99,61.8
 41060.0,Sleeping Beauty's Royal Bedroom,Disney Princess,Sleeping Beauty,2015,96,1,Retired,12.99,40.44
 41061.0,Jasmine's Exotic Palace,Disney Princess,Aladdin,2015,143,1,Retired,24.99,30.45
@@ -7012,6 +7275,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41098.0,Emma's Tourist Kiosk,Friends,,2015,98,1,Retired,6.99,10.6
 41099.0,Heartlake Skate Park,Friends,,2015,199,1,Retired,19.99,35.2
 41100.0,Heartlake Private Jet,Friends,,2015,230,2,Retired,24.99,87.94
+41101.0,Heartlake Grand Hotel,Friends,,2015,1552,5,Retired,129.99,263.53
 41102.0,Friends Advent Calendar,Friends,Seasonal,2015,233,2,Retired,13.99,40.62
 41103.0,Pop Star Recording Studio,Friends,Pop Star,2015,172,1,Retired,14.99,26.39
 41104.0,Pop Star Dressing Room,Friends,Pop Star,2015,279,2,Retired,29.99,92.22
@@ -7040,6 +7304,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41127.0,Amusement Park Arcade,Friends,Amusement Park,2016,174,1,Retired,14.99,23.78
 41128.0,Amusement Park Space Ride,Friends,Amusement Park,2016,195,1,Retired,19.99,26.39
 41129.0,Amusement Park Hot Dog Van,Friends,Amusement Park,2016,243,2,Retired,26.39,32.5
+41130.0,Amusement Park Roller Coaster,Friends,Amusement Park,2016,1124,4,Retired,87.99,148.91
 41131.0,Friends Advent Calendar,Friends,Seasonal,2016,218,2,Retired,19.99,33.86
 41132.0,Heartlake Party Shop,Friends,Party,2016,176,2,Retired,29.99,42.84
 41133.0,Amusement Park Bumper Cars,Friends,Amusement Park,2016,424,2,Retired,39.99,56.24
@@ -7084,6 +7349,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41177.0,The Precious Crystal Mine,Elves,,2016,273,0,Retired,29.99,61.34
 41178.0,The Dragon Sanctuary,Elves,,2016,585,2,Retired,49.99,230.57
 41179.0,Queen Dragon's Rescue,Elves,,2016,833,2,Retired,69.99,263.86
+41180.0,Ragana's Magic Shadow Castle,Elves,,2016,1014,3,Retired,89.99,187.62
 41181.0,Naida's Gondola & the Goblin Thief,Elves,,2017,67,2,Retired,9.99,18.67
 41182.0,The Capture of Sophie Jones,Elves,,2017,226,2,Retired,19.99,23.7
 41183.0,The Goblin King's Evil Dragon,Elves,,2017,339,2,Retired,34.99,66.0
@@ -7108,6 +7374,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41236.0,Harley Quinn Dorm,DC Super Hero Girls,,2017,176,1,Retired,19.99,28.45
 41237.0,Batgirl Secret Bunker,DC Super Hero Girls,,2017,351,2,Retired,44.99,54.76
 41238.0,Lena Luthor Kryptomite Factory,DC Super Hero Girls,,2017,432,2,Retired,59.99,70.27
+41239.0,Eclipso Dark Palace,DC Super Hero Girls,,2017,1078,3,Retired,99.99,110.0
 41250.0,Techno Reef Dance Party,Trolls World Tour,,2020,159,1,Retired,24.99,17.9
 41251.0,Poppy's Pod,Trolls World Tour,,2020,103,1,Retired,19.99,17.81
 41252.0,Poppy's Air Balloon Adventure,Trolls World Tour,,2020,250,3,Retired,34.99,30.77
@@ -7164,6 +7431,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41344.0,Andrea's Accessories Store,Friends,,2018,294,2,Retired,29.99,30.79
 41345.0,Heartlake City Pet Centre,Friends,,2018,474,3,Retired,59.99,105.6
 41346.0,Friendship Box,Friends,,2018,563,0,Retired,49.99,34.71
+41347.0,Heartlake City Resort,Friends,,2018,1017,4,Retired,99.99,140.63
 41348.0,Service & Care Truck,Friends,,2018,247,1,Retired,19.99,17.6
 41349.0,Drifting Diner,Friends,,2018,345,2,Retired,29.99,33.37
 41350.0,Spinning Brushes Car Wash,Friends,,2018,325,2,Retired,29.99,39.46
@@ -7190,6 +7458,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41372.0,Stephanie's Gymnastics Show,Friends,,2019,241,2,Retired,29.99,52.79
 41373.0,Funny Octopus Ride,Friends,,2019,324,2,Retired,39.99,38.61
 41374.0,Andrea's Pool Party,Friends,,2019,468,2,Retired,49.99,50.2
+41375.0,Heartlake City Amusement Pier,Friends,,2019,1251,7,Retired,129.99,119.64
 41376.0,Turtles Rescue Mission,Friends,,2019,225,2,Retired,19.99,23.72
 41378.0,Dolphins Rescue Mission,Friends,,2019,363,2,Retired,39.99,36.68
 41379.0,Heartlake City Restaurant,Friends,,2019,624,3,Retired,59.99,57.46
@@ -7237,6 +7506,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41427.0,Emma's Fashion Shop,Friends,,2020,343,2,Retired,29.99,38.84
 41428.0,Beach House,Friends,,2020,444,2,Retired,49.99,51.04
 41429.0,Heartlake City Airplane,Friends,,2020,574,3,Retired,69.99,70.49
+41430.0,Summer Fun Water Park,Friends,,2020,1001,4,Retired,99.99,109.62
 41431.0,Heartlake City Brick Box,Friends,,2020,321,2,Retired,39.99,43.85
 41432.0,Alpaca Mountain Jungle Rescue,Friends,,2020,512,2,Retired,59.99,82.54
 41433.0,Party Boat,Friends,,2020,640,3,Retired,79.99,75.35
@@ -7256,6 +7526,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41447.0,Heartlake City Park,Friends,,2021,432,3,Retired,39.99,48.73
 41448.0,Heartlake City Movie Theatre,Friends,,2021,451,3,Retail,49.99,
 41449.0,Andrea's Family House,Friends,,2021,802,5,Retail,69.99,
+41450.0,Heartlake City Shopping Mall,Friends,,2021,1032,6,Retail,99.99,
 41451.0,Unikitty Cloud Car,Unikitty!,,2018,126,3,Retired,14.99,10.07
 41452.0,Prince Puppycorn Trike,Unikitty!,,2018,101,3,Retired,14.99,9.44
 41453.0,Party Time,Unikitty!,,2018,214,4,Retired,29.99,15.07
@@ -7422,6 +7693,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41681.0,Forest Camper Van and Sailboat,Friends,Forest,2021,487,3,Retail,44.99,
 41682.0,Heartlake City School,Friends,,2021,605,3,Retail,64.99,
 41683.0,Forest Horseback Riding Center,Friends,Forest,2021,511,3,Retail,64.99,
+41684.0,Heartlake City Grand Hotel,Friends,,2021,1308,4,Retail,99.99,
 41685.0,Magical Funfair Roller Coaster,Friends,Magical,2021,974,4,Retail,89.99,
 41686.0,Magical Acrobatics,Friends,Magical,2021,223,2,Retail,19.99,
 41687.0,Magical Funfair Stalls,Friends,Magical,2021,361,3,Retail,29.99,
@@ -7479,17 +7751,22 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 41932.0,Extra DOTS - Series 5,Dots,Extra Dots,2021,120,0,Retired,3.99,4.53
 41933.0,Music Bracelet,Dots,Bracelets,2021,56,0,Retired,6.99,6.24
 41934.0,Starlight Bracelets,Dots,Bracelets,2021,34,0,Retired,6.99,6.16
+41935.0,Lots of DOTS,Dots,Miscellaneous,2021,1040,0,Retail,19.99,
 41936.0,Pencil Holder,Dots,Accessories,2021,321,0,Retail,19.99,
 41937.0,Multi Pack - Summer Vibes,Dots,Accessories,2021,441,0,Retail,29.99,
 41938.0,Creative Designer Box,Dots,Miscellaneous,2021,779,0,Retail,39.99,
 41939.0,Bag Tag Dragon,Dots,Bag Tag,2021,82,0,Retired,6.99,7.26
 41940.0,Bag Tag Unicorn,Dots,Bag Tag,2021,80,0,Retired,6.99,10.76
+41999.0,4x4 Crawler Exclusive Edition ,Technic,,2013,1585,0,Retired,189.99,439.96
+42000.0,Grand Prix Racer,Technic,,2013,1141,0,Retired,99.99,276.98
 42001.0,Mini Off-Roader,Technic,,2013,100,0,Retired,9.99,17.59
 42002.0,Hovercraft,Technic,,2013,170,0,Retired,14.99,32.48
 42004.0,Mini Backhoe Loader,Technic,,2013,246,0,Retired,19.99,72.01
 42005.0,Monster Truck,Technic,,2013,329,0,Retired,39.99,106.88
 42006.0,Excavator,Technic,,2013,720,0,Retired,59.99,153.77
 42007.0,Moto Cross Bike,Technic,,2013,253,0,Retired,29.99,107.94
+42008.0,Service Truck,Technic,,2013,1276,0,Retired,109.99,259.82
+42009.0,Mobile Crane MK II,Technic,,2013,2606,0,Retired,199.99,350.94
 42010.0,Off-road Racer,Technic,,2013,160,0,Retired,19.99,37.58
 42011.0,Race Car,Technic,,2013,158,0,Retired,19.99,30.18
 42020.0,Twin Rotor Helicopter,Technic,,2014,145,0,Retired,9.99,21.81
@@ -7497,9 +7774,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42022.0,Hot Rod,Technic,,2014,414,0,Retired,29.99,53.71
 42023.0,Construction Crew,Technic,,2014,833,0,Retired,59.99,97.74
 42024.0,Container Truck,Technic,,2014,948,0,Retired,69.99,142.85
+42025.0,Cargo Plane,Technic,,2014,1297,0,Retired,119.99,219.93
 42026.0,Black Champion Racer,Technic,,2014,137,0,Retired,19.99,42.91
 42027.0,Desert Racer,Technic,,2014,148,0,Retired,19.99,39.91
 42028.0,Bulldozer,Technic,,2014,617,0,Retired,39.99,111.29
+42029.0,Customised Pick-Up Truck,Technic,,2014,1063,0,Retired,89.99,156.73
+42030.0,Volvo L350F Wheel Loader,Technic,,2014,1636,0,Retired,219.99,296.97
 42031.0,Cherry Picker,Technic,,2015,155,0,Retired,9.99,18.17
 42032.0,Compact Tracked Loader,Technic,,2015,252,0,Retired,14.99,54.07
 42033.0,Record Breaker,Technic,,2015,125,0,Retired,19.99,33.31
@@ -7508,8 +7788,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42036.0,Street Motorcycle,Technic,,2015,375,0,Retired,34.99,84.02
 42037.0,Formula Off-Roader,Technic,,2015,494,0,Retired,49.99,73.5
 42038.0,Arctic Truck,Technic,,2015,913,0,Retired,79.99,115.48
+42039.0,24 Hours Race Car,Technic,,2015,1219,0,Retired,99.99,162.79
 42040.0,Fire Plane,Technic,,2015,578,0,Retired,49.99,113.04
 42041.0,Race Truck,Technic,,2015,608,0,Retired,59.99,95.27
+42042.0,Crawler Crane,Technic,,2015,1401,0,Retired,119.99,273.06
+42043.0,Mercedes-Benz Arocs 3245,Technic,,2015,2793,0,Retired,199.99,352.0
 42044.0,Display Team Jet,Technic,,2016,113,0,Retired,9.99,15.17
 42045.0,Hydroplane Racer,Technic,,2016,180,0,Retired,14.99,21.82
 42046.0,Getaway Racer,Technic,,2016,170,0,Retired,19.99,30.47
@@ -7517,6 +7800,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42048.0,Race Kart,Technic,,2016,345,0,Retired,26.99,52.79
 42049.0,Mine Loader,Technic,,2016,476,0,Retired,39.99,61.49
 42050.0,Drag Racer,Technic,,2016,647,0,Retired,59.99,84.82
+42052.0,Heavy Lift Helicopter,Technic,,2016,1042,0,Retired,119.99,196.23
+42053.0,Volvo EW 160E,Technic,,2016,1166,0,Retired,119.99,155.68
+42054.0,CLAAS XERION 5000 TRAC VC,Technic,,2016,1977,0,Retired,149.99,226.79
+42055.0,Bucket Wheel Excavator,Technic,,2016,3927,0,Retired,229.99,387.07
+42056.0,Porsche 911 GT3 RS,Technic,,2016,2704,0,Retired,299.99,749.66
 42057.0,Ultralight Helicopter,Technic,,2017,199,0,Retired,14.99,26.39
 42058.0,Stunt Bike,Technic,,2017,140,0,Retired,19.99,22.72
 42059.0,Stunt Truck,Technic,,2017,142,0,Retired,19.99,30.8
@@ -7524,13 +7812,25 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42061.0,Telehandler,Technic,,2017,260,0,Retired,29.99,50.3
 42062.0,Container Yard,Technic,,2017,631,0,Retired,49.99,87.99
 42063.0,BMW R 1200 GS Adventure,Technic,,2017,603,0,Retired,49.99,126.56
+42064.0,Ocean Explorer,Technic,,2017,1327,0,Retired,89.99,188.8
 42065.0,RC Tracked Racer,Technic,,2017,370,0,Retired,79.99,113.93
+42066.0,Air Race Jet,Technic,,2017,1151,0,Retired,119.99,167.75
+42068.0,Airport Rescue Vehicle,Technic,,2017,1094,0,Retired,89.99,158.36
+42069.0,Extreme Adventure,Technic,,2017,2382,0,Retired,129.99,205.65
+42070.0,6x6 All Terrain Tow Truck,Technic,,2017,1862,0,Retired,249.99,316.73
 42071.0,Dozer Compactor,Technic,,2018,171,0,Retired,14.99,22.79
 42072.0,WHACK!,Technic,,2018,135,0,Retired,19.99,22.06
 42073.0,BASH!,Technic,,2018,139,0,Retired,19.99,24.55
 42074.0,Racing Yacht,Technic,,2018,330,0,Retired,29.99,52.72
 42075.0,First Responder,Technic,,2018,513,0,Retired,39.99,54.82
+42076.0,Hovercraft,Technic,,2018,1020,0,Retired,69.99,86.24
+42077.0,Rally Car,Technic,,2018,1005,0,Retired,99.99,110.87
+42078.0,Mack Anthem,Technic,,2018,2595,0,Retired,149.99,208.16
 42079.0,Heavy Duty Forklift,Technic,,2018,592,0,Retired,49.99,88.0
+42080.0,Forest Harvester,Technic,,2018,1003,0,Retired,129.99,144.03
+42081.0,Volvo Concept Wheel Loader ZEUX,Technic,,2018,1167,0,Retired,119.99,140.8
+42082.0,Rough Terrain Crane,Technic,,2018,4057,0,Retired,229.99,295.54
+42083.0,Bugatti Chiron,Technic,,2018,3599,0,Retail (Retiring soon),369.99,
 42084.0,Hook Loader,Technic,,2018,176,0,Retired,9.99,14.41
 42088.0,Cherry Picker,Technic,,2019,155,0,Retired,9.99,10.69
 42089.0,Power Boat,Technic,,2019,174,0,Retired,14.99,30.54
@@ -7540,8 +7840,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42093.0,Chevrolet Corvette ZR1,Technic,,2019,579,0,Retired,39.99,44.0
 42094.0,Tracked Loader,Technic,,2019,827,0,Retired,59.99,148.2
 42095.0,Remote-Controlled Stunt Racer,Technic,,2019,324,0,Retired,79.99,107.26
+42096.0,Porsche 911 RSR,Technic,,2019,1580,0,Retail,149.99,
 42097.0,Compact Crawler Crane,Technic,,2019,920,0,Retired,89.99,105.56
+42098.0,Car Transporter,Technic,,2019,2493,0,Retired,149.99,191.66
 42099.0,4x4 X-Treme Off-Roader,Technic,,2019,958,0,Retired,229.99,232.99
+42100.0,Liebherr R 9800,Technic,,2019,4108,0,Retired,449.99,482.45
 42101.0,Buggy,Technic,,2020,117,0,Retired,9.99,16.98
 42102.0,Mini CLAAS XERION,Technic,,2020,130,0,Retired,9.99,17.93
 42103.0,Dragster,Technic,,2020,225,0,Retired,19.99,21.12
@@ -7549,7 +7852,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42105.0,Catamaran,Technic,,2020,404,0,Retired,39.99,47.03
 42106.0,Stunt Show Truck & Bike,Technic,,2020,610,0,Retired,49.99,51.57
 42107.0,Ducati Panigale V4 R,Technic,,2020,646,0,Retail (Retiring soon),69.99,
+42108.0,Mobile Crane,Technic,,2020,1292,0,Retired,99.99,119.12
 42109.0,App-Controlled Top Gear Rally Car,Technic,,2020,463,0,Retired,129.99,144.22
+42110.0,Land Rover Defender,Technic,,2019,2573,0,Retail,179.99,
+42111.0,Dom's Dodge Charger,Technic,,2020,1077,0,Limited retail,119.99,
+42112.0,Concrete Mixer Truck,Technic,,2020,1163,0,Retired,97.47,125.61
+42113.0,Bell-Boeing V-22 Osprey,Technic,,2020,1636,0,Retired,139.99,655.09
+42114.0,6x6 Volvo Articulated Hauler,Technic,,2020,2193,0,Retail,243.69,
+42115.0,Lamborghini Sián FKP 37,Technic,,2020,3696,0,Retail,449.99,
 42116.0,Skid Steer Loader,Technic,,2021,140,0,Retail (Retiring soon),9.99,
 42117.0,Race Plane,Technic,,2021,145,0,Retail,9.99,
 42118.0,Monster Jam Grave Digger,Technic,Monster Jam,2021,212,0,Retail,19.99,
@@ -7559,6 +7869,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 42122.0,Jeep Wrangler,Technic,,2021,665,0,Retail,49.99,
 42123.0,McLaren Senna GTR,Technic,,2021,830,0,Retail,49.99,
 42124.0,Off-Road Buggy,Technic,,2021,374,0,Retail,129.99,
+42125.0,Ferrari 488 GTE 'AF Corse #51',Technic,,2021,1677,0,Retail,199.99,
+42126.0,Ford F-150 Raptor,Technic,,2021,1379,0,Retail (Retiring soon),139.99,
+42128.0,Heavy-Duty Tow Truck,Technic,,2021,2017,0,Retail,179.99,
+42129.0,4x4 Mercedes-Benz Zetros Trial Truck,Technic,,2021,2108,0,Retail,329.99,
+42131.0,Cat D11 Bulldozer,Technic,,2021,3854,0,Retail,499.99,
 43101.0,Ice Cream Saxophonist,Vidiyo,Bandmates Series 1,2021,9,1,Retired,4.99,8.78
 43101.1,Cotton Candy Cheerleader,Vidiyo,Bandmates Series 1,2021,11,1,Retired,4.99,8.6
 43101.11,Bunny Dancer,Vidiyo,Bandmates Series 1,2021,9,1,Retired,4.99,6.51
@@ -7606,6 +7921,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 43176.0,Ariel's Storybook Adventures,Disney,The Little Mermaid,2020,105,3,Retired,19.99,27.59
 43177.0,Belle's Storybook Adventures,Disney,Beauty and the Beast,2020,111,5,Retired,19.99,21.99
 43178.0,Cinderella's Castle Celebration,Disney,Cinderella,2020,168,1,Retired,29.99,28.79
+43179.0,Mickey Mouse and Minnie Mouse,Disney,,2020,1739,0,Exclusive (Retiring soon),175.45,
 43180.0,Belle's Castle Winter Celebration,Disney,Disney Princess,2020,238,6,Retired,49.99,42.74
 43181.0,Raya and the Heart Palace,Disney,Raya and the Last Dragon,2021,610,2,Retired,79.99,68.04
 43182.0,Mulan's Training Grounds,Disney,Mulan,2020,157,1,Retired,29.99,44.55
@@ -7622,6 +7938,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 43194.0,Anna and Elsa's Frozen Wonderland,Disney,Frozen,2021,154,3,Retail,44.99,
 43195.0,Belle and Rapunzel's Royal Stables,Disney,Disney Princess,2021,239,2,Retail,49.99,
 43196.0,Belle and the Beast's Castle,Disney,Beauty and the Beast,2021,505,3,Retail,99.99,
+43197.0,The Ice Castle,Disney,Frozen,2021,1709,5,Exclusive,209.99,
 43200.0,Antonio's Magical Door,Disney,Encanto,2021,99,2,Retail,19.99,
 43201.0,Isabela's Magical Door,Disney,Encanto,2021,114,3,Retail,19.99,
 43202.0,The Madrigal House,Disney,Encanto,2021,587,3,Retail,49.99,
@@ -7672,6 +7989,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 45017.0,Playground Set,Education,Duplo,2016,104,6,Retired,79.19,88.64
 45018.0,Build Me 'Emotions',Education,Duplo,2016,188,0,Retired,79.16,117.19
 45019.0,Creative LEGO DUPLO Brick Set,Education,Duplo,2016,160,0,Retired,55.4,69.56
+45020.0,Creative LEGO Brick Set,Education,,2016,1000,0,Retired,52.76,76.27
 45021.0,Our Town,Education,Duplo,2017,274,6,Retired,107.32,193.75
 45022.0,Community Minifigure Set,Education,System,2016,182,21,Retired,41.32,55.46
 45023.0,Fantasy Minifigure Set,Education,System,2016,114,21,Retired,41.32,61.23
@@ -7682,8 +8000,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 45028.0,My XL World,Education,Duplo,2020,480,6,Retail,259.99,
 45029.0,Animals,Education,Duplo,2020,91,0,Retail,129.99,
 45030.0,People,Education,Duplo,2020,26,18,Retail,74.76,
+45100.0,StoryStarter Core Set,Education,,2013,1147,0,Retired,102.04,700.87
 45101.0,StoryStarter Expansion Pack Fairy Tale,Serious Play,,2015,186,0,Retired,39.99,44.69
 45110.0,BuildToExpress Set,Education,,2012,200,2,Retired,43.99,107.79
+45120.0,LearnToLearn Core set,Education,,2014,2018,0,Retired,149.56,166.98
 45300.0,WeDo 2.0 Core Set,Education,WeDo,2016,280,0,Retired,70.36,240.54
 45345.0,SPIKE Essential Set,Education,SPIKE Prime,2021,449,4,Retail,304.99,
 45400.0,BricQ Motion Prime,Education,BricQ,2021,562,4,Retail,118.99,
@@ -7701,6 +8021,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 45517.0,Transformer 10V DC,Mindstorms,,2015,1,0,Retired,34.11,52.57
 45544.0,Education EV3 Core Set,Education,Mindstorms,2013,541,0,Retired,299.16,579.6
 45560.0,Education EV3 Expansion Set,Education,Mindstorms,2013,853,0,Retired,87.96,173.37
+45570.0,Space Challenge Set,Education,Mindstorms,2014,1417,0,Retired,224.36,440.84
 45601.0,Large Hub,Education,SPIKE Prime,2020,1,0,Retail,243.69,
 45602.0,Large Angular Motor,Education,SPIKE Prime,2020,1,0,Retail,30.76,
 45604.0,Distance Sensor,Education,SPIKE Prime,2020,1,0,Retail,30.76,
@@ -7710,7 +8031,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 45678.0,SPIKE Prime Set,Education,SPIKE Prime,2020,523,2,Retail,399.99,
 45680.0,Expansion set,Education,SPIKE Prime,2020,603,0,Retail (Retiring soon),119.99,
 45681.0,Spike Prime Expansion Set (v2),Education,SPIKE Prime,2021,604,0,Retail,124.99,
+45802.0,FIRST LEGO League Challenge 2016 Animal Allies,Exclusive,FIRST LEGO League,2016,2161,2,Retired,198.0,267.57
 45803.0,FIRST LEGO League Challenge 2016 Creature Craze,Exclusive,FIRST LEGO League,2016,81,0,Retired,17.59,
+45804.0,FIRST LEGO League Challenge 2017 Hydro Dynamics,Exclusive,FIRST LEGO League,2017,2045,1,Retired,198.0,239.88
+45806.0,FIRST LEGO League Challenge 2018 Into Orbit,Exclusive,FIRST LEGO League,2018,1892,3,Retired,269.99,338.73
 45807.0,Mission Moon,Education,FIRST LEGO League Jr,2018,693,0,Retired,158.36,133.93
 45810.0,Boomtown Build,Education,FIRST LEGO League,2020,738,0,Retired,43.99,89.66
 45814.0,Explore Set,Education,FIRST LEGO League Jr,2020,775,1,Retired,,
@@ -7808,6 +8132,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60093.0,Deep Sea Helicopter,City,Deep Sea Explorers,2015,388,3,Retired,49.99,109.45
 60095.0,Deep Sea Exploration Vessel,City,Deep Sea Explorers,2015,717,7,Retired,99.99,187.39
 60096.0,Deep Sea Operation Base,City,Deep Sea Explorers,2015,907,5,Retired,79.99,131.05
+60097.0,City Square,City,Traffic,2015,1683,14,Retired,169.99,175.96
 60098.0,Heavy-Haul Train,City,Trains,2015,984,5,Retired,159.99,294.08
 60099.0,City Advent Calendar,City,Seasonal,2015,278,6,Retired,19.99,37.22
 60100.0,Airport Starter Set,City,Airport,2016,81,4,Retired,9.99,9.71
@@ -7835,6 +8160,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60122.0,Volcano Crawler,City,Volcano Explorers,2016,324,3,Retired,29.99,42.35
 60123.0,Volcano Supply Helicopter,City,Volcano Explorers,2016,330,3,Retired,49.99,66.76
 60124.0,Volcano Exploration Base,City,Volcano Explorers,2016,824,6,Retired,119.99,179.86
+60125.0,Volcano Heavy-Lift Helicopter,City,Volcano Explorers,2016,1277,8,Retired,129.99,204.71
 60126.0,Tire Escape,City,Prison Island,2016,47,2,Retired,5.99,11.4
 60127.0,Prison Island Starter Set,City,Prison Island,2016,92,4,Retired,9.99,13.95
 60128.0,Police Pursuit,City,Police,2016,184,2,Retired,19.99,30.77
@@ -7871,6 +8197,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60159.0,Jungle Halftrack Mission,City,Jungle,2017,378,2,Retired,29.99,42.98
 60160.0,Jungle Mobile Lab,City,Jungle,2017,426,4,Retired,49.99,65.08
 60161.0,Jungle Exploration Site,City,Jungle,2017,813,7,Retired,99.99,166.65
+60162.0,Jungle Air Drop Helicopter,City,Jungle,2017,1250,7,Retired,129.99,182.03
 60163.0,Coast Guard Starter Set,City,Coast Guard,2017,76,3,Retired,9.99,9.71
 60164.0,Sea Rescue Plane,City,Coast Guard,2017,141,2,Retired,19.99,30.2
 60165.0,4x4 Response Unit,City,Coast Guard,2017,347,3,Retired,29.99,44.73
@@ -7904,6 +8231,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60195.0,Arctic Mobile Exploration Base,City,Arctic,2018,786,6,Retired,99.99,123.1
 60196.0,Arctic Supply Plane,City,Arctic,2018,707,4,Retired,69.99,104.59
 60197.0,Passenger Train,City,Trains,2018,677,4,Retired,129.99,118.66
+60198.0,Cargo Train,City,Trains,2018,1226,6,Retired,189.99,192.4
+60200.0,Capital City,City,,2018,1211,13,Retired,129.99,168.16
 60201.0,City Advent Calendar,City,Seasonal,2018,313,6,Retired,19.99,30.8
 60202.0,People Pack Outdoor Adventures,City,General,2018,164,15,Retired,39.99,44.81
 60203.0,Ski Resort,City,Town,2019,806,11,Retired,79.99,89.75
@@ -7931,6 +8260,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60226.0,Mars Research Shuttle,City,Space,2019,273,2,Retired,29.99,42.18
 60227.0,Lunar Space Station,City,Space,2019,412,5,Retired,49.99,59.95
 60228.0,Deep Space Rocket and Launch Control,City,Space,2019,837,7,Retired,99.99,98.59
+60229.0,Rocket Assembly &Transport,City,Space,2019,1055,8,Retired,129.99,123.18
 60230.0,People Pack - Space Research and Development,City,Space,2019,209,15,Retired,39.99,39.6
 60231.0,Fire Chief Response Truck,City,Fire,2019,201,2,Retired,19.99,34.28
 60232.0,Garage Centre,City,,2019,234,4,Retired,39.99,
@@ -7970,6 +8300,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 60267.0,Safari Off-Roader,City,Traffic,2020,168,2,Retired,19.99,18.12
 60268.0,City Advent Calendar,City,Seasonal,2020,342,6,Retired,19.99,26.55
 60270.0,Police Brick Box,City,Police,2020,301,4,Retired,39.99,36.37
+60271.0,Main Square,City,Town,2020,1517,14,Retired,175.45,174.24
 60272.0,Elite Police Boat Transport,City,Police,2020,166,2,Retired,19.49,21.95
 60273.0,Elite Police Driller Chase,City,Police,2020,179,2,Retired,19.49,24.53
 60274.0,Elite Police Lighthouse Capture,City,Police,2020,189,2,Retired,19.49,20.91
@@ -8068,6 +8399,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 65547.0,Bionicle Co-Pack 3,Bionicle,Value Packs,2004,123,0,Retired,21.99,288.17
 65548.0,Bionicle Vahki 3-Pack Non-Clamshell,Bionicle,Value Packs,2004,96,0,Retired,21.99,100.18
 65549.0,Bionicle Vahki 3-Pack Non-Clamshell B,Bionicle,Value Packs,2004,96,0,Retired,21.99,114.49
+65572.0,Spider-Man Combined Set,Spider-Man,Value Packs,2004,1022,0,Retired,299.99,
 65573.0,Rumble Racers,Racers,Value Packs,2005,310,0,Retired,17.59,156.23
 65574.0,Bionicle Krekka + DVD,Bionicle,Value Packs,2004,214,0,Retired,17.59,
 65575.0,Clikits Tri-Pack A,Clikits,Value Packs,2004,48,0,Retired,6.15,14.64
@@ -8103,6 +8435,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 65796.0,Bionicle Sam's Visorak Comic A,Bionicle,Value Packs,2005,143,0,Retired,17.59,252.08
 65797.0,Bionicle Sam's Visorak Comic B,Bionicle,Value Packs,2005,144,0,Retired,17.59,124.04
 65799.0,City Fire Value Pack,City,Value Packs,2005,664,0,Retired,105.59,273.65
+65800.0,City Construction Collection,City,Value Packs,2005,1012,0,Retired,87.99,393.11
 65801.0,Trains Value Pack,World City,Value Packs,2004,741,0,Retired,131.96,762.19
 65808.0,Bionicle Co-pack with Sword,Bionicle,Value Packs,2005,144,0,Retired,13.19,244.46
 65809.0,City Tri-Pack,City,Value Packs,2005,110,0,Retired,11.43,108.55
@@ -8129,6 +8462,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66148.0,Bionicle Inika Co-Pack B,Bionicle,Value Packs,2006,92,0,Retired,17.59,171.91
 66150.0,Star Wars Co-Pack,Star Wars,Value Packs,2006,396,0,Retired,21.99,179.62
 66151.0,Limited Edition Green Brick Tub Plus Bonus Pack,Duplo,Value Packs,2006,171,0,Retired,17.59,
+66156.0,City Airport Exclusive Pack,City,Value Packs,2006,1123,0,Retired,87.99,440.73
 66157.0,Bionicle Korea Value Pack,Bionicle,Value Packs,2006,124,0,Retired,17.59,438.33
 66158.0,Bionicle Value Pack,Bionicle,Value Packs,2006,124,0,Retired,17.59,458.6
 66166.0,City Passenger Plane & Airport Firetruck,City,Value Packs,2006,549,0,Retired,43.99,297.54
@@ -8153,6 +8487,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66189.0,Creative Building,Duplo,Value Packs,2007,147,0,Retired,26.39,
 66190.0,City Fire Co-Pack,City,Value Packs,2005,208,0,Retired,17.59,58.61
 66193.0,City Medical Super Pack,City,Value Packs,2007,815,0,Retired,79.19,261.89
+66194.0,City Super Pack,City,Value Packs,2007,1097,0,Retired,87.99,522.76
 66195.0,City Fire Super Pack,City,Value Packs,2007,496,0,Retired,87.99,439.2
 66198.0,Creative Building System,Creator,Value Packs,2007,286,0,Retired,8.79,68.9
 66200.0,Exo-Force Co-Pack,Exo-Force,Value Packs,2006,557,0,Retired,70.39,203.31
@@ -8170,13 +8505,18 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66234.0,Creator Co-Pack,Creator,Value Packs,2007,566,0,Retired,26.39,188.4
 66235.0,Bionicle Co-Pack,Bionicle,Value Packs,2007,192,0,Retired,17.59,377.63
 66236.0,Build & Play Value Pack,Duplo,Value Packs,2008,145,0,Retired,52.79,85.3
+66237.0,Build & Play Value Pack,Bricks and More,Value Packs,2008,1021,0,Retired,52.79,119.53
+66239.0,City Super Set,City,Value Packs,2007,1267,0,Retired,184.79,614.24
 66244.0,City Polizei Co-Pack,City,Value Packs,2005,87,0,Retired,7.03,29.9
 66245.0,City Baustelle Co-Pack,City,Value Packs,2005,99,0,Retired,8.79,61.38
 66246.0,City Police Super Pack,City,Value Packs,2008,650,0,Retired,52.79,125.47
 66247.0,City Value Pack,City,Value Packs,2008,343,0,Retired,22.87,82.68
 66248.0,City Co-Pack,City,Value Packs,2006,525,0,Retired,105.59,637.1
+66255.0,City Fire Value Pack,City,Value Packs,2008,1030,0,Retired,79.19,178.48
 66256.0,City Super Pack,City,Value Packs,2008,825,0,Retired,52.79,246.4
+66257.0,City Police Super Pack 4-in-1,City,Value Packs,2008,1134,0,Retired,105.59,323.48
 66258.0,City Value Pack,City,Value Packs,2008,821,0,Retired,61.59,323.51
+66260.0,City Transport Value Pack,City,Value Packs,2008,1024,0,Retired,87.99,395.97
 66261.0,Duplo LEGOVille Value Pack,Duplo,Value Packs,2008,70,0,Retired,52.79,338.76
 66262.0,Super Pack 3-in-1,Duplo,Value Packs,2008,42,0,Retired,52.79,338.76
 66264.0,Super Pack 3-in-1,Duplo,Value Packs,2008,135,0,Retired,87.99,358.56
@@ -8186,7 +8526,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66273.0,Bionicle Costco Canada CoPack B,Bionicle,Value Packs,2008,124,0,Retired,22.87,131.52
 66274.0,Bionicle Costco Canada CoPack C,Bionicle,Value Packs,2008,116,0,Retired,22.87,144.49
 66282.0,City Police Value Pack,City,Value Packs,2008,192,0,Retired,17.59,37.75
+66284.0,LEGO Build and Play Value Pack,Bricks and More,Value Packs,2009,1021,0,Retired,52.79,119.64
 66288.0,Markant Racers Bundle Tiny Turbos,Racers,Value Packs,2008,143,0,Retired,11.43,117.24
+66290.0,City Value Pack,City,Value Packs,2008,1077,0,Retired,87.99,273.55
 66299.0,TESCO Co-Pack,Bricks and More,Value Packs,2008,689,0,Retired,43.99,
 66300.0,Technic Kettenbagger-Co-Pack,Technic,Value Packs,2008,720,0,Retired,52.79,279.85
 66305.0,City Police Super Pack 3-in-1,City,Value Packs,2009,650,0,Retired,79.19,125.18
@@ -8198,10 +8540,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66319.0,Super Pack 3-in-1,Power Miners,Value Packs,2009,928,0,Retired,129.99,342.67
 66320.0,Duplo Feeding Zoo Pack,Duplo,Value Packs,2009,95,0,Retired,79.19,378.36
 66321.0,Big City Zoo Pack,Duplo,Value Packs,2009,125,0,Retired,96.79,170.32
+66325.0,City Super Pack 4 in 1,City,Value Packs,2009,1267,0,Retired,199.99,704.16
 66326.0,City Super Pack 4 in 1,City,Value Packs,2009,501,0,Retired,43.99,111.77
 66328.0,City Police/Fire/Rescue Super Pack 6 in 1,City,Value Packs,2008,367,0,Retired,39.99,74.47
 66329.0,City Police/Fire Super Pack 3 in 1,City,Value Packs,2009,284,0,Retired,21.99,54.08
 66330.0,City Superpack 5 in 1,City,Value Packs,2008,984,0,Retired,87.99,260.59
+66331.0,City Super Pack 3 in 1 (Construction 1 VP),City,Value Packs,2009,1219,0,Retired,109.99,174.66
 66332.0,Super Pack 3-in-1,Duplo,Value Packs,2007,70,0,Retired,70.39,337.66
 66333.0,Costco Canada CoPack A,Bionicle,Value Packs,2009,107,0,Retired,22.87,183.35
 66334.0,Costco Canada CoPack B,Bionicle,Value Packs,2009,95,0,Retired,22.87,400.32
@@ -8211,6 +8555,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66342.0,City Super Pack 3 in 1,City,Value Packs,2010,565,0,Retired,49.99,104.79
 66344.0,Duplo Super Pack 4 in 1,Duplo,Value Packs,2010,33,0,Retired,34.99,134.69
 66345.0,City Super Pack 4 in 1,City,Value Packs,2010,296,0,Retired,17.59,62.25
+66357.0,City Fire Super Pack 4 in 1,City,Value Packs,2010,1053,0,Retired,29.99,234.63
 66358.0,City Farm Super Pack 3 in 1,City,Value Packs,2010,510,0,Retired,49.99,195.78
 66359.0,Super Pack 4 in 1,Technic,Value Packs,2010,804,0,Retired,79.99,215.99
 66360.0,City Super Pack 4 in 1,City,Value Packs,2010,871,0,Retired,59.99,215.09
@@ -8223,6 +8568,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66367.0,Duplo Farm Pack,Duplo,Value Packs,2010,68,0,Retired,70.39,192.18
 66368.0,Star Wars Super Pack 3 in 1,Star Wars,Value Packs,2010,316,0,Retired,59.99,119.2
 66373.0,Fun Favor Pack,Exclusive,Value Packs,2010,72,0,Retired,17.59,26.12
+66374.0,City Super Pack 4 in 1,City,Value Packs,2010,1224,0,Retired,249.99,622.39
 66375.0,City Super Pack 4 in 1,City,Value Packs,2011,352,0,Retired,39.99,48.58
 66377.0,Star Wars Super Pack 3 in 1,Star Wars,Value Packs,2011,484,0,Retired,89.99,329.06
 66378.0,Star Wars Super Pack 3 in 1,Star Wars,Value Packs,2011,330,0,Retired,59.99,148.37
@@ -8239,7 +8585,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66394.0,Super Pack 3-in-1,Ninjago,Value Packs,2011,830,0,Retired,89.99,278.13
 66395.0,Star Wars Super Pack 3 in 1,Star Wars,Value Packs,2011,366,0,Retired,59.99,197.74
 66396.0,Star Wars Super Pack 3 in 1,Star Wars,Value Packs,2011,644,0,Retired,99.99,393.95
+66397.0,Technic Super Pack 4 in 1,Technic,Value Packs,2011,1272,0,Retired,119.99,220.56
 66404.0,Combo Value Pack 1,HERO Factory,Value Packs,2011,61,0,Retired,34.99,159.83
+66405.0,City Super Pack 4-in-1,City,Value Packs,2011,1232,0,Retired,189.99,326.36
 66406.0,Combo Value Pack 2,HERO Factory,Value Packs,2011,60,0,Retired,34.99,204.37
 66407.0,Combo Value Pack 3,HERO Factory,Value Packs,2011,61,0,Retired,34.99,187.64
 66409.0,Cars Super Pack 3-in-1,Cars,Value Packs,2012,381,0,Retired,69.99,531.48
@@ -8254,6 +8602,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66430.0,Super Pack 3-in-1,Duplo,Value Packs,2012,34,0,Retired,29.99,151.95
 66431.0,Super Pack 3-in-1,Star Wars,Value Packs,2012,298,0,Retired,49.99,201.1
 66432.0,Super Pack 3-in-1,Star Wars,Value Packs,2012,763,0,Retired,89.99,164.6
+66433.0,Super Pack 3-in-1,Technic,Value Packs,2012,1163,0,Retired,119.99,246.9
 66434.0,Super Pack 3-in-1,Friends,Value Packs,2012,358,0,Retired,70.39,115.17
 66435.0,Super Pack 4-in-1,Friends,Value Packs,2012,495,0,Retired,79.99,100.38
 66436.0,City Police Super Pack 2-in-1,City,Value Packs,2012,226,0,Retired,39.99,43.39
@@ -8270,9 +8619,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66455.0,Super Pack 3-in-1,Friends,Value Packs,2013,844,0,Retired,99.99,140.54
 66456.0,Star Wars Super Pack,Star Wars,Value Packs,2013,821,0,Retired,99.99,
 66471.0,Super Pack 2-in-1,HERO Factory,Value Packs,2013,153,0,Retired,59.99,110.2
+66473.0,LEGO Star Wars Super Pack Combo,Star Wars,Value Packs,2013,1360,0,Retired,119.99,
+66474.0,LEGO Chima Super Pack 2-in-1,Legends of Chim,Value Packs,2013,1081,0,Retired,99.99,107.73
 66475.0,Super Pack,City,Value Packs,2013,814,0,Retired,99.99,130.5
 66476.0,City Value Pack,City,Value Packs,2014,308,0,Retired,39.99,65.23
 66478.0,Super Pack 3-in-1,Friends,Value Packs,2014,423,0,Retired,39.99,48.64
+66479.0,Value Pack,Star Wars,Value Packs,2014,1087,0,Retired,69.99,255.68
 66481.0,Ultimate Stormer,HERO Factory,Value Packs,2013,129,0,Retired,11.43,190.67
 66482.0,Super Pack 2-in-1,HERO Factory,Value Packs,2013,215,0,Retired,34.99,184.32
 66483.0,Value Pack 3-in-1,HERO Factory,Value Packs,2013,158,0,Retired,49.99,69.81
@@ -8281,18 +8633,22 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66488.0,Ultimate Evo,HERO Factory,Value Packs,2013,92,0,Retired,8.79,123.33
 66491.0,Super Pack 5 in 1,Legends of Chim,Value Packs,2014,999,0,Retired,59.99,187.88
 66492.0,City Police Value Pack,City,Value Packs,2014,676,0,Retired,59.99,63.49
+66493.0,City Train Value Pack,City,Value Packs,2014,1343,0,Retired,179.99,400.07
 66494.0,Train 3-in-1 pack,Duplo,Trains,2015,88,0,Retired,119.99,111.87
 66495.0,Star Wars Value Pack,Star Wars,Value Packs,2014,840,0,Retired,49.99,409.86
 66497.0,Animals Christmas Party Super Pack,Friends,Value Packs,2013,328,0,Retired,24.99,96.17
 66498.0,Chi Hyper Laval Value Pack,Legends of Chim,Value Packs,2013,122,0,Retired,29.99,41.32
 66499.0,Chi Hyper Gorzan 2-in-1 Value Pack,Legends of Chim,Value Packs,2013,127,0,Retired,29.99,94.82
 66500.0,Chi Hyper Cragger 2-in-1 Value Pack,Legends of Chim,Value Packs,2013,120,0,Retired,29.99,41.32
+66512.0,Rebels Super Pack,Star Wars,Value Packs,2014,1163,0,Retired,99.99,852.57
 66514.0,Microfighter Super Pack 3 in 1,Star Wars,Value Packs,2014,285,0,Retired,39.99,162.8
 66515.0,Microfighter Super Pack 3 in 1,Star Wars,Value Packs,2014,289,0,Retired,39.99,93.1
+66521.0,Demolition Super Pack,City,Value Packs,2015,1393,0,Retired,99.99,214.73
 66522.0,Deep Sea Explorers Super Pack 4-in-1,City,Value Packs,2015,794,0,Retired,99.99,171.71
 66523.0,City Super Pack 3-in-1,City,Value Packs,2015,528,0,Retired,59.99,73.54
 66524.0,Train Super Pack 3-in-1,Duplo,Value Packs,2015,177,0,Retired,99.99,151.89
 66525.0,Farm Super Pack 3-in-1,Duplo,Value Packs,2015,142,0,Retired,69.99,49.74
+66526.0,Super Pack 3-in-1,Friends,Value Packs,2015,1065,0,Retired,59.99,129.53
 66533.0,Microfighter 3 in 1 Super Pack,Star Wars,Value Packs,2015,276,0,Retired,49.99,67.03
 66534.0,Microfighter 3 in 1 Super Pack,Star Wars,Value Packs,2015,288,0,Retired,49.99,79.18
 66535.0,Obi-Wan Kenobi vs. General Grievous Battle Pack,Star Wars,Value Packs,2015,83,0,Retired,49.99,112.78
@@ -8312,6 +8668,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 66557.0,Classic Quad Pack,Classic,Value Packs,2017,259,0,Retired,17.56,83.98
 66558.0,Super Pack 5 in 1,Friends,Value Packs,2017,16,0,Retired,49.99,61.88
 66559.0,Ultimate LEGO City Hero Pack,City,Value Packs,2017,416,0,Retired,39.99,57.6
+66580.0,Holiday Co-Pack,City,Value Packs,2017,1129,0,Retired,99.99,212.13
 66584.0,Bonus/Value Pack,City,,2019,218,0,Retired,16.99,21.27
 66587.0,Bonus/Value Pack,City,,2019,125,0,Retired,12.99,15.25
 66591.0,2-in-1 Bundle Han Solo & Chewbacca,BrickHeadz,,2018,290,0,Retired,17.59,36.89
@@ -8349,6 +8706,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70007.0,Eglor's Twin Bike,Legends of Chim,,2013,223,2,Retired,19.99,44.46
 70008.0,Gorzan's Gorilla Striker,Legends of Chim,,2013,505,4,Retired,49.99,61.58
 70009.0,Worriz's Combat Lair,Legends of Chim,,2013,664,6,Retired,69.99,85.73
+70010.0,The Lion CHI Temple,Legends of Chim,,2013,1258,7,Retired,119.99,175.91
 70011.0,Eagles' Castle,Legends of Chim,Speedorz,2013,369,3,Retired,39.99,41.76
 70012.2,Razar's CHI Raider,Legends of Chim,,2013,412,3,Retired,39.99,39.59
 70013.0,Equila's Ultra Striker,Legends of Chim,,2013,339,3,Retired,39.99,65.11
@@ -8392,6 +8750,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70143.0,Sir Fangar's Sabre-Tooth Walker,Legends of Chim,Fire vs Ice,2014,415,3,Retired,27.99,79.0
 70144.0,Laval's Fire Lion,Legends of Chim,Fire vs Ice,2014,450,3,Retired,34.99,84.66
 70145.0,Maula's Ice Mammoth Stomper,Legends of Chim,Fire vs Ice,2014,604,6,Retired,55.99,123.31
+70146.0,Flying Phoenix Fire Temple,Legends of Chim,Fire vs Ice,2014,1301,7,Retired,83.99,161.91
 70147.0,Sir Fangar's Ice Fortress,Legends of Chim,Fire vs Ice,2014,670,5,Retired,48.99,134.32
 70149.0,Scorching Blades,Legends of Chim,Speedorz,2014,77,1,Retired,14.99,17.42
 70150.0,Flaming Claws,Legends of Chim,Speedorz,2014,74,1,Retired,14.99,20.59
@@ -8403,6 +8762,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70162.0,Infearno Interception,Ultra Agents,,2014,313,2,Retired,20.99,46.13
 70163.0,Toxikita's Toxic Meltdown,Ultra Agents,,2014,429,4,Retired,19.99,39.6
 70164.0,Hurricane Heist,Ultra Agents,,2014,589,4,Retired,59.99,65.97
+70165.0,Ultra Agents Mission HQ,Ultra Agents,,2014,1060,5,Retired,69.99,179.02
 70166.0,Spyclops Infiltration,Ultra Agents,,2015,109,2,Retired,6.99,29.76
 70167.0,Invizable Gold Getaway,Ultra Agents,,2015,237,2,Retired,13.99,77.0
 70168.0,Drillex Diamond Job,Ultra Agents,,2015,312,2,Retired,17.49,34.29
@@ -8410,6 +8770,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70170.0,UltraCopter vs. AntiMatter,Ultra Agents,,2015,614,4,Retired,48.99,95.5
 70171.0,Ultrasonic Showdown,Ultra Agents,,2015,187,2,Retired,13.99,128.2
 70172.0,AntiMatter's Portal Hideout,Ultra Agents,,2015,475,4,Retired,59.99,246.0
+70173.0,Ultra Agents Ocean HQ,Ultra Agents,,2015,1204,6,Retired,69.99,308.26
 70200.0,CHI Laval,Legends of Chim,Constraction,2013,55,0,Retired,14.99,23.58
 70201.0,CHI Eris,Legends of Chim,Constraction,2013,67,0,Retired,14.99,24.53
 70202.0,CHI Gorzan,Legends of Chim,Constraction,2013,59,0,Retired,14.99,26.36
@@ -8443,11 +8804,13 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70314.0,Beast Master's Chaos Chariot,Nexo Knights,Season 1,2016,314,2,Retired,32.99,39.15
 70315.0,Clay's Rumble Blade,Nexo Knights,Season 1,2016,367,5,Retired,39.99,77.5
 70316.0,Jestro's Evil Mobile,Nexo Knights,Season 1,2016,658,2,Retired,49.99,79.25
+70317.0,The Fortrex,Nexo Knights,Season 1,2016,1140,7,Retired,99.99,175.08
 70318.0,The Glob Lobber,Nexo Knights,Season 2,2016,95,0,Retired,9.99,13.99
 70319.0,Macy's Thunder Mace,Nexo Knights,Season 2,2016,202,0,Retired,19.99,27.86
 70320.0,Aaron Fox's Aero-Striker V2,Nexo Knights,Season 2,2016,301,3,Retired,32.99,34.71
 70321.0,General Magmar's Siege Machine of Doom,Nexo Knights,Season 2,2016,516,3,Retired,49.99,109.07
 70322.0,Axl's Tower Carrier,Nexo Knights,Season 2,2016,670,4,Retired,79.99,75.94
+70323.0,Jestro's Volcano Lair,Nexo Knights,Season 2,2016,1186,0,Retired,119.99,147.77
 70324.0,Merlok's Library 2.0,Nexo Knights,Season 1,2016,288,3,Retired,24.99,34.27
 70325.0,Infernox Captures the Queen,Nexo Knights,Season 1,2016,253,2,Retired,24.99,45.16
 70326.0,The Black Knight Mech,Nexo Knights,Season 2,2016,530,4,Retired,49.99,57.49
@@ -8472,6 +8835,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70354.0,Axl's Rumble Maker,Nexo Knights,Season 4,2017,318,4,Retired,39.99,64.27
 70355.0,Aaron's Rock Climber,Nexo Knights,Season 4,2017,598,5,Retired,59.99,85.94
 70356.0,The Stone Colossus of Ultimate Destruction,Nexo Knights,Season 4,2017,785,3,Retired,69.99,251.21
+70357.0,Knighton Castle,Nexo Knights,Season 4,2017,1426,11,Retired,129.99,152.18
 70358.0,Aaron's Stone Destroyer,Nexo Knights,Season 3,2017,251,2,Retired,24.99,44.0
 70359.0,Lance vs. Lightning,Nexo Knights,Season 3,2017,257,2,Retired,24.99,48.64
 70361.0,Macy's Bot Drop Dragon,Nexo Knights,Season 4,2017,153,3,Retired,14.99,35.81
@@ -8499,6 +8863,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70422.0,Shrimp Shack Attack,Hidden Side,,2019,579,5,Retired,49.99,47.38
 70423.0,Paranormal Intercept Bus 3000,Hidden Side,,2019,689,5,Retired,59.99,57.16
 70424.0,Ghost Train Express,Hidden Side,,2019,698,6,Retired,79.99,87.96
+70425.0,Newbury Haunted High School,Hidden Side,,2019,1474,8,Retired,119.99,153.82
 70427.0,Welcome to the Hidden Side,Hidden Side,,2020,189,4,Retired,19.99,18.81
 70428.0,Jack's Beach Buggy,Hidden Side,,2020,170,3,Retired,19.99,23.16
 70429.0,El Fuego's Stunt Plane,Hidden Side,,2020,295,3,Retired,29.99,39.6
@@ -8509,6 +8874,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70434.0,Supernatural Race Car,Hidden Side,,2020,244,3,Retired,29.99,30.02
 70435.0,Newbury Abandoned Prison,Hidden Side,,2020,400,4,Retired,39.99,59.88
 70436.0,Phantom Fire Truck 3000,Hidden Side,,2020,760,5,Retired,69.99,61.96
+70437.0,Mystery Castle,Hidden Side,,2020,1035,6,Retired,99.99,171.28
 70500.0,Kai's Fire Mech,Ninjago,The Final Battle,2013,102,2,Retired,9.99,31.74
 70501.0,Warrior Bike,Ninjago,The Final Battle,2013,210,2,Retired,19.99,61.56
 70502.0,Cole's Earth Driller,Ninjago,The Final Battle,2013,171,2,Retired,19.99,66.0
@@ -8522,6 +8888,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70592.0,Salvage M.E.C.,Ninjago,Day of the Departed,2016,439,4,Retired,39.99,50.97
 70593.0,The Green NRG Dragon,Ninjago,Skybound,2016,567,5,Retired,49.99,95.04
 70594.0,The Lighthouse Siege,Ninjago,Skybound,2016,767,8,Retired,61.59,157.39
+70595.0,Ultra Stealth Raider,Ninjago,Day of the Departed,2016,1093,7,Retired,119.99,302.37
+70596.0,Samurai X Cave Chaos,Ninjago,Day of the Departed,2016,1253,8,Retired,119.99,239.1
 70599.0,Cole's Dragon,Ninjago,Skybound,2016,98,2,Retired,9.99,22.59
 70600.0,Ninja Bike Chase,Ninjago,Skybound,2016,231,3,Retired,19.99,43.96
 70601.0,Sky Shark,Ninjago,Skybound,2016,221,2,Retired,19.99,42.93
@@ -8540,15 +8908,20 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70614.0,Lightning Jet,The LEGO Ninjago Movie,,2017,876,3,Retired,59.99,82.72
 70615.0,Fire Mech,The LEGO Ninjago Movie,,2017,944,6,Retired,69.99,107.29
 70616.0,Ice Tank,The LEGO Ninjago Movie,,2017,914,5,Retired,79.99,183.33
+70617.0,Temple of the Ultimate Ultimate Weapon,The LEGO Ninjago Movie,,2017,1403,8,Retired,99.99,123.66
+70618.0,Destiny's Bounty,The LEGO Ninjago Movie,,2017,2295,7,Retired,169.99,202.22
+70620.0,NINJAGO City,The LEGO Ninjago Movie,,2017,4867,19,Retired,299.99,614.96
 70621.0,The Vermillion Attack,Ninjago,The Hands of Time,2017,83,3,Retired,9.99,30.23
 70622.0,Desert Lightning,Ninjago,The Hands of Time,2017,201,3,Retired,19.99,69.65
 70623.0,Destiny's Shadow,Ninjago,The Hands of Time,2017,360,3,Retired,29.99,87.06
 70624.0,Vermillion Invader,Ninjago,The Hands of Time,2017,313,3,Retired,29.99,79.19
 70625.0,Samurai VXL,Ninjago,The Hands of Time,2017,428,4,Retired,39.99,98.82
 70626.0,Dawn of Iron Doom,Ninjago,The Hands of Time,2017,704,6,Retired,59.99,283.25
+70627.0,Dragon's Forge,Ninjago,The Hands of Time,2017,1137,6,Retired,79.99,188.83
 70628.0,Lloyd Spinjitzu Master,The LEGO Ninjago Movie,Miscellaneous,2017,48,1,Retired,9.99,17.79
 70629.0,Piranha Chase,The LEGO Ninjago Movie,,2017,217,4,Retired,19.99,21.99
 70631.0,Garmadon's Volcano Lair,The LEGO Ninjago Movie,,2017,521,5,Retired,54.99,101.31
+70632.0,Quake Mech,The LEGO Ninjago Movie,,2017,1202,5,Retired,89.99,131.85
 70633.0,Kai Spinjitzu Master,Ninjago,Spinjitzu Masters,2018,61,1,Retired,9.99,21.59
 70634.0,Nya Spinjitzu Master,Ninjago,Spinjitzu Masters,2018,69,1,Retired,9.99,17.61
 70635.0,Jay Spinjitzu Master,Ninjago,Spinjitzu Masters,2018,68,1,Retired,9.99,25.92
@@ -8569,7 +8942,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70651.0,Throne Room Showdown,Ninjago,Hunted,2018,221,5,Retired,19.99,35.2
 70652.0,Stormbringer,Ninjago,Hunted,2018,493,4,Retired,39.99,81.81
 70653.0,Firstbourne,Ninjago,Hunted,2018,882,6,Retired,69.99,101.13
+70654.0,Dieselnaut,Ninjago,Hunted,2018,1179,7,Retired,99.99,176.31
+70655.0,Dragon Pit,Ninjago,Hunted,2018,1660,9,Retired,139.99,197.82
 70656.0,"garmadon, Garmadon, GARMADON!",The LEGO Ninjago Movie,,2017,830,6,Retired,55.99,173.2
+70657.0,NINJAGO City Docks,The LEGO Ninjago Movie,,2018,3553,14,Retired,229.99,454.54
 70658.0,Oni Titan,Ninjago,Hunted,2018,522,4,Retired,49.99,96.99
 70659.0,Spinjitzu Kai,Ninjago,Spinjitzu,2019,97,1,Retired,9.99,16.72
 70660.0,Spinjitzu Jay,Ninjago,Spinjitzu,2019,97,1,Retired,9.99,13.53
@@ -8582,12 +8958,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70667.0,Kai's Blade Cycle & Zane's Snowmobile,Ninjago,Legacy,2019,376,4,Retired,29.99,45.71
 70668.0,Jay's Storm Fighter,Ninjago,Legacy,2019,490,4,Retired,39.99,54.67
 70669.0,Cole's Earth Driller,Ninjago,Legacy,2019,587,4,Retired,49.99,82.43
+70670.0,Monastery of Spinjitzu,Ninjago,Legacy,2019,1070,1,Retired,79.99,131.47
 70671.0,Lloyd's Journey,Ninjago,Secrets of the Forbidden Spinjitzu,2019,81,2,Retired,14.99,17.2
 70672.0,Cole's Dirt Bike,Ninjago,Secrets of the Forbidden Spinjitzu,2019,212,3,Retired,19.99,30.16
 70673.0,Shuricopter,Ninjago,Secrets of the Forbidden Spinjitzu,2019,361,3,Retired,29.99,43.99
 70674.0,Fire Fang,Ninjago,Secrets of the Forbidden Spinjitzu,2019,463,4,Retired,44.99,67.48
 70675.0,Katana 4X4,Ninjago,Secrets of the Forbidden Spinjitzu,2019,450,5,Retired,49.99,63.14
 70676.0,Lloyd's Titan Mech,Ninjago,Secrets of the Forbidden Spinjitzu,2019,876,6,Retired,69.99,132.0
+70677.0,Land Bounty,Ninjago,Secrets of the Forbidden Spinjitzu,2019,1178,9,Retired,129.99,175.87
+70678.0,Castle of the Forsaken Emperor,Ninjago,Secrets of the Forbidden Spinjitzu,2019,1218,7,Retired,99.99,150.55
 70679.0,The Ultra Dragon,Ninjago,Legacy,2019,951,6,Retired,89.99,132.0
 70680.0,Monastery Training,Ninjago,Legacy,2019,122,2,Retired,9.99,10.72
 70681.0,Spinjitzu Slam Lloyd,Ninjago,Spinjitzu Slam,2019,70,1,Retired,9.99,13.19
@@ -8606,6 +8985,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70706.0,Crater Creeper,Space,Galaxy Squad,2013,171,2,Retired,19.99,21.98
 70707.0,CLS-89 Eradicator Mech,Space,Galaxy Squad,2013,440,2,Retired,39.99,73.7
 70708.0,Hive Crawler,Space,Galaxy Squad,2013,560,3,Retired,59.99,83.44
+70709.0,Galactic Titan,Space,Galaxy Squad,2013,1012,5,Retired,99.99,168.08
 70720.0,Hover Hunter,Ninjago,Rebooted,2014,79,2,Retired,9.99,30.74
 70721.0,Kai Fighter,Ninjago,Rebooted,2014,196,2,Retired,19.99,65.99
 70722.0,OverBorg Attack,Ninjago,Rebooted,2014,207,2,Retired,19.99,58.52
@@ -8614,13 +8994,16 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70725.0,Nindroid MechDragon,Ninjago,Rebooted,2014,691,5,Retired,79.99,131.99
 70726.0,Destructoid,Ninjago,Rebooted,2014,253,3,Retired,29.99,93.31
 70727.0,X-1 Ninja Charger,Ninjago,Rebooted,2014,426,3,Retired,39.99,147.14
+70728.0,Battle for Ninjago City,Ninjago,Rebooted,2014,1223,8,Retired,76.99,221.71
 70730.0,Chain Cycle Ambush,Ninjago,Possession,2015,298,3,Retired,29.99,147.87
 70731.0,Jay Walker One,Ninjago,Possession,2015,386,4,Retired,39.99,102.47
+70732.0,City of Stiix,Ninjago,Possession,2015,1069,9,Retired,99.99,280.89
 70733.0, Blaster Bike,Ninjago,Possession,2015,212,2,Retired,19.99,65.95
 70734.0,Master Wu Dragon,Ninjago,Possession,2015,575,5,Retired,49.99,88.3
 70735.0,Ronin R.E.X.,Ninjago,Airjitzu,2015,547,4,Retired,49.99,96.54
 70736.0,Attack of the Morro Dragon,Ninjago,Possession,2015,658,6,Retired,69.99,207.62
 70737.0,Titan Mech Battle,Ninjago,Possession,2015,754,5,Retired,54.99,213.84
+70738.0,Final Flight of Destiny's Bounty,Ninjago,Possession,2015,1253,9,Retired,119.99,260.59
 70739.0,Airjitzu Kai Flyer,Ninjago,Airjitzu,2015,46,1,Retired,9.99,41.06
 70740.0,Airjitzu Jay Flyer,Ninjago,Airjitzu,2015,45,1,Retired,9.99,39.4
 70741.0,Airjitzu Cole Flyer,Ninjago,Airjitzu,2015,47,1,Retired,9.99,15.95
@@ -8633,6 +9016,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70748.0,Titanium Dragon,Ninjago,Tournament of Elements,2015,360,3,Retired,39.99,91.44
 70749.0,Enter the Serpent,Ninjago,Tournament of Elements,2015,529,5,Retired,49.99,131.99
 70750.0,Ninja DB X,Ninjago,Tournament of Elements,2015,756,7,Retired,79.99,186.15
+70751.0,Temple of Airjitzu,Ninjago,Possession,2015,2028,13,Retired,199.99,368.24
 70752.0,Jungle Trap,Ninjago,Tournament of Elements,2015,58,2,Retired,6.99,27.41
 70753.0,Lava Falls,Ninjago,Tournament of Elements,2015,94,2,Retired,9.99,34.91
 70754.0,ElectroMech,Ninjago,Tournament of Elements,2015,153,2,Retired,14.99,95.62
@@ -8666,6 +9050,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70807.0,MetalBeard's Duel,The LEGO Movie,,2014,412,3,Retired,24.49,114.58
 70808.0,Super Cycle Chase,The LEGO Movie,,2014,514,5,Retired,34.99,70.4
 70809.0,Lord Business' Evil Lair,The LEGO Movie,,2014,738,7,Retired,69.99,70.32
+70810.0,MetalBeard's Sea Cow,The LEGO Movie,,2014,2741,5,Retired,249.99,345.74
 70811.0,The Flying Flusher,The LEGO Movie,2 in 1,2014,351,3,Retired,29.99,39.48
 70812.0,Creative Ambush,The LEGO Movie,,2014,473,4,Retired,39.99,44.0
 70813.0,Rescue Reinforcements,The LEGO Movie,,2014,859,5,Retired,69.99,83.59
@@ -8683,15 +9068,19 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70825.0,Queen Watevra's Build Whatever Box!,The Lego Movie 2 The Second Part,,2019,455,0,Retired,39.99,25.22
 70826.0,Rex's Rex-treme Offroader!,The Lego Movie 2 The Second Part,,2019,236,2,Retired,29.99,29.88
 70827.0,Ultrakatty & Warrior Lucy!,The Lego Movie 2 The Second Part,,2019,348,2,Retired,29.99,35.19
+70828.0,Pop-Up Party Bus,The Lego Movie 2 The Second Part,,2019,1024,2,Retired,89.99,
 70829.0,Emmet and Lucy's Escape Buggy!,The Lego Movie 2 The Second Part,,2019,550,4,Retired,49.99,56.24
 70830.0,Sweet Mayhem's Systar Starship!,The Lego Movie 2 The Second Part,,2019,502,3,Retired,69.99,52.79
 70831.0,Emmet's Dream House/Rescue Rocket!,The Lego Movie 2 The Second Part,,2019,706,2,Retired,59.99,64.45
 70832.0,Emmet's Builder Box!,The Lego Movie 2 The Second Part,,2019,125,1,Retired,29.99,30.6
 70833.0,Lucy's Builder Box!,The Lego Movie 2 The Second Part,,2019,141,2,Retired,29.99,25.81
 70834.0,MetalBeard's Heavy Metal Motor Trike!,The Lego Movie 2 The Second Part,,2019,461,1,Retired,59.99,57.15
+70835.0,Rex's Rexplorer!,The Lego Movie 2 The Second Part,,2019,1187,2,Retired,119.99,105.19
 70836.0,Battle-Ready Batman and MetalBeard,The Lego Movie 2 The Second Part,,2019,168,2,Retired,19.99,19.35
 70837.0,Shimmer & Shine Sparkle Spa!,The Lego Movie 2 The Second Part,,2019,691,8,Retired,69.99,47.48
 70838.0,Queen Watevra's ‘So-Not-Evil' Space Palace,The Lego Movie 2 The Second Part,,2019,995,5,Retired,99.99,80.55
+70839.0,The Rexcelsior!,The Lego Movie 2 The Second Part,,2019,1826,4,Retired,149.99,160.7
+70840.0,Welcome to Apocalypseburg!,The Lego Movie 2 The Second Part,,2019,3178,13,Retired,299.99,580.17
 70841.0,Benny's Space Squad,The Lego Movie 2 The Second Part,,2019,68,5,Retired,9.99,9.72
 70842.0,Emmet's Triple-Decker Couch Mech,The Lego Movie 2 The Second Part,,2019,312,3,Retired,29.99,35.16
 70847.0,Good Morning Sparkle Babies!,The Lego Movie 2 The Second Part,,2019,50,4,Retired,9.99,21.88
@@ -8706,16 +9095,27 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 70906.0,The Joker Notorious Lowrider,The LEGO Batman Movie,,2017,433,3,Retired,49.99,67.74
 70907.0,Killer Croc Tail-Gator,The LEGO Batman Movie,,2017,460,4,Retired,69.99,79.38
 70908.0,The Scuttler,The LEGO Batman Movie,,2017,775,6,Retired,79.99,81.81
+70909.0,Batcave Break-In,The LEGO Batman Movie,,2017,1047,7,Retired,99.99,121.15
 70910.0,Scarecrow Special Delivery,The LEGO Batman Movie,,2017,204,3,Retired,24.99,22.0
 70911.0,The Penguin Arctic Roller,The LEGO Batman Movie,,2017,305,2,Retired,34.99,47.07
+70912.0,Arkham Asylum,The LEGO Batman Movie,,2017,1628,13,Retired,149.99,177.95
 70913.0,Scarecrow Fearful Face-off,The LEGO Batman Movie,,2017,141,2,Retired,14.99,22.0
 70914.0,Bane Toxic Truck Attack,The LEGO Batman Movie,,2017,366,3,Retired,49.99,87.96
 70915.0,Two-Face Double Demolition,The LEGO Batman Movie,,2017,564,4,Retired,49.99,72.49
+70916.0,The Batwing,The LEGO Batman Movie,,2017,1053,3,Retired,89.99,94.8
+70917.0,The Ultimate Batmobile,The LEGO Batman Movie,,2017,1456,8,Retired,129.99,197.33
 70918.0,The Bat-Dune Buggy,The LEGO Batman Movie,,2018,198,2,Retired,24.99,29.0
 70919.0,The Justice League Anniversary Party,The LEGO Batman Movie,,2018,267,4,Retired,34.99,33.53
 70920.0,Egghead Mech Food Fight,The LEGO Batman Movie,,2018,293,3,Retired,34.99,32.48
 70921.0,Harley Quinn Cannonball Attack,The LEGO Batman Movie,,2018,425,4,Retired,49.99,52.26
+70922.0,The Joker Manor,The LEGO Batman Movie,,2017,3444,10,Retired,269.99,570.61
 70923.0,The Bat-Space Shuttle,The LEGO Batman Movie,,2018,643,6,Retired,79.99,123.81
+71006.0,The Simpsons House,The Simpsons,,2014,2523,6,Retired,199.99,307.88
+71016.0,Kwik-E-Mart,The Simpsons,,2015,2179,6,Retired,199.99,340.52
+71040.0,Disney World Cinderella Castle,Disney,Disney Parks,2016,4080,7,Exclusive (Retiring soon),349.99,
+71042.0,Silent Mary,Pirates of the Caribbean,Dead Men Tell No Tales,2017,2294,8,Retired,199.99,351.94
+71043.0,Hogwarts Castle,Harry Potter,,2018,6020,28,Exclusive (Retiring soon),469.99,
+71044.0,Disney Train and Station,Disney,Disney Parks,2019,2925,5,Retired,329.99,410.86
 71170.0,Starter Pack PS3,Dimensions,Starter Pack,2015,269,0,Retired,99.99,
 71171.0,Starter Pack PS4,Dimensions,Starter Pack,2015,269,3,Retired,99.99,129.54
 71172.0,Starter Pack Xbox One,Dimensions,Starter Pack,2015,269,3,Retired,99.99,139.68
@@ -8807,10 +9207,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 71366.0,Boomer Bill Barrage,Super Mario,Expansion Set,2020,132,3,Retired,29.23,24.64
 71367.0,Mario's House & Yoshi,Super Mario,Expansion Set,2020,205,2,Retail,29.23,
 71368.0,Toad's Treasure Hunt,Super Mario,Expansion Set,2020,464,5,Retired,77.97,61.58
+71369.0,Bowser's Castle Boss Battle,Super Mario,Expansion Set,2020,1010,0,Retired,97.47,105.12
 71370.0,Fire Mario Power-Up Pack,Super Mario,Power-Up Pack,2020,11,0,Retired,9.74,13.07
 71371.0,Propeller Mario Power-Up Pack,Super Mario,Power-Up Pack,2020,13,0,Retired,9.74,11.51
 71372.0,Cat Mario Power-Up Pack,Super Mario,Power-Up Pack,2020,11,0,Retired,9.74,13.8
 71373.0,Builder Mario Power-Up Pack,Super Mario,Power-Up Pack,2020,10,0,Retired,9.74,11.42
+71374.0,Nintendo Entertainment System,Super Mario,Miscellaneous,2020,2646,1,Exclusive,269.99,
 71376.0,Thwomp Drop,Super Mario,Expansion Set,2020,393,0,Retired,38.98,43.99
 71377.0,King Boo and the Haunted Yard,Super Mario,Expansion Set,2020,431,7,Retired,48.73,
 71380.0,Master Your Adventure,Super Mario,Maker Set,2021,366,0,Retired,59.99,50.09
@@ -8823,14 +9225,17 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 71388.0,Boss Sumo Bro Topple,Super Mario,Expansion Set,2021,231,0,Retail,29.99,
 71389.0,Lakitu Sky World,Super Mario,Expansion Set,2021,484,0,Retail,39.99,
 71390.0,Reznor Knockdown,Super Mario,Expansion Set,2021,862,0,Retail,69.99,
+71391.0,Bowser's Airship,Super Mario,Expansion Set,2021,1152,0,Retail,99.99,
 71392.0,Frog Mario Power-Up Pack,Super Mario,Power-Up Pack,2021,11,0,Retail,9.99,
 71393.0,Bee Mario Power-Up Pack,Super Mario,Power-Up Pack,2021,13,0,Retail,9.99,
+71395.0,Super Mario 64 Question Mark Block,Super Mario,Miscellaneous,2021,2064,0,Exclusive,199.99,
 71699.0,Thunder Raider,Ninjago,Legacy,2020,576,1,Retired,49.99,86.17
 71700.0,Jungle Raider,Ninjago,Legacy,2020,127,1,Retail,9.99,
 71701.0,Kai's Fire Dragon,Ninjago,Legacy,2020,81,2,Retired,19.99,21.25
 71702.0,Golden Mech,Ninjago,Legacy,2020,489,4,Retired,39.99,86.94
 71703.0,Storm Fighter Battle,Ninjago,,2020,165,3,Retired,29.99,28.83
 71704.0,Kai Fighter,Ninjago,Legacy,2020,513,4,Retired,39.99,51.14
+71705.0,Destiny's Bounty,Ninjago,Legacy,2020,1781,7,Retired,129.99,130.76
 71706.0,Cole's Speeder Car,Ninjago,Prime Empire,2020,52,2,Retired,9.99,10.55
 71707.0,Kai's Mech Jet,Ninjago,,2020,217,2,Retired,19.99,22.0
 71708.0,Gamer's Market,Ninjago,Prime Empire,2020,218,9,Retired,34.99,30.78
@@ -8846,6 +9251,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 71718.0,Wu's Battle Dragon,Ninjago,,2020,321,2,Retired,19.99,29.75
 71719.0,Zane's Mino Creature,Ninjago,,2020,616,4,Retired,49.99,45.8
 71720.0,Fire Stone Mech,Ninjago,,2020,968,5,Retired,69.99,70.57
+71721.0,Skull Sorcerer's Dragon,Ninjago,,2020,1016,7,Retired,79.99,86.11
+71722.0,Skull Sorcerer's Dungeons,Ninjago,,2020,1171,8,Retired,99.99,105.8
 71730.0,Epic Battle Set - Kai vs. Skulkin,Ninjago,Legacy,2021,61,2,Retired,9.99,11.41
 71731.0,Epic Battle Set - Zane vs. Nindroid,Ninjago,Legacy,2021,57,2,Retired,9.99,10.56
 71732.0,Epic Battle Set - Jay vs. Serpentine,Ninjago,Legacy,2021,69,2,Retired,9.99,13.19
@@ -8857,6 +9264,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 71738.0,Zane's Titan Mech Battle,Ninjago,Legacy,2021,840,4,Retail,64.99,
 71739.0,Ultra Sonic Raider,Ninjago,Legacy,2021,709,7,Retail,84.99,
 71740.0,Jay's Electro Mech,Ninjago,Legacy,2021,106,2,Retail,19.99,
+71741.0,NINJAGO City Gardens,Ninjago,Legacy,2021,5685,19,Exclusive,349.99,
 71742.0,Overlord Dragon,Ninjago,Legacy,2021,372,2,Retail,29.99,
 71745.0,Lloyd's Jungle Chopper Bike,Ninjago,The Island,2021,183,3,Retail,19.99,
 71746.0,Jungle Dragon,Ninjago,The Island,2021,506,4,Retail (Retiring soon),39.99,
@@ -8867,6 +9275,8 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 71752.0,Ninja Sub Speeder,Ninjago,Seabound,2021,346,4,Retail,39.99,
 71753.0,Fire Dragon Attack,Ninjago,Legacy,2021,563,4,Retail,49.99,
 71754.0,Water Dragon,Ninjago,Seabound,2021,720,5,Retail,79.99,
+71755.0,Temple of the Endless Sea,Ninjago,Seabound,2021,1035,7,Retail (Retiring soon),99.99,
+71756.0,Hydro Bounty,Ninjago,Seabound,2021,1159,10,Retail,149.99,
 72001.0,Lance's Hover Jouster,Nexo Knights,Season 5,2018,217,3,Retired,19.99,40.19
 72002.0,Twinfector,Nexo Knights,Season 5,2018,191,3,Retired,19.99,44.29
 72003.0,Berserker Bomber,Nexo Knights,Season 5,2018,369,3,Retired,29.99,58.7
@@ -8894,6 +9304,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75018.0,JEK-14's Stealth Starfighter,Star Wars,Original Content,2013,550,4,Retired,69.99,181.03
 75019.0,AT-TE ,Star Wars,Episode II,2013,794,5,Retired,99.99,276.94
 75020.0,Jabba's Sail Barge,Star Wars,Episode VI,2013,850,6,Retired,119.99,364.69
+75021.0,Republic Gunship,Star Wars,Episode II,2013,1175,7,Retired,129.99,487.03
 75022.0,Mandalorian Speeder,Star Wars,The Clone Wars,2013,211,3,Retired,29.99,118.65
 75023.0,Star Wars Advent Calendar,Star Wars,Seasonal,2013,254,9,Retired,29.99,56.12
 75024.0,HH-87 Starhopper,Star Wars,The Clone Wars,2013,362,3,Retired,49.99,120.47
@@ -8923,8 +9334,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75051.0,Jedi Scout Fighter,Star Wars,Original Content,2014,490,4,Retired,69.99,140.62
 75052.0,Mos Eisley Cantina,Star Wars,Episode IV,2014,615,8,Retired,79.99,112.82
 75053.0,The Ghost,Star Wars,Rebels,2014,929,4,Retired,99.99,636.62
+75054.0,AT-AT,Star Wars,Episode V,2014,1138,5,Retired,119.99,157.86
+75055.0,Imperial Star Destroyer,Star Wars,Episode IV,2014,1359,7,Retired,129.99,318.15
 75056.0,Star Wars Advent Calendar,Star Wars,Seasonal,2014,274,9,Retired,29.99,61.76
 75058.0,MTT,Star Wars,Episode I,2014,954,12,Retired,99.99,260.34
+75059.0,Sandcrawler,Star Wars,Ultimate Collector Series,2014,3296,14,Retired,299.99,429.79
+75060.0,Slave I,Star Wars,Ultimate Collector Series,2015,1996,5,Retired,199.99,424.94
 75072.0,ARC-170 Starfighter,Star Wars,MicroFighters,2015,95,1,Retired,9.99,26.35
 75073.0,Vulture Droid,Star Wars,MicroFighters,2015,77,1,Retired,9.99,26.54
 75074.0,Snowspeeder,Star Wars,MicroFighters,2015,97,1,Retired,9.99,13.2
@@ -8948,13 +9363,18 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75092.0,Naboo Starfighter,Star Wars,Episode I,2015,442,9,Retired,64.99,163.72
 75093.0,Death Star Final Duel,Star Wars,Episode VI,2015,724,5,Retired,89.99,90.71
 75094.0,Imperial Shuttle Tydirium,Star Wars,Episode VI,2015,937,5,Retired,99.99,165.7
+75095.0,TIE Fighter,Star Wars,Ultimate Collector Series,2015,1685,1,Retired,199.99,244.1
 75096.0,Sith Infiltrator,Star Wars,Episode I,2015,662,8,Retired,99.99,161.27
 75097.0,Star Wars Advent Calendar,Star Wars,Seasonal,2015,292,9,Retired,29.99,41.41
+75098.0,Assault on Hoth,Star Wars,Ultimate Collector Series,2016,2144,15,Retired,249.99,499.76
 75099.0,Rey's Speeder,Star Wars,The Force Awakens,2015,193,2,Retired,26.99,21.99
 75100.0,First Order Snowspeeder,Star Wars,The Force Awakens,2015,444,3,Retired,49.99,42.79
 75101.0,First Order Special Forces TIE Fighter,Star Wars,The Force Awakens,2015,517,4,Retired,69.99,76.59
 75102.0,Poe's X-wing Fighter,Star Wars,The Force Awakens,2015,717,4,Retired,89.99,102.16
 75103.0,First Order Transporter,Star Wars,The Force Awakens,2015,792,7,Retired,99.99,149.6
+75104.0,Kylo Ren's Command Shuttle,Star Wars,The Force Awakens,2015,1005,6,Retired,119.99,127.52
+75105.0,Millennium Falcon,Star Wars,The Force Awakens,2015,1329,7,Retired,149.99,148.58
+75106.0,Imperial Assault Carrier,Star Wars,Rebels,2015,1216,6,Retired,129.99,236.31
 75107.0,Jango Fett,Star Wars,Buildable Figures,2015,85,0,Retired,19.99,43.92
 75108.0,Clone Commander Cody,Star Wars,Buildable Figures,2015,82,0,Retired,19.99,46.49
 75109.0,Obi-Wan Kenobi,Star Wars,Buildable Figures,2015,83,0,Retired,24.99,36.1
@@ -8988,6 +9408,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75140.0,Resistance Troop Transporter,Star Wars,The Force Awakens,2016,646,4,Retired,69.99,70.4
 75141.0,Kanan's Speeder Bike,Star Wars,Rebels,2016,234,3,Retired,29.99,50.2
 75142.0,Homing Spider Droid,Star Wars,Episode III,2016,310,4,Retired,39.99,93.58
+75144.0,Snowspeeder,Star Wars,Ultimate Collector Series,2017,1703,2,Retired,199.99,296.81
 75145.0,Eclipse Fighter,Star Wars,Original Content,2016,363,2,Retired,39.99,41.79
 75146.0,Star Wars Advent Calendar,Star Wars,Seasonal,2016,282,10,Retired,29.99,52.8
 75147.0,Star Scavenger,Star Wars,Original Content,2016,558,4,Retired,59.99,69.25
@@ -9002,6 +9423,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75156.0,Krennic's Imperial Shuttle,Star Wars,Rogue One,2016,863,6,Retired,99.99,206.57
 75157.0,Captain Rex's AT-TE,Star Wars,Rebels,2016,972,5,Retired,119.99,234.91
 75158.0,Rebel Combat Frigate,Star Wars,Rebels,2016,936,5,Retired,139.99,386.65
+75159.0,The Death Star,Star Wars,Ultimate Collector Series,2016,4016,27,Retired,499.99,791.9
 75160.0,U-wing,Star Wars,MicroFighters,2017,109,1,Retired,9.99,11.03
 75161.0,TIE Striker,Star Wars,MicroFighters,2017,88,1,Retired,9.99,10.59
 75162.0,Y-wing,Star Wars,MicroFighters,2017,90,1,Retired,9.99,14.08
@@ -9023,14 +9445,19 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75178.0,Jakku Quadjumper,Star Wars,The Force Awakens,2017,457,5,Retired,59.99,63.25
 75179.0,Kylo Ren's TIE Fighter,Star Wars,The Last Jedi,2017,630,5,Retired,79.99,147.58
 75180.0,Rathtar Escape,Star Wars,The Force Awakens,2017,836,5,Retired,89.99,62.57
+75181.0,Y-wing Starfighter,Star Wars,Ultimate Collector Series,2018,1967,2,Retired,199.99,348.82
 75182.0,Republic Fighter Tank,Star Wars,Legends,2017,305,4,Retired,29.99,87.28
 75183.0,Darth Vader Transformation,Star Wars,Episode III,2017,282,6,Retired,29.99,54.4
 75184.0,Star Wars Advent Calendar,Star Wars,Seasonal,2017,309,8,Retired,29.99,49.62
 75185.0,Tracker I,Star Wars,Original Content,2017,557,4,Retired,69.99,83.6
 75186.0,The Arrowhead,Star Wars,Original Content,2017,775,5,Retired,89.99,140.4
+75187.0,BB-8,Star Wars,The Last Jedi,2017,1106,1,Retired,99.99,130.88
 75188.0,Resistance Bomber,Star Wars,The Last Jedi,2017,778,6,Retired,109.99,164.48
 75188.2,Resistance Bomber (Finch Dallow),Star Wars,The Last Jedi,2018,778,5,Retired,109.99,
+75189.0,First Order Heavy Assault Walker,Star Wars,The Last Jedi,2017,1376,5,Retired,139.99,192.28
+75190.0,First Order Star Destroyer,Star Wars,The Last Jedi,2017,1416,8,Retired,149.99,198.0
 75191.0,Jedi Starfighter with Hyperdrive,Star Wars,Episode II,2017,825,4,Retired,109.99,351.96
+75192.0,Millennium Falcon,Star Wars,Ultimate Collector Series,2017,7541,8,Exclusive,849.99,
 75193.0,Millennium Falcon Microfighter,Star Wars,MicroFighters,2018,92,1,Retired,9.99,13.17
 75194.0,First Order TIE Fighter Microfighter,Star Wars,MicroFighters,2018,91,1,Retired,9.99,11.85
 75195.0,Ski Speeder vs. First Order Walker Microfighters,Star Wars,MicroFighters,2018,216,2,Retired,19.99,19.17
@@ -9050,6 +9477,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75209.0,Han Solo's Landspeeder,Star Wars,Solo,2018,345,2,Retired,29.99,31.66
 75210.0,Moloch's Landspeeder,Star Wars,Solo,2018,464,2,Retired,49.99,36.07
 75211.0,Imperial TIE Fighter,Star Wars,Solo,2018,519,4,Retired,69.99,166.65
+75212.0,Kessel Run Millennium Falcon,Star Wars,Solo,2018,1414,7,Retired,169.99,204.08
 75213.0,Star Wars Advent Calendar,Star Wars,Seasonal,2018,307,7,Retired,29.99,51.01
 75214.0,Anakin's Jedi Starfighter,Star Wars,The Clone Wars,2018,247,2,Retired,29.99,43.08
 75215.0,Cloud-Rider Swoop Bikes,Star Wars,Solo,2018,355,3,Retired,29.99,35.2
@@ -9057,7 +9485,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75217.0,Imperial Conveyex Transport,Star Wars,Solo,2018,622,5,Retired,89.99,129.29
 75218.0,X-wing Starfighter,Star Wars,Episode IV,2018,731,4,Retired,99.99,108.2
 75219.0,Imperial AT-Hauler,Star Wars,Solo,2018,829,5,Retired,99.99,97.72
+75220.0,Sandcrawler,Star Wars,Episode IV,2018,1239,6,Retired,129.99,168.9
 75221.0,Imperial Landing Craft,Star Wars,Episode IV,2018,636,5,Retired,89.99,131.79
+75222.0,Betrayal at Cloud City,Star Wars,Master Builder Series,2018,2812,21,Retired,349.99,651.66
 75223.0,Naboo Starfighter Microfighter,Star Wars,MicroFighters,2019,62,1,Retired,9.99,9.87
 75224.0,Sith Infiltrator Microfighter,Star Wars,MicroFighters,2019,92,1,Retired,9.99,19.22
 75225.0,Elite Praetorian Guard Battle Pack,Star Wars,The Last Jedi,2019,109,5,Retired,14.99,20.57
@@ -9077,13 +9507,21 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75240.0,Major Vonreg's TIE Fighter,Star Wars,Resistance,2019,496,4,Retired,69.99,93.25
 75241.0,Action Battle Echo Base Defence,Star Wars,Episode V,2019,504,6,Retired,59.99,51.83
 75242.0,Black Ace TIE Interceptor,Star Wars,Resistance,2019,396,3,Retired,49.99,52.79
+75243.0,Slave I – 20th Anniversary Edition,Star Wars,Episode V,2019,1007,6,Retired,119.99,174.08
+75244.0,Tantive IV,Star Wars,Episode IV,2019,1768,6,Retired,199.99,236.82
 75245.0,Star Wars Advent Calendar,Star Wars,Seasonal,2019,280,9,Retired,29.99,41.28
 75246.0,Death Star Cannon,Star Wars,Episode IV,2019,159,2,Retired,19.99,19.25
 75247.0,Rebel A-wing Starfighter,Star Wars,4 Plus,2019,62,2,Retired,14.99,21.45
 75248.0,Resistance A-wing Starfighter,Star Wars,The Rise of Skywalker,2019,269,2,Retired,29.99,28.54
 75249.0,Resistance Y-wing Starfighter,Star Wars,The Rise of Skywalker,2019,578,5,Retired,69.99,57.2
 75250.0,Pasaana Speeder Chase,Star Wars,The Rise of Skywalker,2019,373,4,Retired,49.99,39.33
+75251.0,Darth Vader's Castle,Star Wars,,2018,1060,6,Retired,129.99,158.36
+75252.0,Imperial Star Destroyer,Star Wars,Ultimate Collector Series,2019,4784,2,Exclusive (Retiring soon),699.99,
+75253.0,Droid Commander,Star Wars,Boost,2019,1177,0,Retired,199.99,179.44
 75254.0,AT-ST Raider,Star Wars,The Mandalorian,2019,540,4,Retired,59.99,39.52
+75255.0,Yoda,Star Wars,,2019,1771,1,Retail,99.99,
+75256.0,Kylo Ren's Shuttle,Star Wars,The Rise of Skywalker,2019,1005,6,Retired,119.99,132.33
+75257.0,Millennium Falcon,Star Wars,The Rise of Skywalker,2019,1351,7,Retail,169.99,
 75258.0,Anakin's Podracer – 20th Anniversary Edition,Star Wars,Episode I,2019,279,3,Retired,29.99,30.28
 75259.0,Snowspeeder – 20th Anniversary Edition,Star Wars,Episode V,2019,309,4,Retired,39.99,101.16
 75261.0,Clone Scout Walker  – 20th Anniversary Edition,Star Wars,Episode III,2019,250,5,Retired,29.99,52.93
@@ -9100,6 +9538,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75272.0,Sith TIE Fighter,Star Wars,The Rise of Skywalker,2020,470,3,Retired,69.99,70.4
 75273.0,Poe Dameron's X-wing Fighter,Star Wars,The Rise of Skywalker,2020,761,4,Retired,99.99,83.5
 75274.0,TIE Fighter Pilot,Star Wars,Helmet Collection,2020,724,0,Retired,59.99,141.42
+75275.0,A-Wing Starfighter,Star Wars,Ultimate Collector Series,2020,1673,1,Retired,199.99,211.19
 75276.0,Stormtrooper,Star Wars,Helmet Collection,2020,647,0,Retired,59.99,82.71
 75277.0,Boba Fett,Star Wars,Helmet Collection,2020,625,0,Retail,59.99,
 75278.0,D-O,Star Wars,The Rise of Skywalker,2020,519,1,Retired,69.99,57.82
@@ -9109,7 +9548,10 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75283.0,Armored Assault Tank (AAT),Star Wars,The Clone Wars,2020,286,4,Retail,39.99,
 75284.0,Knights of Ren Transport Ship,Star Wars,The Rise of Skywalker,2020,595,3,Retired,69.99,63.32
 75286.0,General Grievous's Starfighter,Star Wars,Episode III,2020,487,3,Retired,77.97,103.82
+75288.0,AT-AT,Star Wars,Episode V,2020,1267,6,Retail,159.99,
+75290.0,Mos Eisley Cantina,Star Wars,Master Builder Series,2020,3187,21,Exclusive,399.99,
 75291.0,Death Star Final Duel,Star Wars,Episode VI,2020,775,5,Retired,97.47,104.41
+75292.0,The Razor Crest,Star Wars,The Mandalorian,2020,1023,5,Retail,139.99,
 75293.0,Resistance I-TS Transport,Star Wars,Galaxys Edge,2020,932,4,Retired,97.47,102.04
 75294.0,Bespin Duel,Star Wars,Episode V,2020,295,2,Retired,39.99,131.01
 75295.0,Millennium Falcon Microfighter,Star Wars,MicroFighters,2021,101,1,Retail,9.99,
@@ -9124,12 +9566,17 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75305.0,Scout Trooper Helmet,Star Wars,Helmet Collection,2021,471,0,Retail (Retiring soon),49.99,
 75306.0,Imperial Probe Droid,Star Wars,Episode V,2021,683,0,Retired,69.99,44.84
 75307.0,Star Wars Advent Calendar,Star Wars,Seasonal,2021,335,7,Retired,29.99,42.17
+75308.0,R2-D2,Star Wars,,2021,2314,1,Exclusive,239.99,
+75309.0,Republic Gunship,Star Wars,Ultimate Collector Series,2021,3292,2,Exclusive,399.99,
 75310.0,Duel on Mandalore,Star Wars,The Clone Wars,2021,147,2,Retail,19.99,
 75311.0,Imperial Armoured Marauder,Star Wars,The Mandalorian,2021,478,4,Retail,39.99,
 75312.0,Boba Fett's Starship,Star Wars,The Mandalorian,2021,592,2,Retail,49.99,
+75313.0,AT-AT,Star Wars,Ultimate Collector Series,2021,6785,9,Exclusive,849.99,
 75314.0,The Bad Batch Attack Shuttle,Star Wars,The Bad Batch,2021,969,5,Retail,99.99,
+75315.0,Imperial Light Cruiser,Star Wars,The Mandalorian,2021,1336,6,Retail,159.99,
 75316.0,Mandalorian Starfighter,Star Wars,The Clone Wars,2021,544,3,Retail,69.99,
 75317.0,The Mandalorian & The Child,BrickHeadz,Star Wars,2020,295,0,Retail,19.99,
+75318.0,The Child,Star Wars,The Mandalorian,2020,1073,1,Retail,89.99,
 75319.0,The Armorer's Mandalorian Forge,Star Wars,The Mandalorian,2021,258,3,Retail,29.99,
 75512.0,San Diego Comic-Con Millennium Falcon Cockpit,Star Wars,Comic-Con,2018,203,2,Retired,39.99,309.04
 75522.0,Mini Boost Droid Commander,Star Wars,,2019,62,3,Retired,,39.6
@@ -9152,12 +9599,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75549.0,Unstoppable Bike Chase,Minions,The Rise of Gru,2020,136,3,Retired,19.99,21.95
 75550.0,Minions Kung Fu Battle,Minions,The Rise of Gru,2021,310,3,Retail,39.99,
 75551.0,Brick-built Minions and their Lair,Minions,The Rise of Gru,2020,876,3,Retired,49.99,44.7
+75810.0,The Upside Down,Stranger Things,,2019,2287,8,Retired,199.99,276.86
 75821.0,Piggy Car Escape,The Angry Birds Movie,,2016,74,2,Retired,14.99,14.25
 75822.0,Piggy Plane Attack,The Angry Birds Movie,,2016,168,2,Retired,24.99,30.76
 75823.0,Bird Island Egg Heist,The Angry Birds Movie,,2016,277,3,Retired,39.99,37.84
 75824.0,Pig City Teardown,The Angry Birds Movie,,2016,386,4,Retired,49.99,55.22
 75825.0,Piggy Pirate Ship,The Angry Birds Movie,,2016,620,4,Retired,69.99,68.22
 75826.0,King Pig's Castle,The Angry Birds Movie,,2016,859,5,Retired,89.99,105.6
+75827.0,Firehouse Headquarters,Ghostbusters,,2016,4634,10,Retired,349.99,582.87
 75828.0,Ecto-1 & Ecto-2,Ghostbusters,,2016,556,6,Retired,59.99,100.14
 75870.0,Chevrolet Corvette Z06,Speed Champions,Chevrolet,2016,173,1,Retired,14.99,67.3
 75871.0,Ford Mustang GT,Speed Champions,Ford,2016,185,1,Retired,14.99,79.2
@@ -9201,16 +9650,19 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75916.0,Dilophosaurus Ambush,Jurassic World,,2015,248,2,Retired,39.99,78.32
 75917.0,Raptor Rampage,Jurassic World,,2015,324,3,Retired,59.99,132.0
 75918.0,T-Rex Tracker,Jurassic World,,2015,520,3,Retired,79.99,123.16
+75919.0,Indominus Rex Breakout,Jurassic World,,2015,1156,4,Retired,119.99,378.32
 75920.0,Raptor Escape,Jurassic World,,2015,394,2,Retired,49.99,158.3
 75926.0,Pteranodon Chase,Jurassic World,Fallen Kingdom,2018,126,2,Retired,24.99,22.0
 75927.0,Stygimoloch Breakout,Jurassic World,Fallen Kingdom,2018,222,2,Retired,39.99,39.57
 75928.0,Blue's Helicopter Pursuit,Jurassic World,Fallen Kingdom,2018,397,3,Retired,49.99,59.17
 75929.0,Carnotaurus Gyrosphere Escape,Jurassic World,Fallen Kingdom,2018,577,3,Retired,79.99,86.2
+75930.0,Indoraptor Rampage at Lockwood Estate,Jurassic World,Fallen Kingdom,2018,1019,6,Retired,129.99,199.69
 75931.0,Dilophosaurus Outpost Attack,Jurassic World,Fallen Kingdom,2018,289,3,Retired,49.99,66.0
 75932.0,Jurassic Park Velociraptor Chase,Jurassic World,Jurassic Park,2018,360,4,Retired,49.99,57.2
 75933.0,T. Rex Transport,Jurassic World,Fallen Kingdom,2018,609,3,Retired,69.99,113.48
 75934.0,Dilophosaurus on the Loose,Jurassic World,Legend of Isla Nublar,2019,168,3,Retired,24.99,23.68
 75935.0,Baryonyx Face-Off The Treasure Hunt,Jurassic World,Legend of Isla Nublar,2019,434,4,Retired,59.99,52.8
+75936.0,Jurassic Park T. Rex Rampage,Jurassic World,Jurassic Park,2019,3120,6,Retired,249.99,281.34
 75937.0,Triceratops Rampage,Jurassic World,Legend of Isla Nublar,2019,447,4,Retired,59.99,70.39
 75938.0,T. Rex vs Dino-Mech Battle,Jurassic World,Legend of Isla Nublar,2019,716,4,Retired,89.99,145.2
 75939.0,Dr. Wu's Lab Baby Dinosaurs Breakout,Jurassic World,,2020,164,2,Retired,19.99,21.37
@@ -9244,7 +9696,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 75975.0,Watchpoint Gibraltar,Overwatch,,2019,730,4,Retired,89.99,78.5
 75976.0,Wrecking Ball,Overwatch,,2019,227,1,Retired,19.99,32.77
 75977.0,Junkrat & Roadhog,Overwatch,,2019,380,2,Retired,49.99,52.46
+75978.0,Diagon Alley,Harry Potter,General,2020,5544,17,Exclusive,449.99,
 75979.0,Hedwig,Harry Potter,,2020,630,1,Retail,39.99,
+75980.0,Attack on The Burrow,Harry Potter,Half-Blood Prince,2020,1047,8,Retail,99.99,
 75981.0,Harry Potter Advent Calendar,Harry Potter,Seasonal,2020,335,6,Retired,39.99,30.8
 75987.0,Omnic Bastion,Overwatch,,2018,182,0,Retired,25.0,24.56
 75995.0,Mercedes AMG Petronas Team Gift 2017,Speed Champions,Mercedes,2017,120,1,Retired,,
@@ -9273,6 +9727,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76020.0,Knowhere Escape Mission ,Marvel Super Heroes,Guardians of the Galaxy,2014,433,3,Retired,49.99,74.62
 76021.0,The Milano Spaceship Rescue,Marvel Super Heroes,Guardians of the Galaxy,2014,665,5,Retired,55.99,158.35
 76022.0,X-Men vs. The Sentinel,Marvel Super Heroes,X-Men,2014,336,4,Retired,34.99,99.55
+76023.0,The Tumbler,DC Comics Super Heroes,The Dark Knight Trilogy,2014,1869,2,Retired,199.99,236.53
 76025.0,Green Lantern vs. Sinestro,DC Comics Super Heroes,Justice League,2015,174,3,Retired,19.99,44.0
 76026.0,Gorilla Grodd Goes Bananas,DC Comics Super Heroes,Justice League,2015,347,6,Retired,69.99,64.34
 76027.0,Black Manta Deep Sea Strike,DC Comics Super Heroes,Justice League,2015,387,4,Retired,49.99,49.09
@@ -9282,12 +9737,14 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76031.0,The Hulk Buster Smash,Marvel Super Heroes,Age of Ultron,2015,248,4,Retired,34.99,74.08
 76032.0,The Avengers Quinjet City Chase,Marvel Super Heroes,Age of Ultron,2015,722,5,Retired,79.99,105.49
 76034.0,Batboat Harbor Pursuit,DC Comics Super Heroes,Batman,2015,264,3,Retired,39.99,61.19
+76035.0,Jokerland,DC Comics Super Heroes,Batman,2015,1037,8,Retired,99.99,157.92
 76036.0,Carnage's Shield Sky Attack,Marvel Super Heroes,Ultimate Spider-Man,2015,97,3,Retired,14.99,29.16
 76037.0,Rhino and Sandman Supervillain Team-up,Marvel Super Heroes,Ultimate Spider-Man,2015,386,4,Retired,49.99,70.26
 76038.0,Attack on Avengers Tower,Marvel Super Heroes,Age of Ultron,2015,511,5,Retired,69.99,134.43
 76039.0,Ant-Man Final Battle,Marvel Super Heroes,Marvel Cinematic Universe,2015,183,3,Retired,24.99,70.22
 76040.0,Brainiac Attack,DC Comics Super Heroes,Justice League,2015,179,4,Retired,29.99,74.58
 76041.0,The Hydra Fortress Smash,Marvel Super Heroes,Age of Ultron,2015,405,5,Retired,59.99,100.33
+76042.0,SHIELD Helicarrier,Marvel Super Heroes,Marvel Cinematic Universe,2015,2996,17,Retired,349.99,435.6
 76044.0,Clash of the Heroes,DC Comics Super Heroes,DC Extended Universe,2016,92,2,Retired,14.99,18.98
 76045.0,Kryptonite Interception,DC Comics Super Heroes,DC Extended Universe,2016,306,3,Retired,34.99,57.02
 76046.0,Heroes of Justice Sky High Battle,DC Comics Super Heroes,DC Extended Universe,2016,517,5,Retired,69.99,65.96
@@ -9296,10 +9753,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76049.0,Avenjet Space Mission,Marvel Super Heroes,Avengers Assemble,2016,523,5,Retired,69.99,113.96
 76050.0,Crossbones' Hazard Heist,Marvel Super Heroes,Captain America Civil War,2016,179,3,Retired,24.99,26.39
 76051.0,Super Hero Airport Battle,Marvel Super Heroes,Captain America Civil War,2016,807,7,Retired,79.99,175.98
+76052.0,Batcave,DC Comics Super Heroes,Classic Batman TV Series,2016,2526,9,Retired,249.99,254.82
 76053.0,Gotham City Cycle Chase,DC Comics Super Heroes,Batman,2016,224,3,Retired,24.99,22.0
 76054.0,Batman Scarecrow Harvest of Fear,DC Comics Super Heroes,Batman,2016,563,5,Retired,69.99,59.78
 76055.0,Batman Killer Croc Sewer Smash,DC Comics Super Heroes,Batman,2016,759,5,Retired,79.99,91.13
 76056.0,Batman Rescue from Ra's al Ghul,DC Comics Super Heroes,Batman,2016,257,4,Retired,34.99,52.17
+76057.0,Spider-Man Web Warriors Ultimate Bridge Battle,Marvel Super Heroes,Spider-Man,2016,1092,7,Retired,99.99,187.15
 76058.0,Spider-Man Ghost Rider Team-Up,Marvel Super Heroes,Spider-Man,2016,217,3,Retired,24.99,79.1
 76059.0,Spider-Man Doc Ock's Tentacle Trap,Marvel Super Heroes,Spider-Man,2016,446,5,Retired,49.99,61.36
 76060.0,Doctor Strange's Sanctum Sanctorum,Marvel Super Heroes,Marvel Cinematic Universe,2016,358,3,Retired,34.99,58.04
@@ -9346,7 +9805,9 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76102.0,Thor's Weapon Quest,Marvel Super Heroes,Avengers Infinity War,2018,223,3,Retired,24.99,35.12
 76103.0,Corvus Glaive Thresher Attack,Marvel Super Heroes,Avengers Infinity War,2018,416,5,Retired,27.99,92.29
 76104.0,The Hulkbuster Smash-Up,Marvel Super Heroes,Avengers Infinity War,2018,375,4,Retired,34.99,39.6
+76105.0,The Hulkbuster Ultron Edition,Marvel Super Heroes,Age of Ultron,2018,1363,1,Retired,129.99,143.8
 76107.0,Thanos Ultimate Battle,Marvel Super Heroes,Avengers Infinity War,2018,674,4,Retired,79.99,79.07
+76108.0,Sanctum Sanctorum Showdown,Marvel Super Heroes,Avengers Infinity War,2018,1004,5,Retired,99.99,192.65
 76109.0,Quantum Realm Explorers,Marvel Super Heroes,Ant-Man,2018,200,3,Retired,24.99,33.4
 76110.0,Batman The Attack of the Talons,DC Comics Super Heroes,Batman,2018,155,3,Retired,24.99,29.03
 76111.0,Batman Brother Eye Takedown,DC Comics Super Heroes,Batman,2018,269,3,Retired,34.99,31.28
@@ -9359,6 +9820,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76118.0,Mr. Freeze Batcycle Battle,DC Comics Super Heroes,Batman,2019,200,3,Retired,24.99,30.89
 76119.0,Batmobile Pursuit of The Joker,DC Comics Super Heroes,Batman,2019,342,2,Retired,29.99,44.0
 76120.0,Batwing and The Riddler Heist,DC Comics Super Heroes,Batman,2019,489,4,Retired,49.99,70.4
+76122.0,Batcave Clayface Invasion,DC Comics Super Heroes,Batman,2019,1038,6,Retired,99.99,114.26
 76123.0,Captain America Outriders Attack,Marvel Super Heroes,Avengers Endgame,2019,167,4,Retired,24.99,19.03
 76124.0,War Machine Buster,Marvel Super Heroes,Avengers Endgame,2019,362,4,Retired,34.99,35.16
 76125.0,Iron Man Hall of Armour,Marvel Super Heroes,Avengers Endgame,2019,524,6,Retired,59.99,50.09
@@ -9372,6 +9834,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76134.0,Spider-Man Doc Ock Diamond Heist,Marvel Super Heroes,Spider-Man,2019,150,3,Retired,29.99,34.32
 76137.0,Batman vs. The Riddler Robbery,DC Comics Super Heroes,Batman,2019,59,2,Retired,9.99,17.6
 76138.0,Batman and The Joker Escape,DC Comics Super Heroes,Batman,2019,171,4,Retired,39.99,39.52
+76139.0,1989 Batmobile,DC Comics Super Heroes,Batman 1989,2019,3306,3,Retired,249.99,308.4
 76140.0,Iron Man Mech,Marvel Super Heroes,Avengers,2020,148,1,Retired,9.99,9.64
 76141.0,Thanos Mech,Marvel Super Heroes,Avengers,2020,152,1,Retired,9.99,12.27
 76142.0,Avengers Speeder Bike Attack,Marvel Super Heroes,Avengers,2020,226,3,Retired,24.99,21.99
@@ -9385,12 +9848,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76150.0,Spiderjet vs. Venom Mech,Marvel Super Heroes,Spider-Man,2020,371,3,Retired,39.99,43.99
 76151.0,Venomosaurus Ambush,Marvel Super Heroes,Spider-Man,2020,640,5,Retired,79.99,83.5
 76152.0,Avengers Wrath of Loki,Marvel Super Heroes,Avengers,2020,223,4,Retired,59.99,61.6
+76153.0,Avengers Helicarrier,Marvel Super Heroes,Avengers,2020,1244,8,Retired,119.99,116.49
 76154.0,Deviant Ambush!,Marvel Super Heroes,Eternals,2021,197,3,Retail,19.99,
 76155.0,In Arishem's Shadow,Marvel Super Heroes,Eternals,2021,493,4,Retail,69.99,
+76156.0,Rise of the Domo,Marvel Super Heroes,Eternals,2021,1040,6,Retail,99.99,
 76157.0,Wonder Woman vs Cheetah,DC Comics Super Heroes,,2020,371,3,Retired,39.99,40.15
 76158.0,Batboat The Penguin Pursuit!,DC Comics Super Heroes,Batman,2020,54,2,Retired,9.99,13.14
 76159.0,Joker's Trike Chase,DC Comics Super Heroes,Batman,2020,440,4,Retired,49.99,44.0
 76160.0,Mobile Bat Base,DC Comics Super Heroes,Batman,2020,743,6,Retired,89.99,79.2
+76161.0,Batwing,DC Comics Super Heroes,Batman 1989,2020,2363,3,Exclusive (Retiring soon),199.99,
 76162.0,Black Widow's Helicopter Chase,Marvel Super Heroes,Black Widow,2020,271,3,Retired,29.99,44.0
 76163.0,Venom Crawler,Marvel Super Heroes,Spider-Man,2020,413,3,Retired,29.99,39.6
 76164.0,Iron Man Hulkbuster versus A.I.M. Agent,Marvel Super Heroes,Avengers,2020,456,4,Retired,38.98,39.59
@@ -9407,6 +9873,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76175.0,Attack on the Spider Lair,Marvel Super Heroes,Spider-Man,2021,466,6,Retail,69.99,
 76176.0,Escape from The Ten Rings,Marvel Super Heroes,ShangChi and the Legend of the Ten Rings,2021,321,4,Retail,29.99,
 76177.0,Battle at the Ancient Village,Marvel Super Heroes,ShangChi and the Legend of the Ten Rings,2021,400,4,Retail,39.99,
+76178.0,Daily Bugle,Marvel Super Heroes,Spider-Man,2021,3772,25,Exclusive,349.99,
 76180.0,Batman vs. The Joker Batmobile Chase,DC Comics Super Heroes,Batman,2021,136,3,Retail (Retiring soon),29.99,
 76182.0,Batman Cowl,DC Comics Super Heroes,Batman,2021,410,0,Retail (Retiring soon),59.99,
 76184.0,Spider-Man vs. Mysterio's Drone Attack,Marvel Super Heroes,Spider-Man Far From Home,2021,73,3,Retail,19.99,
@@ -9418,6 +9885,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76190.0,Iron Man Iron Monger Mayhem,Marvel Super Heroes,Iron Man,2021,479,3,Retail,39.99,
 76191.0,Infinity Gauntlet,Marvel Super Heroes,Avengers Infinity War,2021,590,0,Retail,89.99,
 76192.0,Avengers Endgame Final Battle,Marvel Super Heroes,Avengers Endgame,2021,527,7,Retail,89.99,
+76193.0,The Guardians' Ship,Marvel Super Heroes,Avengers Endgame,2021,1901,6,Retail,159.99,
 76194.0,Tony Stark's Sakaarian Iron Man,Marvel Super Heroes,What If?,2021,369,3,Retail,34.99,
 76195.0,Spider-Man's Drone Duel,Marvel Super Heroes,Spider-Man Homecoming,2021,198,2,Retail,19.99,
 76196.0,The Avengers Advent Calendar,Marvel Super Heroes,Seasonal,2021,298,7,Retired,29.99,35.2
@@ -9428,6 +9896,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76237.0,Sanctuary II Endgame Battle,Marvel Super Heroes,Avengers Endgame,2021,322,3,Retail,39.99,
 76238.0,Classic TV Series Batman Cowl,DC Comics Super Heroes,Classic Batman TV Series,2021,372,0,Retail (Retiring soon),59.99,
 76239.0,Batmobile Tumbler Scarecrow Showdown,DC Comics Super Heroes,The Dark Knight Trilogy,2021,422,2,Retail,39.99,
+76240.0,Batmobile Tumbler,DC Comics Super Heroes,The Dark Knight Trilogy,2021,2049,2,Exclusive,269.99,
 76382.0,Hogwarts Moment Transfiguration Class,Harry Potter,Hogwarts Moments,2021,241,3,Retail,29.99,
 76383.0,Hogwarts Moment Potions Class,Harry Potter,Hogwarts Moments,2021,271,3,Retail,29.99,
 76384.0,Hogwarts Moment Herbology Class,Harry Potter,Hogwarts Moments,2021,233,3,Retired,29.99,33.08
@@ -9435,8 +9904,11 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 76386.0,Hogwarts Polyjuice Potion Mistake,Harry Potter,Chamber of Secrets,2021,217,4,Retail,19.99,
 76387.0,Hogwarts Fluffy Encounter,Harry Potter,Philosopher&#39;s Stone,2021,397,4,Retail,39.99,
 76388.0,Hogsmeade Village Visit,Harry Potter,Prisoner of Azkaban,2021,851,7,Retail,89.99,
+76389.0,Hogwarts Chamber of Secrets,Harry Potter,Chamber of Secrets,2021,1176,10,Retail,149.99,
 76390.0,Harry Potter Advent Calendar,Harry Potter,Seasonal,2021,274,6,Retired,29.99,35.2
+76391.0,Hogwarts Icons Collectors' Edition,Harry Potter,General,2021,3010,3,Exclusive,299.99,
 76392.0,Hogwarts Wizard's Chess,Harry Potter,Philosopher&#39;s Stone,2021,876,4,Limited retail,69.99,
+76393.0,Harry Potter & Hermione Granger ,Harry Potter,General,2021,1673,0,Limited retail,129.99,
 76394.0,"Fawkes, Dumbledore's Phoenix",Harry Potter,General,2021,597,1,Limited retail,39.99,
 76395.0,Hogwarts First Flying Lesson,Harry Potter,Philosopher&#39;s Stone,2021,263,4,Limited retail,29.99,
 76895.0,Ferrari F8 Tributo,Speed Champions,,2020,275,1,Retired,19.99,25.09
@@ -9511,18 +9983,30 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 80007.0,Iron Bull Tank,Monkie Kid,,2020,430,4,Retired,44.99,68.59
 80008.0,Monkie Kid's Cloud Jet,Monkie Kid,,2020,529,4,Retail,49.99,
 80009.0,Pigsy's Food Truck,Monkie Kid,,2020,832,5,Retired,59.99,84.44
+80010.0,Demon Bull King,Monkie Kid,,2020,1051,3,Retired,79.99,155.76
+80011.0,Red Son's Inferno Truck,Monkie Kid,,2020,1111,7,Retired,99.99,128.13
+80012.0,Monkey King Warrior Mech,Monkie Kid,,2020,1629,6,Retail (Retiring soon),129.99,
+80013.0,Monkie Kid's Team Secret HQ,Monkie Kid,,2020,1959,8,Retail,169.99,
 80014.0,Sandy's Speedboat,Monkie Kid,,2020,394,4,Retired,69.99,66.93
 80015.0,Monkie Kid's Cloud Roadster,Monkie Kid,,2020,659,5,Retired,69.99,75.5
+80016.0,The Flaming Foundry,Monkie Kid,,2020,1427,7,Retired,126.71,153.56
 80018.0,Monkie Kid's Cloud Bike,Monkie Kid,Season 2,2021,203,3,Retired,19.99,43.89
 80019.0,Red Son's Inferno Jet,Monkie Kid,Season 2,2021,299,3,Exclusive (Retiring soon),29.99,
 80020.0,White Dragon Horse Jet,Monkie Kid,Season 2,2021,565,3,Exclusive,39.99,
 80021.0,Monkie Kid's Lion Guardian,Monkie Kid,Season 2,2021,774,5,Exclusive,69.99,
+80022.0,Spider Queen's Arachnoid Base,Monkie Kid,Season 2,2021,1170,6,Exclusive,109.99,
+80023.0,Monkie Kid's Team Dronecopter,Monkie Kid,Season 2,2021,1462,9,Exclusive,149.99,
+80024.0,The Legendary Flower Fruit Mountain,Monkie Kid,Season 2,2021,1949,8,Exclusive,169.99,
 80025.0,Sandy's Power Loader Mech,Monkie Kid,Season 2,2021,520,4,Retail,44.99,
 80026.0,Pigsy's Noodle Tank,Monkie Kid,Season 2,2021,662,4,Retail,49.99,
+80028.0,The Bone Demon,Monkie Kid,Season 2,2021,1375,5,Retail,99.99,
 80101.0,Chinese New Year's Eve Dinner,Seasonal,Chinese Traditional Festivals,2019,615,6,Retired,99.99,211.74
 80102.0,Dragon Dance,Seasonal,Chinese Traditional Festivals,2019,622,5,Retired,69.99,188.56
 80103.0,Dragon Boat Race,Seasonal,Chinese Traditional Festivals,2019,643,15,Retired,49.99,48.42
 80104.0,Lion Dance,Seasonal,Chinese Traditional Festivals,2020,882,8,Retired,69.99,100.1
+80105.0,Chinese New Year Temple Fair,Seasonal,Chinese Traditional Festivals,2020,1664,14,Retired,99.99,135.95
+80106.0,Story of Nian,Seasonal,Chinese Traditional Festivals,2021,1067,6,Retired,69.99,76.45
+80107.0,Spring Lantern Festival,Seasonal,Chinese Traditional Festivals,2021,1793,8,Retired,99.99,125.31
 81000.0,Koi,FORMA,,2019,294,0,Retired,59.99,181.03
 81001.0,Shark Skin,FORMA,,2019,31,0,Retired,14.08,99.91
 81002.0,Splash Koi Skin,FORMA,,2019,33,0,Retired,13.2,83.41
@@ -9542,6 +10026,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 88016.0,Large Hub,Powered Up,,2021,2,0,Retail,239.99,
 88017.0,Large Angular Motor,Powered Up,,2021,1,0,Retail,34.99,
 88018.0,Medium Angular Motor,Powered Up,,2021,1,0,Retail,29.99,
+92176.0,NASA Apollo Saturn V,Ideas,NASA,2020,1969,0,Retail (Retiring soon),116.97,
 92177.0,Ship in a Bottle,Ideas,,2020,953,0,Retired,69.99,80.08
 111901.0,Garmadon,Ninjago,Magazine Gifts,2019,4,1,Retired,,5.59
 111901.2,Garmadon,Ninjago,Magazine Gifts,2019,4,1,Retired,,10.73
@@ -9906,8 +10391,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 892182.0,Maaray Guard,Ninjago,Magazine Gifts,2021,2,1,Retired,,3.26
 892183.0,Nya,Ninjago,Magazine Gifts,2021,1,1,Retired,,3.41
 892184.0,Scuba Kai,Ninjago,Magazine Gifts,2021,10,1,Retired,,3.02
+910001.0,Castle in the Forest,BrickLink,Designer Program,2021,1973,6,Retired,149.99,404.23
+910003.0,Mountain Windmill,BrickLink,Designer Program,2021,2085,0,Retired,149.99,235.6
+910009.0,Modular LEGO Store,BrickLink,Designer Program,2021,2149,0,Retired,149.99,422.22
+910010.0,The Great Fishing Boat,BrickLink,Designer Program,2021,1606,0,Retired,109.99,259.5
+910013.0,Retro Bowling Alley,BrickLink,Designer Program,2021,2779,5,Retired,189.99,428.29
 910015.0,Clockwork Aquarium,BrickLink,Designer Program,2021,876,0,Retired,54.99,143.33
 910016.0,Sheriff's Safe,BrickLink,Designer Program,2021,578,0,Retired,44.99,112.34
+910017.0,Kakapo,BrickLink,Designer Program,2021,1062,0,Retired,69.99,175.97
+910023.0,Venetian Houses,BrickLink,Designer Program,2021,3470,13,Retired,244.99,419.47
 910028.0,Pursuit of Flight,BrickLink,Designer Program,2021,540,0,Retired,49.99,110.09
 911508.0,Mini Slave I,Star Wars,Magazine Gifts,2015,20,0,Retired,,5.04
 911612.0,Acklay,Star Wars,Magazine Gifts,2016,49,0,Retired,,8.11
@@ -10029,17 +10521,22 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 1089096.0,Move,Exclusive,Muji,2011,109,0,Retired,25.95,45.1
 2000210.0,Workshop Kit 1-2,Education,,2015,55,0,Retired,,6.03
 2000211.0,MoreToMath Kit 1-2 Snake,Education,,2015,15,0,Retired,,3.67
+2000409.0,Window Exploration Bag,Serious Play,,2010,4900,0,Retired,359.99,454.78
 2000410.0,LSP Window 2,Serious Play,,2007,147,0,Retired,39.99,110.04
+2000413.0,Connections Kit,Serious Play,,2010,2455,0,Retired,559.99,
 2000414.0,Starter Kit,Serious Play,,2010,214,0,Retired,24.99,50.82
+2000415.0,Identity and Landscape Kit,Serious Play,,2010,2808,0,Retired,699.99,
 2000416.0,Duck,Serious Play,,2012,6,0,Retired,,2.33
 2000418.0,Workshop Kit for Simple Machines,Serious Play,,2010,43,2,Retired,8.79,24.53
 2000419.0,Green City Replacement Mats,Serious Play,,2010,4,0,Retired,17.59,80.61
 2000421.0,FLL Trophy Small,Serious Play,,2010,233,0,Retired,,66.41
 2000426.0,LME EV3 Element Accessory Pack,Serious Play,,2010,108,0,Retired,39.99,112.7
+2000431.0,Connections Kit,Serious Play,,2013,2455,0,Retired,559.99,670.23
 2000444.0,Workshop Kit Back-to-Back,Education,Duplo,2015,10,0,Retired,4.39,7.7
 2000446.0,Building My SG,Exclusive,,2015,244,2,Retired,30.8,46.24
 2000447.0,Mini Milo,Education,,2016,31,0,Retired,,6.33
 2000448.0,Max and Mia,Education,,2016,9,2,Retired,,10.88
+2000451.0,The Panama Canal,Education,,2016,1184,1,Retired,219.99,321.42
 2000455.0,FIRST LEGO League Jr. Promotional Set,Education,FIRST LEGO League Jr,2019,18,0,Retired,,5.21
 2000456.0,Spike Prime Marketing Kit,Education,SPIKE Prime,2019,150,0,Retired,,10.77
 2000470.0,BricQ Motion Prime Personal Learning Kit,Education,BricQ,2021,78,0,Retail,10.8,
@@ -10111,8 +10608,12 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 4000036.0,LEGO Play Day Polybag,Exclusive,LEGO Internal,2019,39,5,Retired,,44.77
 4002014.0,LEGO HUB Birds,Exclusive,Employee Gift,2014,487,0,Retired,,241.32
 4002015.0,Borkum Riffgrund 1,Exclusive,Employee Gift,2015,559,0,Retired,,163.52
+4002016.0,50 Years on Track,Exclusive,Employee Gift,2016,1141,0,Retired,,189.0
 4002017.0,Nutcracker,Exclusive,Employee Gift,2017,732,0,Retired,,306.28
+4002018.0,40 Years LEGO Minifigure Employee Exclusive,Exclusive,Employee Gift,2018,1099,3,Retired,,142.33
+4002019.0,Christmas X-Wing,Exclusive,Employee Gift,2019,1038,3,Retired,,604.28
 4002020.0,Employee Christmas Gift - 40 Years of Hands-on Learning,Exclusive,Employee Gift,2020,919,0,Retired,,108.5
+4002021.0,The Temple of Celebrations,Exclusive,Employee Gift,2021,1320,11,Retired,,209.62
 4117463.0,Cyber Saucer ,Space,UFO,1997,114,0,Retired,19.35,136.99
 4186875.0,Platform and Mini-Figures,Trains,9V,2002,47,5,Retired,17.59,50.28
 4186876.0,Blue Passenger Wagon,Trains,9V,2002,192,0,Retired,21.99,184.25
@@ -10261,6 +10762,7 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5004941.0,Classic Minifigure Collection,Promotional,Toys R Us,2017,18,4,Retired,14.99,19.93
 5004941.0,Classic Minifigure Collection,Promotional,Toys R Us,2017,18,4,Retired,14.99,19.93
 5005156.0,Gingerbread Man,Seasonal,Christmas,2016,3,1,Retired,2.49,5.93
+5005217.0,Death Star Ultimate Kit,Star Wars,Value Packs,2016,4740,0,Retired,549.99,779.85
 5005230.0,Zane's Kendo Training Pod,Ninjago,Sons of Garmadon,2018,25,1,Retired,5.99,10.55
 5005231.0,Training Kit,Ninjago,Promotional,2018,24,0,Retired,,6.12
 5005233.0,Hamleys Royal Guard,Promotional,Minifigure,2018,5,1,Retired,6.15,7.44
@@ -10275,9 +10777,15 @@ stevilka,ime,tema,podtema,leto,st_kock,st_minifigur,dostopnost,msrp,vrednost
 5005255.0,Jurassic World Minifigure Collection,Jurassic World,Promotional,2018,18,3,Retired,7.03,18.22
 5005256.0,Marvel Super Heroes Minifigure Collection,Marvel Super Heroes,Promotional,2018,22,4,Retired,7.03,73.8
 5005257.0,NINJAGO Minifigure Collection,Ninjago,Promotional,2018,25,4,Retired,7.03,56.07
+5005345.0,Ultimate Vehicle Kit,The LEGO Batman Movie,Value Packs,2017,1014,0,Retired,99.99,146.43
+5005345.0,Ultimate Vehicle Kit,The LEGO Batman Movie,Value Packs,2017,1014,0,Retired,99.99,146.43
 5005358.0,Minifigure Factory,Promotional,LEGO Brand Stores,2018,86,1,Retired,,17.44
 5005359.0,Minifigure Collector Frame,Exclusive,Minifigure Frames,2018,55,1,Retired,8.79,22.84
 5005376.0,Star Wars Anniversary Pod,Star Wars,Promotional,2018,37,1,Retired,,22.0
+5005410.0,Ultimate Mech Kit,The LEGO Ninjago Movie,Value Packs,2017,1691,0,Retired,99.98,240.88
+5005410.0,Ultimate Mech Kit,The LEGO Ninjago Movie,Value Packs,2017,1691,0,Retired,99.98,240.88
+5005411.0, Jay Battle Kit,The LEGO Ninjago Movie,Value Packs,2017,1217,0,Retired,69.98,124.36
+5005411.0, Jay Battle Kit,The LEGO Ninjago Movie,Value Packs,2017,1217,0,Retired,69.98,124.36
 5005412.0,Nya Battle Kit,The LEGO Ninjago Movie,Value Packs,2017,835,0,Retired,54.98,103.26
 5005412.0,Nya Battle Kit,The LEGO Ninjago Movie,Value Packs,2017,835,0,Retired,54.98,103.26
 5005747.0,Black Card Display Stand,Star Wars,Promotional,2018,42,1,Retired,,222.94
