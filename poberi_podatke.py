@@ -13,7 +13,7 @@ def pripravi_imenik(ime_datoteke):
     if imenik:
         os.makedirs(imenik, exist_ok=True)
 
-
+# Del kode pridobljen: https://stackoverflow.com/questions/69780727/web-scraping-with-dopostback
 def shrani_spletno_stran(url, st_strani, ime_datoteke, vsili_prenos=False):
     '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
     try:
