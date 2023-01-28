@@ -1,6 +1,6 @@
 # Podatki o Lego setih
 
-Analiziral bom nekaj tisoč Lego setov in minifugr s strani [Brickeconomy](https://www.brickeconomy.com/sets) ter [Brickset](https://brickset.com/).
+Analiziral bom nekaj tisoč Lego setov in minifigur s strani [Brickeconomy](https://www.brickeconomy.com/sets) ter [Brickset](https://brickset.com/).
 
 Zajel bom naslednje podatke:
 - Številka in ime seta
