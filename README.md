@@ -18,5 +18,5 @@ Hipoteze:
 - Ali so starejše teme vedno dražje kot nove (cena/kocko)?
 - Katere temi in kateri seti so najdražji/kocko?
 - Povezava med ceno in številom minifigur
-- Ali lahko temo, v kateri nastopa minifigura, napovemo iz njenega imena
-- Kateri seti imajo največ ekskluzivnih minifigur
+- Ali lahko temo, v kateri nastopa minifigura, napovemo iz njenega imena?
+- Kateri seti imajo največ ekskluzivnih minifigur?
